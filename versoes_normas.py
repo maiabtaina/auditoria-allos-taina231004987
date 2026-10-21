@@ -1,0 +1,32 @@
+# -*- coding: utf-8 -*-
+# Versões das normas consultadas em https://cfc.org.br/tecnica/normas-brasileiras-de-contabilidade/nbc-ta-de-auditoria-independente/ (acesso em 20/10/2026)
+# Regra adotada: aplicar a versão em vigor para o exercício de 2025 (relatório do auditor real: 10/03/2026).
+VERS = {
+ "PT EC": ("NBC TA Estrutura Conceitual - Estrutura Conceitual para Trabalhos de Asseguração", "DOU 25/11/15", "vigente"),
+ "PT 200": ("NBC TA 200 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 210": ("NBC TA 210 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 220": ("NBC TA 220 (R3)", "DOU 09/12/21", "vigente"),
+ "PT 230": ("NBC TA 230 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 240": ("NBC TA 240 (R1)", "DOU 05/09/16", "R1 aplicada ao exercício de 2025. A lista do CFC já mostra a NBC TA 240 (R2), DOU 25/09/26, publicada depois do exercício e do relatório (10/03/2026); sua vigência não foi lida e ela não foi aplicada"),
+ "PT 250": ("NBC TA 250", "DOU 14/02/19", "vigente"),
+ "PT 260": ("NBC TA 260 (R2)", "DOU 04/07/16", "vigente"),
+ "PT 265": ("NBC TA 265", "Res. CFC 1.210/09", "vigente"),
+ "PT 300": ("NBC TA 300 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 315": ("NBC TA 315 (R2)", "DOU 02/09/21", "vigente"),
+ "PT 320": ("NBC TA 320 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 330": ("NBC TA 330 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 402": ("NBC TA 402", "Res. CFC 1.215/09", "vigente"),
+ "PT 450": ("NBC TA 450 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 500": ("NBC TA 500 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 501": ("NBC TA 501", "Res. CFC 1.218/09", "vigente"),
+ "PT 505": ("NBC TA 505", "Res. CFC 1.219/09", "vigente"),
+ "PT 510": ("NBC TA 510 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 520": ("NBC TA 520", "Res. CFC 1.221/09", "vigente"),
+ "PT 530": ("NBC TA 530", "Res. CFC 1.222/09", "vigente"),
+ "PT 540": ("NBC TA 540 (R2)", "DOU 23/10/19", "vigente"),
+ "PT 550": ("NBC TA 550", "Res. CFC 1.224/09", "vigente"),
+ "PT 560": ("NBC TA 560 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 570": ("NBC TA 570 (versão anterior à R1)", "R1: DOU 25/09/26", "A lista do CFC mostra a NBC TA 570 (R1), DOU 25/09/26, posterior ao exercício e ao relatório de 10/03/2026; foi aplicada a versão que antecedia a R1 (o texto dela não consta da lista consultada) - inferência a registrar"),
+ "PT 580": ("NBC TA 580 (R1)", "DOU 05/09/16", "vigente"),
+ "PT 600": ("NBC TA 600 (R2)", "DOU 06/12/23", "vigente"),
+}
