@@ -1,0 +1,1001 @@
+id_registro,id_shopping,participacao_pct,classe_ativo,origem,data_ativacao,vida_util_anos,valor_custo,depreciacao_acumulada,mais_valia_liquida,valor_contabil_liquido,depreciacao_exercicio_2025,status,documento_suporte,tipo_lancamento,usuario_lancamento,data_lancamento
+PPI-0000001,SHP-31,65.0,Instalações,Combinação de negócios,2011-11-26,20,7788.07,3106.31,19137.58,23819.34,389.4,Em operação,LAUDO-1507187,Automático,U010,2012-01-04
+PPI-0000002,SHP-08,65.0,Instalações,Aquisição/construção própria,2010-03-21,15,940.52,439.36,0.0,501.16,0.0,Em operação,NF-0675575,Automático,U045,2010-03-26
+PPI-0000003,SHP-34,50.0,Edificações,Combinação de negócios,2023-11-12,40,37751.64,1081.02,24249.08,60919.7,943.79,Em operação,LAUDO-4187471,Automático,U006,2023-11-16
+PPI-0000004,SHP-04,60.5,Instalações,Aquisição/construção própria,1996-06-18,15,3471.43,1805.0,0.0,1666.43,0.0,Em operação,NF-2937147,Manual,U012,1996-06-21
+PPI-0000005,SHP-15,70.0,Instalações,Adição 2025,2025-07-13,20,4240.34,53.42,0.0,4186.92,99.91,Em operação,NF-2796462,Automático,U039,2025-07-16
+PPI-0000006,SHP-43,75.0,Edificações,Aquisição/construção própria,2004-12-01,40,3782.07,1003.8,0.0,2778.27,94.55,Em operação,NF-6827596,Manual,U014,2004-12-03
+PPI-0000007,SHP-15,70.0,Benfeitorias e acabamentos,Combinação de negócios,1980-01-18,10,1442.97,712.46,4931.43,5661.94,0.0,Em operação,LAUDO-1538439,Automático,U035,1980-02-18
+PPI-0000008,SHP-15,70.0,Instalações,Combinação de negócios,1983-05-14,20,10204.23,4948.68,32366.97,37622.52,0.0,Em operação,LAUDO-7249088,Manual,U009,1983-05-30
+PPI-0000009,SHP-39,70.0,Edificações,Combinação de negócios,2021-08-26,50,10480.97,511.61,10988.7,20958.06,209.62,Em operação,LAUDO-1769764,Automático,U058,2021-09-27
+PPI-0000010,SHP-32,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2001-06-23,10,553.23,267.57,0.0,285.66,0.0,Em operação,NF-9006269,Manual,U014,2001-06-25
+PPI-0000011,SHP-39,70.0,Edificações,Combinação de negócios,2004-10-29,50,5974.96,1406.75,21492.01,26060.22,119.5,Em operação,LAUDO-1508460,Automático,U043,2004-11-01
+PPI-0000012,SHP-22,40.0,Edificações,Combinação de negócios,1998-11-03,50,5133.67,1534.79,15556.23,19155.11,102.67,Em operação,LAUDO-3703905,Manual,U014,1998-11-03
+PPI-0000013,SHP-31,65.0,Edificações,Combinação de negócios,1984-01-04,50,1084.54,456.06,892.03,1520.51,21.69,Em operação,LAUDO-8482294,Manual,U012,1984-01-09
+PPI-0000014,SHP-15,70.0,Instalações,Aquisição/construção própria,2024-07-01,15,307.81,16.32,0.0,291.49,20.52,Em operação,NF-9138379,Automático,U002,2024-07-02
+PPI-0000015,SHP-35,100.0,Benfeitorias e acabamentos,Aquisição/construção própria,2020-07-15,10,4452.45,1369.19,0.0,3083.26,445.24,Em operação,NF-8666306,Automático,U047,2020-07-15
+PPI-0000016,SHP-36,100.0,Instalações,Combinação de negócios,2007-03-11,20,779.79,383.15,2908.33,3304.97,38.99,Em operação,LAUDO-3791259,Automático,U003,2007-03-19
+PPI-0000017,SHP-15,70.0,Edificações,Aquisição/construção própria,2005-08-11,40,2697.4,684.86,0.0,2012.54,67.44,Em operação,NF-9964857,Automático,U001,2005-08-15
+PPI-0000018,SHP-29,30.0,Edificações,Combinação de negócios,2003-04-24,40,1704.43,535.45,4101.76,5270.74,42.61,Em operação,LAUDO-0924728,Automático,U013,2003-04-28
+PPI-0000019,SHP-12,70.0,Edificações,Combinação de negócios,2007-01-03,50,45512.61,9192.92,110051.97,146371.66,910.25,Em operação,LAUDO-0944329,Automático,U023,2007-01-04
+PPI-0000020,SHP-45,46.7,Edificações,Combinação de negócios,2021-08-29,40,3363.45,191.06,9665.23,12837.62,84.09,Em operação,LAUDO-1417249,Automático,U026,2021-08-31
+PPI-0000021,SHP-04,60.5,Instalações,Aquisição/construção própria,2006-05-04,20,530.68,275.18,0.0,255.5,26.53,Em operação,NF-4982590,Automático,U029,2006-05-08
+PPI-0000022,SHP-13,65.0,Edificações,Combinação de negócios,2003-02-08,40,2125.99,640.55,2827.4,4312.84,53.15,Em operação,LAUDO-7093621,Automático,U026,2003-02-10
+PPI-0000023,SHP-12,70.0,Edificações,Combinação de negócios,1993-03-09,50,1258.27,417.3,4600.01,5440.98,25.17,Em operação,LAUDO-4941195,Automático,U039,1993-03-15
+PPI-0000024,SHP-30,100.0,Instalações,Combinação de negócios,2017-12-28,20,9326.13,2017.81,28424.68,35733.0,466.31,Em operação,LAUDO-9425023,Automático,U017,2018-01-01
+PPI-0000025,SHP-09,70.0,Instalações,Combinação de negócios,2017-05-02,15,115.66,35.64,334.99,415.01,7.71,Em operação,LAUDO-9577777,Automático,U026,2017-05-04
+PPI-0000026,SHP-05,75.0,Benfeitorias e acabamentos,Combinação de negócios,1997-05-03,15,373.76,185.17,1155.01,1343.6,0.0,Em operação,LAUDO-7323071,Automático,U006,1997-05-05
+PPI-0000027,SHP-17,65.0,Edificações,Combinação de negócios,1999-10-30,50,1909.35,512.22,4114.82,5511.95,38.19,Em operação,LAUDO-3688303,Automático,U023,1999-11-01
+PPI-0000028,SHP-24,100.0,Edificações,Combinação de negócios,2015-02-28,50,3831.92,426.71,6194.11,9599.32,76.64,Em operação,LAUDO-1197688,Automático,U055,2015-03-16
+PPI-0000029,SHP-15,70.0,Edificações,Combinação de negócios,2014-02-23,50,224559.54,28704.11,320099.91,515955.34,4491.19,Em operação,LAUDO-3658954,Automático,U017,2014-02-26
+PPI-0000030,SHP-22,40.0,Equipamentos e sistemas,Aquisição/construção própria,1997-01-23,5,289.87,155.96,0.0,133.91,0.0,Em operação,NF-9853098,Automático,U035,1997-01-24
+PPI-0000031,SHP-01,90.0,Edificações,Aquisição/construção própria,2008-01-10,50,718.34,136.49,0.0,581.85,14.37,Em operação,NF-3767139,Automático,U041,2008-01-14
+PPI-0000032,SHP-32,50.0,Benfeitorias e acabamentos,Combinação de negócios,1994-10-20,10,3571.48,1727.5,6812.94,8656.92,0.0,Em operação,LAUDO-3804332,Automático,U029,1994-10-24
+PPI-0000033,SHP-35,100.0,Equipamentos e sistemas,Combinação de negócios,2018-10-26,5,27.1,13.11,93.43,107.42,0.0,Em operação,LAUDO-2558558,Automático,U055,2018-10-29
+PPI-0000034,SHP-24,100.0,Edificações,Combinação de negócios,2020-05-13,50,11884.92,653.54,12245.22,23476.6,237.7,Em operação,LAUDO-9223333,Automático,U030,2020-05-13
+PPI-0000035,SHP-07,50.0,Edificações,Combinação de negócios,2002-09-01,50,3423.0,916.65,12606.47,15112.82,68.46,Em operação,LAUDO-5909759,Automático,U036,2002-09-04
+PPI-0000036,SHP-43,75.0,Instalações,Combinação de negócios,2017-12-13,15,742.24,216.09,1851.86,2378.01,49.48,Em operação,LAUDO-0812953,Automático,U008,2017-12-18
+PPI-0000037,SHP-13,65.0,Instalações,Combinação de negócios,2011-06-13,15,11265.78,5664.17,20714.05,26315.66,751.05,Em operação,LAUDO-9678733,Automático,U044,2011-06-20
+PPI-0000038,SHP-17,65.0,Instalações,Aquisição/construção própria,2011-03-09,20,319.6,128.23,0.0,191.37,15.98,Em operação,NF-1630245,Manual,U007,2011-03-14
+PPI-0000039,SHP-43,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,1989-11-14,10,136.93,70.81,0.0,66.12,0.0,Em operação,NF-3885205,Automático,U024,1989-11-17
+PPI-0000040,SHP-29,30.0,Benfeitorias e acabamentos,Combinação de negócios,2021-11-22,10,236.87,50.09,715.77,902.55,23.69,Em operação,LAUDO-8025594,Automático,U047,2021-11-29
+PPI-0000041,SHP-33,100.0,Edificações,Aquisição/construção própria,1978-07-13,50,343.87,168.11,0.0,175.76,6.88,Em operação,NF-4095759,Automático,U017,1978-07-18
+PPI-0000042,SHP-13,65.0,Instalações,Combinação de negócios,2005-06-25,20,814.44,391.13,2189.88,2613.19,0.0,Em operação,LAUDO-3193376,Manual,U010,2005-06-29
+PPI-0000043,SHP-21,40.0,Edificações,Aquisição/construção própria,2024-06-15,40,23120.07,478.54,0.0,22641.53,578.0,Em operação,NF-7016083,Manual,U010,2024-06-18
+PPI-0000044,SHP-21,40.0,Instalações,Combinação de negócios,1977-11-20,15,1750.0,824.89,5714.3,6639.41,0.0,Em operação,LAUDO-3414689,Manual,U015,1977-11-25
+PPI-0000045,SHP-29,30.0,Instalações,Combinação de negócios,2005-05-05,20,4657.73,2464.96,4759.2,6951.97,0.0,Em operação,LAUDO-0029384,Automático,U037,2005-05-09
+PPI-0000046,SHP-09,70.0,Equipamentos e sistemas,Combinação de negócios,2013-04-21,5,651.28,345.25,1310.39,1616.42,0.0,Em operação,LAUDO-6325238,Automático,U046,2013-04-24
+PPI-0000047,SHP-29,30.0,Instalações,Combinação de negócios,2001-05-22,20,13628.62,6962.42,41901.15,48567.35,0.0,Em operação,LAUDO-4048866,Automático,U050,2001-05-25
+PPI-0000048,SHP-16,35.0,Instalações,Combinação de negócios,2023-05-01,15,992.71,86.3,3572.44,4478.85,66.18,Em operação,LAUDO-5227898,Automático,U019,2023-05-08
+PPI-0000049,SHP-36,100.0,Equipamentos e sistemas,Aquisição/construção própria,1993-01-10,5,1030.78,561.81,0.0,468.97,0.0,Em operação,NF-2299188,Manual,U003,1993-01-18
+PPI-0000050,SHP-15,70.0,Benfeitorias e acabamentos,Aquisição/construção própria,2009-01-23,10,152.04,77.28,0.0,74.76,0.0,Em operação,NF-3898061,Automático,U045,2009-01-23
+PPI-0000051,SHP-05,75.0,Edificações,Aquisição/construção própria,2015-08-31,50,1866.38,212.21,0.0,1654.17,37.33,Em operação,NF-3822826,Automático,U036,2015-09-04
+PPI-0000052,SHP-09,70.0,Instalações,Combinação de negócios,2005-03-17,20,535.18,267.62,1760.21,2027.77,0.0,Em operação,LAUDO-8517629,Automático,U012,2005-03-21
+PPI-0000053,SHP-15,70.0,Edificações,Combinação de negócios,2000-04-08,50,5293.69,1412.39,6057.36,9938.66,105.87,Em operação,LAUDO-5502659,Manual,U002,2000-04-12
+PPI-0000054,SHP-43,75.0,Instalações,Combinação de negócios,2015-01-26,20,8050.64,2216.35,9216.17,15050.46,402.53,Em operação,LAUDO-0799501,Automático,U033,2015-02-02
+PPI-0000055,SHP-38,75.0,Edificações,Combinação de negócios,2014-09-07,50,6508.27,751.45,4573.01,10329.83,130.17,Em operação,LAUDO-7148321,Automático,U037,2014-09-08
+PPI-0000056,SHP-34,50.0,Edificações,Aquisição/construção própria,2015-07-18,50,801.09,87.85,0.0,713.24,16.02,Em operação,NF-7151863,Automático,U005,2015-07-21
+PPI-0000057,SHP-20,46.7,Edificações,Combinação de negócios,2012-01-01,50,12634.94,2004.99,23023.96,33653.91,454.86,Em operação,LAUDO-4863610,Automático,U053,2012-01-02
+PPI-0000058,SHP-19,50.0,Edificações,Aquisição/construção própria,2000-10-03,50,5344.95,1473.39,0.0,3871.56,106.9,Em operação,NF-1698844,Automático,U016,2000-10-09
+PPI-0000059,SHP-18,100.0,Edificações,Combinação de negócios,1982-01-19,40,1888.23,915.1,1914.56,2887.69,0.0,Em operação,LAUDO-2123489,Automático,U046,1982-02-26
+PPI-0000060,SHP-32,50.0,Instalações,Combinação de negócios,1983-06-02,15,177.17,93.79,543.67,627.05,0.0,Em operação,LAUDO-8110822,Automático,U040,1983-06-06
+PPI-0000061,SHP-34,50.0,Instalações,Aquisição/construção própria,2012-07-03,15,4458.53,2010.41,0.0,2448.12,297.24,Em operação,NF-6509221,Automático,U007,2012-07-09
+PPI-0000062,SHP-39,70.0,Benfeitorias e acabamentos,Aquisição/construção própria,2006-08-06,10,592.71,283.74,0.0,308.97,0.0,Em operação,NF-1471101,Automático,U002,2006-08-11
+PPI-0000063,SHP-01,90.0,Equipamentos e sistemas,Combinação de negócios,2012-01-05,5,577.69,279.3,1721.15,2019.54,0.0,Em operação,LAUDO-4076360,Automático,U048,2012-01-05
+PPI-0000064,SHP-16,35.0,Equipamentos e sistemas,Aquisição/construção própria,2013-06-12,10,4752.11,2268.84,0.0,2483.27,0.0,Em operação,NF-4659702,Automático,U009,2013-06-17
+PPI-0000065,SHP-27,40.0,Equipamentos e sistemas,Combinação de negócios,2017-09-12,5,28444.72,13940.12,61506.78,76011.38,0.0,Em operação,LAUDO-2985390,Automático,U047,2017-09-15
+PPI-0000066,SHP-18,100.0,Instalações,Combinação de negócios,2012-08-26,20,10441.54,3627.2,19295.85,26110.19,522.08,Em operação,LAUDO-9295522,Automático,U036,2012-08-30
+PPI-0000067,SHP-44,60.5,Edificações,Combinação de negócios,1977-11-08,50,539.09,266.79,1677.0,1949.3,10.78,Em operação,LAUDO-3086075,Automático,U004,1977-11-10
+PPI-0000068,SHP-27,40.0,Edificações,Combinação de negócios,1981-11-16,50,3229.09,1466.23,9854.32,11617.18,64.58,Em operação,LAUDO-1041556,Manual,U014,1981-11-20
+PPI-0000069,SHP-33,100.0,Instalações,Aquisição/construção própria,2007-11-16,20,21027.79,10608.09,0.0,10419.7,1051.39,Em operação,NF-6304386,Automático,U045,2007-11-16
+PPI-0000070,SHP-22,40.0,Instalações,Combinação de negócios,2017-09-29,20,632.12,133.55,828.95,1327.52,31.61,Em operação,LAUDO-4723567,Automático,U005,2017-10-04
+PPI-0000071,SHP-11,90.0,Direito de uso,Aquisição/construção própria,2014-08-28,30,11158.39,2063.97,0.0,9094.42,371.95,Em operação,CTR-1759649,Automático,U048,2014-08-29
+PPI-0000072,SHP-02,30.0,Benfeitorias e acabamentos,Combinação de negócios,2011-05-20,25,874.93,282.47,748.58,1341.04,35.0,Em operação,LAUDO-3903389,Manual,U007,2011-06-08
+PPI-0000073,SHP-01,90.0,Instalações,Combinação de negócios,2006-10-22,15,33682.5,17963.89,22670.02,38388.63,0.0,Em operação,LAUDO-3219769,Automático,U050,2006-10-25
+PPI-0000074,SHP-32,50.0,Benfeitorias e acabamentos,Combinação de negócios,2014-10-07,15,108.23,46.08,302.25,364.4,7.22,Em operação,LAUDO-6047794,Automático,U033,2014-11-19
+PPI-0000075,SHP-18,100.0,Edificações,Aquisição/construção própria,2020-10-18,40,9915.59,685.33,0.0,9230.26,247.89,Em operação,NF-5148606,Automático,U023,2020-10-19
+PPI-0000076,SHP-29,30.0,Benfeitorias e acabamentos,Aquisição/construção própria,1993-08-08,10,5046.87,2627.82,0.0,2419.05,0.0,Em operação,NF-3079708,Automático,U015,1993-08-09
+PPI-0000077,SHP-07,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2018-01-31,25,579.63,95.83,0.0,483.8,23.19,Em operação,NF-7264393,Automático,U060,2018-02-05
+PPI-0000078,SHP-01,90.0,Instalações,Combinação de negócios,2019-04-01,15,224.65,50.37,171.95,346.23,14.98,Em operação,LAUDO-2076246,Automático,U025,2019-04-01
+PPI-0000079,SHP-14,90.0,Instalações,Aquisição/construção própria,1996-02-01,15,10368.59,5393.82,0.0,4974.77,0.0,Em operação,NF-3773701,Automático,U044,1996-02-01
+PPI-0000080,SHP-17,65.0,Instalações,Combinação de negócios,2002-07-13,15,262.17,127.42,359.58,494.33,0.0,Em operação,LAUDO-7149978,Manual,U013,2002-07-16
+PPI-0000081,SHP-35,100.0,Instalações,Aquisição/construção própria,2006-12-14,20,1092.1,554.59,0.0,537.51,54.6,Em operação,NF-7018616,Automático,U018,2007-01-15
+PPI-0000082,SHP-18,100.0,Edificações,Aquisição/construção própria,2007-05-24,40,4480.15,1039.32,0.0,3440.83,112.0,Em operação,NF-2818107,Manual,U010,2007-05-28
+PPI-0000083,SHP-20,46.7,Instalações,Adição 2025,2025-07-19,15,4643.31,67.96,0.0,4575.35,140.78,Em operação,NF-0268764,Automático,U010,2025-07-21
+PPI-0000084,SHP-02,30.0,Edificações,Aquisição/construção própria,2006-10-14,40,5459.39,1388.12,0.0,4071.27,136.48,Em operação,NF-9112594,Automático,U036,2006-10-30
+PPI-0000085,SHP-36,100.0,Instalações,Combinação de negócios,2008-07-12,20,606.98,290.82,1562.42,1878.58,30.35,Em operação,LAUDO-1816423,Automático,U021,2008-07-16
+PPI-0000086,SHP-14,90.0,Edificações,Combinação de negócios,2003-06-10,50,100422.18,22126.57,77338.74,155634.35,2008.44,Em operação,LAUDO-3741250,Automático,U057,2003-06-12
+PPI-0000087,SHP-34,50.0,Edificações,Combinação de negócios,2009-01-25,40,638.37,139.78,748.27,1246.86,15.96,Em operação,LAUDO-2723087,Automático,U028,2009-01-29
+PPI-0000088,SHP-27,40.0,Equipamentos e sistemas,Aquisição/construção própria,2009-04-23,5,102.82,55.23,0.0,47.59,0.0,Em operação,NF-2262712,Automático,U060,2009-04-24
+PPI-0000089,SHP-17,65.0,Edificações,Combinação de negócios,2011-01-26,50,1133.52,183.63,1609.51,2559.4,22.67,Em operação,LAUDO-8840318,Automático,U059,2011-02-09
+PPI-0000090,SHP-09,70.0,Edificações,Combinação de negócios,2007-04-06,50,11131.27,2241.59,34930.32,43820.0,222.63,Em operação,LAUDO-0979357,Manual,U005,2007-04-09
+PPI-0000091,SHP-09,70.0,Instalações,Combinação de negócios,2011-04-29,20,2060.16,840.05,4933.63,6153.74,103.01,Em operação,LAUDO-5638317,Automático,U024,2011-05-02
+PPI-0000092,SHP-11,90.0,Instalações,Aquisição/construção própria,1996-06-26,15,3120.45,1683.54,0.0,1436.91,0.0,Em operação,NF-3359110,Automático,U028,1996-07-02
+PPI-0000093,SHP-34,50.0,Edificações,Aquisição/construção própria,2021-05-14,40,1042.19,65.93,0.0,976.26,26.05,Em operação,NF-8623642,Manual,U014,2021-05-19
+PPI-0000094,SHP-15,70.0,Instalações,Combinação de negócios,2021-10-07,15,3708.7,556.56,4165.87,7318.01,247.25,Em operação,LAUDO-3721668,Automático,U046,2021-10-12
+PPI-0000095,SHP-22,40.0,Equipamentos e sistemas,Combinação de negócios,2010-12-23,10,2065.24,1071.93,7670.62,8663.93,0.0,Em operação,LAUDO-0854222,Automático,U041,2010-12-28
+PPI-0000096,SHP-15,70.0,Benfeitorias e acabamentos,Combinação de negócios,1987-06-14,25,4593.21,2347.41,15948.19,18193.99,0.0,Em operação,LAUDO-8741874,Automático,U048,1987-07-06
+PPI-0000097,SHP-27,40.0,Edificações,Combinação de negócios,2014-07-03,40,21035.62,3108.48,32348.76,50275.9,525.89,Em operação,LAUDO-2156716,Manual,U008,2014-07-07
+PPI-0000098,SHP-43,75.0,Benfeitorias e acabamentos,Combinação de negócios,2019-03-28,25,48.16,6.68,67.41,108.89,1.93,Em operação,LAUDO-7375605,Automático,U051,2019-04-01
+PPI-0000099,SHP-15,70.0,Obras em andamento,Aquisição/construção própria,2007-10-10,0,8916.62,0.0,0.0,8916.62,0.0,Em desenvolvimento,NF-6885122,Automático,U020,2007-10-15
+PPI-0000100,SHP-15,70.0,Edificações,Aquisição/construção própria,2011-10-13,40,578.65,109.5,0.0,469.15,14.47,Em operação,NF-6955368,Automático,U051,2011-10-14
+PPI-0000101,SHP-02,30.0,Edificações,Combinação de negócios,2002-04-19,50,2930.18,732.84,5738.0,7935.34,58.6,Em operação,LAUDO-5588183,Automático,U038,2002-04-23
+PPI-0000102,SHP-22,40.0,Equipamentos e sistemas,Aquisição/construção própria,2007-08-14,10,685.54,332.64,0.0,352.9,0.0,Em operação,NF-3481679,Automático,U012,2007-08-16
+PPI-0000103,SHP-22,40.0,Edificações,Combinação de negócios,2002-09-14,50,3442.98,846.08,11912.07,14508.97,68.86,Em operação,LAUDO-3047809,Manual,U002,2002-09-16
+PPI-0000104,SHP-21,40.0,Equipamentos e sistemas,Aquisição/construção própria,2020-08-22,5,85.11,44.66,0.0,40.45,0.0,Em operação,NF-0535929,Automático,U036,2020-08-27
+PPI-0000105,SHP-33,100.0,Equipamentos e sistemas,Aquisição/construção própria,2002-04-11,5,205.0,101.84,0.0,103.16,0.0,Em operação,NF-1272433,Automático,U037,2002-04-22
+PPI-0000106,SHP-43,75.0,Direito de uso,Aquisição/construção própria,2014-05-31,30,140.15,30.04,0.0,110.11,4.67,Em operação,CTR-3233261,Automático,U035,2014-06-02
+PPI-0000107,SHP-15,70.0,Edificações,Aquisição/construção própria,2016-01-18,40,48890.93,5994.4,0.0,42896.53,1222.27,Em operação,NF-0061786,Automático,U022,2016-01-19
+PPI-0000108,SHP-21,40.0,Edificações,Adição 2025,2025-06-28,50,44040.78,250.99,0.0,43789.79,451.27,Em operação,NF-7747876,Automático,U001,2025-07-16
+PPI-0000109,SHP-02,30.0,Benfeitorias e acabamentos,Combinação de negócios,1998-02-11,25,2176.6,1178.41,6594.29,7592.48,0.0,Em operação,LAUDO-4950696,Automático,U011,1998-02-19
+PPI-0000110,SHP-04,60.5,Benfeitorias e acabamentos,Combinação de negócios,2019-05-05,15,8267.13,1953.73,13576.8,19890.2,551.14,Em operação,LAUDO-2836606,Manual,U013,2019-05-06
+PPI-0000111,SHP-04,60.5,Edificações,Combinação de negócios,2005-09-02,40,7056.02,1913.91,5061.66,10203.77,176.4,Em operação,LAUDO-1640656,Automático,U014,2005-09-05
+PPI-0000112,SHP-15,70.0,Instalações,Aquisição/construção própria,2000-02-12,20,1756.18,900.96,0.0,855.22,0.0,Em operação,NF-8401952,Automático,U031,2000-02-16
+PPI-0000113,SHP-34,50.0,Edificações,Aquisição/construção própria,1982-09-25,50,2134.76,979.03,0.0,1155.73,42.7,Em operação,NF-4335751,Automático,U036,1982-09-29
+PPI-0000114,SHP-23,50.0,Edificações,Aquisição/construção própria,2013-07-13,50,7735.11,957.18,0.0,6777.93,154.7,Em operação,NF-0466610,Manual,U006,2013-07-15
+PPI-0000115,SHP-15,70.0,Benfeitorias e acabamentos,Combinação de negócios,1986-10-13,25,1901.02,887.07,4301.09,5315.04,0.0,Em operação,LAUDO-6193527,Automático,U011,1986-10-16
+PPI-0000116,SHP-15,70.0,Instalações,Combinação de negócios,2009-05-26,15,416832.9,213855.99,1172631.65,1375608.56,0.0,Em operação,LAUDO-5991921,Automático,U038,2009-06-01
+PPI-0000117,SHP-09,70.0,Equipamentos e sistemas,Aquisição/construção própria,2011-03-31,10,486.24,226.11,0.0,260.13,0.0,Em operação,NF-0095964,Automático,U010,2011-04-04
+PPI-0000118,SHP-13,65.0,Instalações,Aquisição/construção própria,2006-09-01,15,131327.96,67907.02,0.0,63420.94,0.0,Em operação,NF-7201542,Automático,U025,2006-10-09
+PPI-0000119,SHP-09,70.0,Edificações,Combinação de negócios,2002-11-30,50,10223.82,2660.28,8777.42,16340.96,204.48,Em operação,LAUDO-3533365,Automático,U052,2002-12-03
+PPI-0000120,SHP-43,75.0,Edificações,Combinação de negócios,2021-03-23,40,994.91,59.47,3064.79,4000.23,24.87,Em operação,LAUDO-3144084,Manual,U008,2021-04-06
+PPI-0000121,SHP-19,50.0,Benfeitorias e acabamentos,Combinação de negócios,2012-07-27,15,3807.18,1828.53,3818.99,5797.64,253.81,Em operação,LAUDO-3110511,Automático,U037,2012-07-31
+PPI-0000122,SHP-31,65.0,Edificações,Combinação de negócios,2020-11-17,50,11488.06,666.27,36302.81,47124.6,229.76,Em operação,LAUDO-9645625,Automático,U004,2020-11-23
+PPI-0000123,SHP-13,65.0,Edificações,Aquisição/construção própria,1998-05-19,50,27493.13,7587.59,0.0,19905.54,549.86,Em operação,NF-2028991,Automático,U034,1998-05-19
+PPI-0000124,SHP-32,50.0,Instalações,Aquisição/construção própria,1979-07-13,20,2034.62,950.43,0.0,1084.19,0.0,Em operação,NF-5334595,Automático,U044,1979-07-18
+PPI-0000125,SHP-14,90.0,Benfeitorias e acabamentos,Aquisição/construção própria,2004-10-22,25,5694.64,2491.91,0.0,3202.73,227.79,Em operação,NF-8970348,Automático,U022,2004-10-27
+PPI-0000126,SHP-09,70.0,Instalações,Combinação de negócios,2004-03-03,15,2728.08,1460.02,7854.85,9122.91,0.0,Em operação,LAUDO-8457063,Automático,U028,2004-03-03
+PPI-0000127,SHP-14,90.0,Instalações,Combinação de negócios,1997-12-24,15,4973.66,2701.75,16604.81,18876.72,0.0,Em operação,LAUDO-0776610,Automático,U018,1998-02-04
+PPI-0000128,SHP-10,60.5,Benfeitorias e acabamentos,Combinação de negócios,2012-01-24,25,1378.52,429.69,895.33,1844.16,55.14,Em operação,LAUDO-4136017,Automático,U047,2012-01-30
+PPI-0000129,SHP-15,70.0,Equipamentos e sistemas,Adição 2025,2025-10-07,5,5615.69,139.59,0.0,5476.1,264.63,Em operação,NF-7106173,Manual,U007,2025-10-10
+PPI-0000130,SHP-31,65.0,Instalações,Aquisição/construção própria,2005-03-07,15,201957.52,104574.64,0.0,97382.88,0.0,Em operação,NF-3354855,Manual,U007,2005-03-08
+PPI-0000131,SHP-09,70.0,Instalações,Aquisição/construção própria,2013-06-19,20,65.87,20.87,0.0,45.0,3.29,Em operação,NF-2745653,Automático,U008,2013-06-24
+PPI-0000132,SHP-22,40.0,Instalações,Aquisição/construção própria,2014-08-09,15,1157.35,434.93,0.0,722.42,77.16,Em operação,NF-7606201,Automático,U033,2014-08-14
+PPI-0000133,SHP-38,75.0,Equipamentos e sistemas,Combinação de negócios,2014-06-24,10,26001.85,13565.06,91163.7,103600.49,0.0,Em operação,LAUDO-4323578,Automático,U025,2014-06-24
+PPI-0000134,SHP-05,75.0,Edificações,Combinação de negócios,2015-06-12,50,880.43,92.31,2538.5,3326.62,17.61,Em operação,LAUDO-0382233,Automático,U057,2015-06-15
+PPI-0000135,SHP-32,50.0,Instalações,Aquisição/construção própria,2014-04-06,15,7066.52,2991.39,0.0,4075.13,471.1,Em operação,NF-6170892,Automático,U010,2014-04-09
+PPI-0000136,SHP-15,70.0,Benfeitorias e acabamentos,Combinação de negócios,2019-11-08,10,2573.38,826.72,3800.3,5546.96,257.34,Em operação,LAUDO-1492486,Manual,U003,2019-11-25
+PPI-0000137,SHP-25,50.0,Edificações,Combinação de negócios,1998-06-27,40,16568.56,5795.34,60943.54,71716.76,414.21,Em operação,LAUDO-7410625,Automático,U028,1998-07-02
+PPI-0000138,SHP-34,50.0,Obras em andamento,Aquisição/construção própria,2009-12-21,0,853.24,0.0,0.0,853.24,0.0,Em desenvolvimento,NF-3105123,Automático,U054,2009-12-21
+PPI-0000139,SHP-18,100.0,Equipamentos e sistemas,Combinação de negócios,1999-07-23,5,8.06,4.38,21.14,24.82,0.0,Em operação,LAUDO-6327376,Automático,U024,1999-07-23
+PPI-0000140,SHP-45,46.7,Edificações,Combinação de negócios,1979-12-05,50,11752.7,5694.54,19412.0,25470.16,235.05,Em operação,LAUDO-7198748,Automático,U003,1979-12-05
+PPI-0000141,SHP-05,75.0,Benfeitorias e acabamentos,Adição 2025,2025-06-03,10,188.12,5.51,0.0,182.61,10.93,Em operação,NF-1552066,Manual,U005,2025-06-06
+PPI-0000142,SHP-34,50.0,Edificações,Combinação de negócios,2018-05-03,50,177.73,14.5,113.25,276.48,3.55,Em operação,LAUDO-1889817,Manual,U003,2018-05-08
+PPI-0000143,SHP-35,100.0,Benfeitorias e acabamentos,Aquisição/construção própria,1989-05-30,15,510.08,246.34,0.0,263.74,0.0,Em operação,NF-1171246,Manual,U002,1989-06-01
+PPI-0000144,SHP-15,70.0,Instalações,Aquisição/construção própria,2009-12-25,15,387.9,181.51,0.0,206.39,0.0,Em operação,NF-3802863,Manual,U010,2009-12-28
+PPI-0000145,SHP-16,35.0,Instalações,Combinação de negócios,2016-04-08,15,86319.16,29214.07,171605.29,228710.38,5754.61,Em operação,LAUDO-3478831,Automático,U021,2016-04-13
+PPI-0000146,SHP-15,70.0,Benfeitorias e acabamentos,Combinação de negócios,2006-08-11,10,518.31,266.04,1377.39,1629.66,0.0,Em operação,LAUDO-2292454,Automático,U011,2006-08-11
+PPI-0000147,SHP-43,75.0,Instalações,Aquisição/construção própria,2017-01-24,20,930.26,221.4,0.0,708.86,46.51,Em operação,NF-1127729,Manual,U001,2017-01-26
+PPI-0000148,SHP-16,35.0,Edificações,Combinação de negócios,2019-02-20,40,39131.65,3625.7,120701.14,156207.09,978.29,Em operação,LAUDO-2568873,Automático,U022,2019-02-20
+PPI-0000149,SHP-16,35.0,Edificações,Aquisição/construção própria,2013-05-12,50,142579.27,20333.28,0.0,122245.99,2851.59,Em operação,NF-7773842,Automático,U035,2013-05-17
+PPI-0000150,SHP-40,50.0,Benfeitorias e acabamentos,Adição 2025,2025-03-28,15,898.57,24.66,0.0,873.91,45.79,Em operação,NF-1653309,Automático,U043,2025-03-28
+PPI-0000151,SHP-42,40.0,Instalações,Adição 2025,2025-08-06,20,7031.0,78.12,0.0,6952.88,142.55,Em operação,NF-3265859,Automático,U046,2025-08-08
+PPI-0000152,SHP-35,100.0,Edificações,Combinação de negócios,1977-04-04,40,19859.1,10650.94,40012.64,49220.8,0.0,Em operação,LAUDO-4151882,Manual,U007,1977-04-06
+PPI-0000153,SHP-42,40.0,Edificações,Aquisição/construção própria,2015-01-30,40,64115.2,8996.98,0.0,55118.22,1602.88,Em operação,NF-9979715,Automático,U049,2015-02-04
+PPI-0000154,SHP-39,70.0,Benfeitorias e acabamentos,Combinação de negócios,2012-02-02,15,946.57,449.08,3093.35,3590.84,63.1,Em operação,LAUDO-6734801,Automático,U037,2012-02-03
+PPI-0000155,SHP-20,46.7,Instalações,Aquisição/construção própria,1989-11-14,15,1786.73,892.08,0.0,894.65,0.0,Em operação,NF-0048352,Automático,U060,1989-11-20
+PPI-0000156,SHP-42,40.0,Edificações,Aquisição/construção própria,2019-11-21,50,155399.32,10119.19,0.0,145280.13,3107.99,Em operação,NF-2269837,Automático,U044,2019-11-26
+PPI-0000157,SHP-01,90.0,Instalações,Aquisição/construção própria,1994-11-08,20,2399.05,1192.88,0.0,1206.17,0.0,Em operação,NF-8270754,Automático,U037,1994-11-14
+PPI-0000158,SHP-09,70.0,Edificações,Aquisição/construção própria,2014-11-10,40,47156.48,7428.52,0.0,39727.96,1178.91,Em operação,NF-5430509,Automático,U034,2014-12-15
+PPI-0000159,SHP-10,60.5,Edificações,Aquisição/construção própria,2008-05-19,40,4195.22,952.18,0.0,3243.04,104.88,Em operação,NF-9528672,Automático,U011,2008-05-21
+PPI-0000160,SHP-05,75.0,Instalações,Aquisição/construção própria,2005-07-27,20,713.04,375.09,0.0,337.95,0.0,Em operação,NF-1548703,Automático,U021,2005-08-03
+PPI-0000161,SHP-31,65.0,Equipamentos e sistemas,Aquisição/construção própria,2001-11-03,5,468.29,252.71,0.0,215.58,0.0,Em operação,NF-7915589,Manual,U013,2001-11-05
+PPI-0000162,SHP-15,70.0,Edificações,Combinação de negócios,2010-01-28,40,25270.03,4919.97,80624.73,100974.79,631.75,Em operação,LAUDO-1023951,Automático,U021,2010-02-01
+PPI-0000163,SHP-31,65.0,Instalações,Aquisição/construção própria,1993-11-20,20,1669.02,877.98,0.0,791.04,0.0,Em operação,NF-4571273,Manual,U015,1993-11-23
+PPI-0000164,SHP-05,75.0,Instalações,Aquisição/construção própria,2000-11-23,15,506.63,276.15,0.0,230.48,0.0,Em operação,NF-3002831,Automático,U017,2000-12-19
+PPI-0000165,SHP-07,50.0,Benfeitorias e acabamentos,Combinação de negócios,2002-09-30,15,275.27,149.18,220.11,346.2,0.0,Em operação,LAUDO-5381181,Manual,U014,2002-10-07
+PPI-0000166,SHP-29,30.0,Edificações,Combinação de negócios,1994-05-21,40,217.59,92.29,676.16,801.46,5.44,Em operação,LAUDO-7630475,Automático,U039,1994-05-26
+PPI-0000167,SHP-12,70.0,Benfeitorias e acabamentos,Aquisição/construção própria,2010-12-23,10,10734.04,5605.12,0.0,5128.92,0.0,Em operação,NF-8216976,Manual,U003,2011-01-24
+PPI-0000168,SHP-10,60.5,Edificações,Aquisição/construção própria,2019-12-02,40,261630.86,19604.03,0.0,242026.83,6540.77,Em operação,NF-6696290,Manual,U009,2019-12-20
+PPI-0000169,SHP-42,40.0,Benfeitorias e acabamentos,Combinação de negócios,2007-01-10,15,3408.99,1722.87,7520.2,9206.32,0.0,Em operação,LAUDO-6195167,Automático,U054,2007-01-12
+PPI-0000170,SHP-20,46.7,Edificações,Adição 2025,2025-02-26,50,40954.38,357.42,0.0,40596.96,693.42,Em operação,NF-9789799,Manual,U001,2025-03-03
+PPI-0000171,SHP-01,90.0,Instalações,Combinação de negócios,1996-10-30,15,4996.47,2680.23,7311.83,9628.07,0.0,Em operação,LAUDO-0752081,Manual,U001,1996-12-02
+PPI-0000172,SHP-13,65.0,Edificações,Aquisição/construção própria,2023-01-24,40,1043.5,38.55,0.0,1004.95,26.09,Em operação,NF-8729946,Automático,U040,2023-01-24
+PPI-0000173,SHP-09,70.0,Equipamentos e sistemas,Aquisição/construção própria,2003-04-10,10,4528.5,2429.85,0.0,2098.65,0.0,Em operação,NF-1313767,Automático,U047,2003-05-12
+PPI-0000174,SHP-22,40.0,Instalações,Aquisição/construção própria,2008-04-22,15,515.62,261.06,0.0,254.56,0.0,Em operação,NF-8792141,Automático,U007,2008-04-23
+PPI-0000175,SHP-04,60.5,Edificações,Combinação de negócios,2023-11-18,40,6804.7,201.63,16581.53,23184.6,170.12,Em operação,LAUDO-5704017,Automático,U051,2023-11-23
+PPI-0000176,SHP-43,75.0,Edificações,Aquisição/construção própria,1992-04-16,40,475.29,229.21,0.0,246.08,11.88,Em operação,NF-5436760,Automático,U001,1992-04-16
+PPI-0000177,SHP-18,100.0,Equipamentos e sistemas,Aquisição/construção própria,2005-09-17,10,1203.45,575.14,0.0,628.31,0.0,Em operação,NF-2787764,Automático,U033,2005-09-20
+PPI-0000178,SHP-32,50.0,Instalações,Aquisição/construção própria,2008-10-30,15,693.07,362.53,0.0,330.54,0.0,Em operação,NF-3156349,Automático,U046,2008-12-09
+PPI-0000179,SHP-05,75.0,Edificações,Combinação de negócios,2008-01-07,50,760.37,148.59,1753.57,2365.35,15.21,Em operação,LAUDO-5982297,Manual,U012,2008-01-09
+PPI-0000180,SHP-27,40.0,Edificações,Combinação de negócios,2014-10-11,40,23226.3,3654.91,78066.29,97637.68,580.66,Em operação,LAUDO-6465875,Automático,U039,2014-10-16
+PPI-0000181,SHP-14,90.0,Benfeitorias e acabamentos,Aquisição/construção própria,1976-02-08,10,51.05,26.72,0.0,24.33,0.0,Em operação,NF-3020939,Automático,U051,1976-02-09
+PPI-0000182,SHP-17,65.0,Edificações,Aquisição/construção própria,2012-01-28,50,578.26,81.55,0.0,496.71,11.57,Em operação,NF-4557231,Automático,U045,2012-02-02
+PPI-0000183,SHP-22,40.0,Instalações,Combinação de negócios,2009-09-21,20,27764.48,12302.4,66084.91,81546.99,1388.22,Em operação,LAUDO-6616112,Automático,U046,2009-09-21
+PPI-0000184,SHP-04,60.5,Benfeitorias e acabamentos,Combinação de negócios,2015-04-19,25,4994.44,1067.34,9592.53,13519.63,199.78,Em operação,LAUDO-4001111,Automático,U053,2015-04-20
+PPI-0000185,SHP-22,40.0,Instalações,Aquisição/construção própria,2022-06-14,20,299.36,26.77,0.0,272.59,14.97,Em operação,NF-1282853,Automático,U012,2022-06-15
+PPI-0000186,SHP-08,65.0,Edificações,Combinação de negócios,2017-10-25,40,12068.15,1363.63,25834.4,36538.92,301.7,Em operação,LAUDO-8513164,Automático,U016,2017-11-27
+PPI-0000187,SHP-31,65.0,Instalações,Combinação de negócios,2004-09-25,15,1519.08,825.0,2647.37,3341.45,0.0,Em operação,LAUDO-6719948,Automático,U042,2004-09-30
+PPI-0000188,SHP-34,50.0,Instalações,Combinação de negócios,1975-10-12,20,1322.66,668.87,2847.85,3501.64,0.0,Em operação,LAUDO-8083967,Automático,U013,1975-10-14
+PPI-0000189,SHP-15,70.0,Instalações,Aquisição/construção própria,1987-09-13,15,701.55,333.63,0.0,367.92,0.0,Em operação,NF-8253836,Automático,U032,1987-09-15
+PPI-0000190,SHP-06,100.0,Terreno,Aquisição/construção própria,2018-10-22,0,3349.73,0.0,0.0,3349.73,0.0,Em operação,ESC-3967100,Automático,U052,2018-11-28
+PPI-0000191,SHP-02,30.0,Edificações,Combinação de negócios,1985-01-14,50,1772.29,720.68,5408.11,6459.72,35.45,Em operação,LAUDO-2107109,Manual,U008,1985-01-14
+PPI-0000192,SHP-06,100.0,Edificações,Combinação de negócios,2009-04-30,40,17764.17,4174.68,39113.54,52703.03,444.1,Em operação,LAUDO-8327684,Manual,U006,2009-05-04
+PPI-0000193,SHP-02,30.0,Equipamentos e sistemas,Combinação de negócios,2024-05-02,10,1025.89,97.51,3390.45,4318.83,102.59,Em operação,LAUDO-2939863,Automático,U037,2024-06-17
+PPI-0000194,SHP-34,50.0,Instalações,Combinação de negócios,2016-04-26,15,46547.36,15313.56,40826.11,72059.91,3103.16,Em operação,LAUDO-2325477,Manual,U009,2016-05-02
+PPI-0000195,SHP-34,50.0,Edificações,Aquisição/construção própria,1990-10-15,40,660.54,312.46,0.0,348.08,16.51,Em operação,NF-8486380,Automático,U039,1990-10-16
+PPI-0000196,SHP-25,50.0,Edificações,Aquisição/construção própria,2001-11-09,40,8549.29,2618.65,0.0,5930.64,213.73,Em operação,NF-5820989,Automático,U057,2001-11-12
+PPI-0000197,SHP-04,60.5,Instalações,Adição 2025,2025-05-11,20,5278.67,94.87,0.0,5183.8,169.93,Em operação,NF-2785126,Manual,U006,2025-06-19
+PPI-0000198,SHP-20,46.7,Benfeitorias e acabamentos,Combinação de negócios,1975-01-27,10,1583.01,780.92,3920.46,4722.55,0.0,Em operação,LAUDO-5520882,Automático,U047,1975-01-31
+PPI-0000199,SHP-15,70.0,Benfeitorias e acabamentos,Aquisição/construção própria,2017-05-29,10,5037.61,2282.38,0.0,2755.23,503.76,Em operação,NF-9002786,Manual,U002,2017-05-31
+PPI-0000200,SHP-08,65.0,Benfeitorias e acabamentos,Aquisição/construção própria,2021-09-06,15,1695.77,245.42,0.0,1450.35,113.05,Em operação,NF-5171606,Manual,U009,2021-09-10
+PPI-0000201,SHP-44,60.5,Benfeitorias e acabamentos,Combinação de negócios,2009-11-30,25,1139.18,409.56,1336.18,2065.8,45.57,Em operação,LAUDO-7481403,Automático,U045,2009-12-25
+PPI-0000202,SHP-20,46.7,Edificações,Aquisição/construção própria,2003-08-16,50,4314.38,950.03,0.0,3364.35,86.29,Em operação,NF-3228104,Automático,U016,2003-08-21
+PPI-0000203,SHP-13,65.0,Edificações,Aquisição/construção própria,2009-10-17,50,2660.23,481.83,0.0,2178.4,53.2,Em operação,NF-5974515,Automático,U049,2009-10-20
+PPI-0000204,SHP-13,65.0,Instalações,Aquisição/construção própria,1995-12-24,15,4601.72,2286.75,0.0,2314.97,0.0,Em operação,NF-1525984,Automático,U006,1995-12-29
+PPI-0000205,SHP-32,50.0,Edificações,Combinação de negócios,1975-03-14,40,157181.9,84212.27,378379.58,451349.21,0.0,Em operação,LAUDO-0039210,Automático,U032,1975-03-18
+PPI-0000206,SHP-13,65.0,Edificações,Combinação de negócios,2007-03-02,40,567.0,135.13,695.75,1127.62,14.18,Em operação,LAUDO-5639678,Automático,U049,2007-03-16
+PPI-0000207,SHP-02,30.0,Direito de uso,Aquisição/construção própria,2006-11-28,10,4.83,2.24,0.0,2.59,0.0,Em operação,CTR-3627768,Automático,U056,2006-12-04
+PPI-0000208,SHP-08,65.0,Edificações,Combinação de negócios,2018-10-31,40,11080.99,1023.31,36876.99,46934.67,277.02,Em operação,LAUDO-8331251,Automático,U035,2018-12-13
+PPI-0000209,SHP-13,65.0,Benfeitorias e acabamentos,Combinação de negócios,2011-11-05,10,3984.6,1923.92,14713.8,16774.48,0.0,Em operação,LAUDO-6729339,Automático,U041,2011-11-07
+PPI-0000210,SHP-04,60.5,Instalações,Combinação de negócios,2009-12-12,15,6133.38,2864.3,4526.36,7795.44,0.0,Em operação,LAUDO-8901255,Automático,U023,2009-12-17
+PPI-0000211,SHP-22,40.0,Edificações,Combinação de negócios,2009-06-07,50,11995.01,1969.91,39124.49,49149.59,239.9,Em operação,LAUDO-7007042,Automático,U051,2009-06-09
+PPI-0000212,SHP-34,50.0,Edificações,Aquisição/construção própria,2013-08-20,50,1889.06,258.79,0.0,1630.27,37.78,Em operação,NF-3158815,Automático,U014,2013-08-22
+PPI-0000213,SHP-44,60.5,Edificações,Aquisição/construção própria,2013-01-20,50,1690.89,234.15,0.0,1456.74,33.82,Em operação,NF-2038126,Automático,U019,2013-02-26
+PPI-0000214,SHP-10,60.5,Benfeitorias e acabamentos,Combinação de negócios,2007-04-07,10,8153.06,3824.9,23887.55,28215.71,0.0,Em operação,LAUDO-1099607,Manual,U007,2007-04-10
+PPI-0000215,SHP-42,40.0,Edificações,Combinação de negócios,2018-11-03,50,438.15,35.39,457.8,860.56,8.76,Em operação,LAUDO-0768391,Automático,U030,2018-11-05
+PPI-0000216,SHP-11,90.0,Instalações,Aquisição/construção própria,2010-05-15,20,149706.6,63357.08,0.0,86349.52,7485.33,Em operação,NF-4141776,Automático,U025,2010-05-18
+PPI-0000217,SHP-13,65.0,Edificações,Combinação de negócios,2002-05-31,40,347905.42,114259.69,1262213.11,1495858.84,8697.64,Em operação,LAUDO-0036837,Automático,U027,2002-05-31
+PPI-0000218,SHP-21,40.0,Benfeitorias e acabamentos,Aquisição/construção própria,1978-09-18,10,8586.63,4048.46,0.0,4538.17,0.0,Em operação,NF-7090474,Automático,U043,1978-10-16
+PPI-0000219,SHP-26,100.0,Instalações,Combinação de negócios,1991-06-16,20,1428.54,706.58,4997.62,5719.58,0.0,Em operação,LAUDO-1289915,Automático,U044,1991-07-12
+PPI-0000220,SHP-15,70.0,Instalações,Combinação de negócios,2019-04-28,15,9546.51,2376.54,32968.19,40138.16,636.43,Em operação,LAUDO-8195378,Automático,U001,2019-04-30
+PPI-0000221,SHP-21,40.0,Instalações,Adição 2025,2025-09-27,20,3266.75,23.23,0.0,3243.52,42.96,Em operação,NF-1650572,Automático,U041,2025-10-30
+PPI-0000222,SHP-24,100.0,Edificações,Combinação de negócios,2017-09-07,40,2600.07,271.64,1793.85,4122.28,65.0,Em operação,LAUDO-1004973,Manual,U007,2017-09-11
+PPI-0000223,SHP-29,30.0,Edificações,Combinação de negócios,1993-08-29,40,3554.49,1648.84,4322.02,6227.67,88.86,Em operação,LAUDO-6046906,Automático,U056,1993-09-01
+PPI-0000224,SHP-11,90.0,Benfeitorias e acabamentos,Aquisição/construção própria,2013-06-26,10,89.05,44.7,0.0,44.35,0.0,Em operação,NF-5491361,Automático,U005,2013-07-23
+PPI-0000225,SHP-17,65.0,Instalações,Combinação de negócios,2013-01-23,20,1772.66,590.52,6211.84,7393.98,88.63,Em operação,LAUDO-9495854,Automático,U020,2013-01-25
+PPI-0000226,SHP-15,70.0,Benfeitorias e acabamentos,Combinação de negócios,2019-12-06,15,110.68,23.43,239.91,327.16,7.38,Em operação,LAUDO-8944485,Automático,U037,2019-12-09
+PPI-0000227,SHP-01,90.0,Equipamentos e sistemas,Aquisição/construção própria,1999-02-28,5,131.02,68.13,0.0,62.89,0.0,Em operação,NF-7133311,Automático,U022,1999-03-04
+PPI-0000228,SHP-13,65.0,Edificações,Aquisição/construção própria,1997-06-30,50,1516.94,433.73,0.0,1083.21,30.34,Em operação,NF-3538745,Automático,U040,1997-07-02
+PPI-0000229,SHP-30,100.0,Instalações,Combinação de negócios,2012-02-01,15,487527.92,239046.0,1199922.94,1448404.86,32501.86,Em operação,LAUDO-6082259,Automático,U051,2012-02-13
+PPI-0000230,SHP-39,70.0,Instalações,Combinação de negócios,1978-08-29,15,433.77,224.89,1270.1,1478.98,0.0,Em operação,LAUDO-8963317,Automático,U045,1978-09-04
+PPI-0000231,SHP-41,100.0,Benfeitorias e acabamentos,Aquisição/construção própria,1998-05-25,15,57.32,30.37,0.0,26.95,0.0,Em operação,NF-2776072,Automático,U011,1998-05-28
+PPI-0000232,SHP-33,100.0,Benfeitorias e acabamentos,Combinação de negócios,2004-03-11,25,74.81,34.65,158.27,198.43,2.99,Em operação,LAUDO-8434581,Automático,U001,2004-03-15
+PPI-0000233,SHP-42,40.0,Edificações,Aquisição/construção própria,2012-11-24,50,13964.53,1808.57,0.0,12155.96,279.29,Em operação,NF-2035563,Automático,U026,2012-11-28
+PPI-0000234,SHP-03,50.0,Edificações,Combinação de negócios,2007-05-31,40,7962.02,1951.57,9506.04,15516.49,199.05,Em operação,LAUDO-6882156,Automático,U055,2007-06-01
+PPI-0000235,SHP-42,40.0,Instalações,Aquisição/construção própria,1999-07-09,20,2272.54,1099.19,0.0,1173.35,0.0,Em operação,NF-0160773,Automático,U043,1999-07-14
+PPI-0000236,SHP-43,75.0,Instalações,Combinação de negócios,2004-08-11,15,696.46,365.83,1372.77,1703.4,0.0,Em operação,LAUDO-8749387,Automático,U050,2004-08-11
+PPI-0000237,SHP-15,70.0,Instalações,Combinação de negócios,1995-08-02,15,4871.52,2496.98,10645.63,13020.17,0.0,Em operação,LAUDO-9690782,Automático,U002,1995-08-04
+PPI-0000238,SHP-27,40.0,Equipamentos e sistemas,Combinação de negócios,2005-02-27,5,12790.45,6976.5,11295.93,17109.88,0.0,Em operação,LAUDO-6671542,Automático,U016,2005-02-28
+PPI-0000239,SHP-34,50.0,Instalações,Combinação de negócios,2020-07-24,15,7713.94,1589.77,8114.23,14238.4,514.26,Em operação,LAUDO-4177561,Automático,U051,2020-07-27
+PPI-0000240,SHP-02,30.0,Edificações,Combinação de negócios,2015-08-02,50,1271.37,129.73,2777.21,3918.85,25.43,Em operação,LAUDO-5623115,Automático,U055,2015-08-03
+PPI-0000241,SHP-43,75.0,Instalações,Aquisição/construção própria,1996-01-27,15,283.13,150.83,0.0,132.3,0.0,Em operação,NF-9472802,Automático,U014,1996-01-30
+PPI-0000242,SHP-01,90.0,Equipamentos e sistemas,Adição 2025,2025-11-27,5,281.39,2.36,0.0,279.03,5.4,Em operação,NF-7851931,Manual,U001,2025-12-01
+PPI-0000243,SHP-15,70.0,Benfeitorias e acabamentos,Combinação de negócios,2019-10-12,10,467.77,146.64,975.58,1296.71,46.78,Em operação,LAUDO-1538217,Automático,U058,2019-10-14
+PPI-0000244,SHP-15,70.0,Edificações,Combinação de negócios,2012-12-12,40,278.08,50.95,796.32,1023.45,6.95,Em operação,LAUDO-6242679,Manual,U010,2012-12-17
+PPI-0000245,SHP-42,40.0,Instalações,Aquisição/construção própria,2017-12-20,20,9474.31,2032.22,0.0,7442.09,473.72,Em operação,NF-3279607,Automático,U008,2017-12-22
+PPI-0000246,SHP-02,30.0,Benfeitorias e acabamentos,Aquisição/construção própria,2008-01-05,15,460.18,233.06,0.0,227.12,0.0,Em operação,NF-5536725,Automático,U032,2008-01-07
+PPI-0000247,SHP-36,100.0,Benfeitorias e acabamentos,Combinação de negócios,2012-07-28,15,183.59,80.46,447.97,551.1,12.24,Em operação,LAUDO-6995318,Automático,U007,2012-07-30
+PPI-0000248,SHP-21,40.0,Benfeitorias e acabamentos,Aquisição/construção própria,2017-03-22,15,628.23,198.13,0.0,430.1,41.88,Em operação,NF-0323149,Automático,U032,2017-03-24
+PPI-0000249,SHP-10,60.5,Edificações,Combinação de negócios,2002-04-07,40,961.59,301.71,2119.32,2779.2,24.04,Em operação,LAUDO-8751159,Automático,U039,2002-04-11
+PPI-0000250,SHP-34,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2015-03-27,10,176.0,95.1,0.0,80.9,0.0,Em operação,NF-6567883,Automático,U039,2015-03-30
+PPI-0000251,SHP-35,100.0,Edificações,Combinação de negócios,2006-05-19,40,25483.01,6336.36,43852.1,62998.75,637.08,Em operação,LAUDO-3505949,Automático,U033,2006-05-24
+PPI-0000252,SHP-38,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2015-03-18,10,77.09,36.51,0.0,40.58,0.0,Em operação,NF-2726606,Automático,U023,2015-03-18
+PPI-0000253,SHP-34,50.0,Instalações,Combinação de negócios,2023-09-19,15,2862.43,220.57,6994.38,9636.24,190.83,Em operação,LAUDO-9383445,Automático,U044,2023-09-19
+PPI-0000254,SHP-34,50.0,Edificações,Combinação de negócios,2012-11-22,50,5297.9,786.28,10886.18,15397.8,105.96,Em operação,LAUDO-9998535,Automático,U015,2012-12-13
+PPI-0000255,SHP-21,40.0,Benfeitorias e acabamentos,Combinação de negócios,2008-04-30,15,1162.72,551.16,1818.91,2430.47,0.0,Em operação,LAUDO-9759115,Automático,U028,2008-04-30
+PPI-0000256,SHP-16,35.0,Benfeitorias e acabamentos,Aquisição/construção própria,2005-12-28,25,10010.19,4051.07,0.0,5959.12,400.41,Em operação,NF-9319581,Automático,U042,2006-02-03
+PPI-0000257,SHP-40,50.0,Edificações,Combinação de negócios,2014-01-24,50,986.59,125.28,959.41,1820.72,19.73,Em operação,LAUDO-2373614,Automático,U015,2014-01-27
+PPI-0000258,SHP-27,40.0,Equipamentos e sistemas,Aquisição/construção própria,2012-10-04,10,492.92,249.17,0.0,243.75,0.0,Em operação,NF-6673830,Automático,U001,2012-10-05
+PPI-0000259,SHP-35,100.0,Obras em andamento,Aquisição/construção própria,2000-05-20,0,938.43,0.0,0.0,938.43,0.0,Em desenvolvimento,NF-0404106,Automático,U006,2000-05-25
+PPI-0000260,SHP-35,100.0,Obras em andamento,Aquisição/construção própria,1985-10-09,0,61.92,0.0,0.0,61.92,0.0,Em desenvolvimento,NF-6845504,Automático,U060,1985-10-14
+PPI-0000261,SHP-09,70.0,Edificações,Combinação de negócios,2016-06-20,40,543.35,65.16,1035.66,1513.85,13.58,Em operação,LAUDO-2083531,Automático,U016,2016-06-21
+PPI-0000262,SHP-43,75.0,Edificações,Combinação de negócios,1988-11-18,50,11918.35,4341.4,35850.4,43427.35,238.37,Em operação,LAUDO-8973755,Automático,U016,1988-11-23
+PPI-0000263,SHP-09,70.0,Edificações,Aquisição/construção própria,1981-06-20,40,1447.05,770.58,0.0,676.47,0.0,Em operação,NF-0008059,Automático,U034,1981-06-23
+PPI-0000264,SHP-08,65.0,Benfeitorias e acabamentos,Combinação de negócios,1998-03-17,10,1735.18,880.97,3992.65,4846.86,0.0,Em operação,LAUDO-1283289,Automático,U032,1998-04-29
+PPI-0000265,SHP-40,50.0,Benfeitorias e acabamentos,Combinação de negócios,1992-08-21,10,28448.47,15506.07,80571.28,93513.68,0.0,Em operação,LAUDO-6802687,Automático,U012,1992-08-26
+PPI-0000266,SHP-15,70.0,Instalações,Aquisição/construção própria,2007-06-03,15,8514.3,4570.98,0.0,3943.32,0.0,Em operação,NF-2613915,Automático,U013,2007-06-04
+PPI-0000267,SHP-39,70.0,Edificações,Adição 2025,2025-11-22,40,1778.75,2.36,0.0,1776.39,4.87,Em operação,NF-1635415,Automático,U053,2025-11-25
+PPI-0000268,SHP-22,40.0,Edificações,Aquisição/construção própria,2010-11-17,40,8015.9,1605.67,0.0,6410.23,200.4,Em operação,NF-1260089,Automático,U007,2010-11-22
+PPI-0000269,SHP-05,75.0,Instalações,Combinação de negócios,2002-08-01,20,88.16,45.57,319.75,362.34,0.0,Em operação,LAUDO-6082970,Automático,U011,2002-09-09
+PPI-0000270,SHP-26,100.0,Instalações,Combinação de negócios,1997-09-23,20,10378.3,5325.89,38229.5,43281.91,0.0,Em operação,LAUDO-0953709,Automático,U049,1997-09-24
+PPI-0000271,SHP-35,100.0,Edificações,Adição 2025,2025-01-09,40,1550.92,21.28,0.0,1529.64,37.92,Em operação,NF-3633934,Automático,U053,2025-01-13
+PPI-0000272,SHP-10,60.5,Instalações,Combinação de negócios,2003-10-30,15,2020.51,1001.26,5295.72,6314.97,0.0,Em operação,LAUDO-4395140,Manual,U011,2003-11-03
+PPI-0000273,SHP-13,65.0,Edificações,Aquisição/construção própria,1982-02-05,40,4556.94,2469.03,0.0,2087.91,0.0,Em operação,NF-7264095,Automático,U018,1982-02-05
+PPI-0000274,SHP-13,65.0,Benfeitorias e acabamentos,Aquisição/construção própria,2010-06-20,10,849.34,463.18,0.0,386.16,0.0,Em operação,NF-3413255,Automático,U012,2010-07-26
+PPI-0000275,SHP-17,65.0,Equipamentos e sistemas,Combinação de negócios,1997-03-09,10,1773.85,897.81,4852.4,5728.44,0.0,Em operação,LAUDO-2875753,Automático,U055,1997-03-10
+PPI-0000276,SHP-42,40.0,Benfeitorias e acabamentos,Aquisição/construção própria,2008-06-08,10,19899.11,9460.53,0.0,10438.58,0.0,Em operação,NF-6826044,Automático,U015,2008-06-10
+PPI-0000277,SHP-08,65.0,Benfeitorias e acabamentos,Combinação de negócios,2018-08-03,15,3833.43,1048.01,2558.03,5343.45,255.56,Em operação,LAUDO-4130765,Automático,U004,2018-08-06
+PPI-0000278,SHP-15,70.0,Edificações,Combinação de negócios,2010-06-05,50,19843.01,3227.68,31699.97,48315.3,396.86,Em operação,LAUDO-8898307,Automático,U032,2010-06-08
+PPI-0000279,SHP-35,100.0,Instalações,Aquisição/construção própria,1983-03-14,15,664.02,353.4,0.0,310.62,0.0,Em operação,NF-0642364,Automático,U034,1983-03-21
+PPI-0000280,SHP-07,50.0,Instalações,Aquisição/construção própria,2023-02-19,15,29826.75,3254.77,0.0,26571.98,1988.45,Em operação,NF-0853663,Automático,U037,2023-02-21
+PPI-0000281,SHP-20,46.7,Edificações,Combinação de negócios,1986-07-28,40,9906.25,4671.74,25130.92,30365.43,247.66,Em operação,LAUDO-5590705,Automático,U013,1986-08-04
+PPI-0000282,SHP-13,65.0,Equipamentos e sistemas,Combinação de negócios,2017-07-18,10,61.47,28.85,221.53,254.15,6.15,Em operação,LAUDO-5115773,Automático,U032,2017-07-20
+PPI-0000283,SHP-31,65.0,Instalações,Aquisição/construção própria,2012-10-20,20,5141.73,1919.05,0.0,3222.68,257.09,Em operação,NF-4856513,Automático,U039,2012-10-24
+PPI-0000284,SHP-12,70.0,Edificações,Adição 2025,2025-05-21,40,10251.72,78.27,0.0,10173.45,157.99,Em operação,NF-7136285,Automático,U045,2025-05-26
+PPI-0000285,SHP-35,100.0,Equipamentos e sistemas,Aquisição/construção própria,2012-10-06,10,2708.9,1447.97,0.0,1260.93,0.0,Em operação,NF-4405332,Automático,U013,2012-10-11
+PPI-0000286,SHP-42,40.0,Instalações,Aquisição/construção própria,2006-03-16,20,418.26,215.48,0.0,202.78,20.91,Em operação,NF-1072537,Manual,U010,2006-03-20
+PPI-0000287,SHP-33,100.0,Edificações,Combinação de negócios,1999-02-16,40,9325.46,3541.13,24915.33,30699.66,233.14,Em operação,LAUDO-5462052,Automático,U054,1999-02-17
+PPI-0000288,SHP-32,50.0,Obras em andamento,Adição 2025,2025-07-03,0,6967.09,0.0,0.0,6967.09,0.0,Em desenvolvimento,NF-8168047,Automático,U055,2025-07-03
+PPI-0000289,SHP-05,75.0,Benfeitorias e acabamentos,Combinação de negócios,1997-01-19,10,214.73,112.42,797.65,899.96,0.0,Em operação,LAUDO-6407580,Automático,U018,1997-01-20
+PPI-0000290,SHP-10,60.5,Edificações,Aquisição/construção própria,2009-02-16,50,96666.42,18090.38,0.0,78576.04,1933.33,Em operação,NF-1021561,Manual,U011,2009-02-20
+PPI-0000291,SHP-34,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2008-12-09,10,1880.95,1011.16,0.0,869.79,0.0,Em operação,NF-7894263,Automático,U047,2008-12-09
+PPI-0000292,SHP-05,75.0,Edificações,Combinação de negócios,2018-10-25,40,972.19,99.81,3375.35,4247.73,24.3,Em operação,LAUDO-2464979,Manual,U004,2018-11-08
+PPI-0000293,SHP-25,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2008-12-13,25,24990.82,8873.87,0.0,16116.95,999.63,Em operação,NF-9772206,Automático,U001,2009-01-12
+PPI-0000294,SHP-25,50.0,Edificações,Combinação de negócios,1975-12-14,40,20318.33,9476.09,30506.9,41349.14,0.0,Em operação,LAUDO-2602921,Automático,U053,1975-12-16
+PPI-0000295,SHP-16,35.0,Benfeitorias e acabamentos,Aquisição/construção própria,2019-10-24,15,13976.1,2913.47,0.0,11062.63,931.74,Em operação,NF-9701813,Automático,U022,2019-10-28
+PPI-0000296,SHP-36,100.0,Benfeitorias e acabamentos,Combinação de negócios,2017-11-03,15,4955.18,1421.16,11410.08,14944.1,330.35,Em operação,LAUDO-9272777,Automático,U024,2017-11-23
+PPI-0000297,SHP-21,40.0,Benfeitorias e acabamentos,Aquisição/construção própria,2003-10-29,10,326.74,171.62,0.0,155.12,0.0,Em operação,NF-7604232,Manual,U009,2003-10-31
+PPI-0000298,SHP-24,100.0,Instalações,Aquisição/construção própria,2007-11-09,15,93.57,44.91,0.0,48.66,0.0,Em operação,NF-2973129,Automático,U005,2007-11-09
+PPI-0000299,SHP-16,35.0,Edificações,Combinação de negócios,1994-04-07,50,3039.19,999.84,9846.55,11885.9,60.78,Em operação,LAUDO-2509358,Automático,U009,1994-04-08
+PPI-0000300,SHP-27,40.0,Edificações,Aquisição/construção própria,2011-06-18,50,720.19,114.52,0.0,605.67,14.4,Em operação,NF-9667059,Manual,U005,2011-06-23
+PPI-0000301,SHP-04,60.5,Equipamentos e sistemas,Combinação de negócios,1984-10-22,5,953.37,478.56,1467.09,1941.9,0.0,Em operação,LAUDO-9047576,Automático,U001,1984-10-22
+PPI-0000302,SHP-08,65.0,Equipamentos e sistemas,Combinação de negócios,2000-11-17,5,1069.46,562.99,1679.44,2185.91,0.0,Em operação,LAUDO-7997532,Automático,U034,2000-11-20
+PPI-0000303,SHP-14,90.0,Edificações,Aquisição/construção própria,2010-03-24,50,18534.44,3335.84,0.0,15198.6,370.69,Em operação,NF-8420136,Automático,U018,2010-03-29
+PPI-0000304,SHP-29,30.0,Instalações,Aquisição/construção própria,2015-01-21,20,21921.27,6370.78,0.0,15550.49,1096.06,Em operação,NF-6016495,Automático,U016,2015-01-21
+PPI-0000305,SHP-20,46.7,Equipamentos e sistemas,Aquisição/construção própria,2013-06-05,10,1897.24,913.9,0.0,983.34,0.0,Em operação,NF-6147528,Automático,U048,2013-06-06
+PPI-0000306,SHP-03,50.0,Equipamentos e sistemas,Aquisição/construção própria,2001-01-29,10,250.19,119.22,0.0,130.97,0.0,Em operação,NF-2410834,Manual,U006,2001-02-01
+PPI-0000307,SHP-02,30.0,Benfeitorias e acabamentos,Aquisição/construção própria,2011-07-29,10,95688.56,49734.77,0.0,45953.79,0.0,Em operação,NF-7033237,Automático,U046,2011-08-15
+PPI-0000308,SHP-03,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2003-02-09,10,5502.85,2738.2,0.0,2764.65,0.0,Em operação,NF-6255332,Automático,U055,2003-02-10
+PPI-0000309,SHP-15,70.0,Instalações,Combinação de negócios,2013-04-04,20,8543.77,2877.7,30837.73,36503.8,427.19,Em operação,LAUDO-9528369,Automático,U016,2013-04-08
+PPI-0000310,SHP-27,40.0,Edificações,Aquisição/construção própria,1991-03-12,40,5920.22,2771.53,0.0,3148.69,148.01,Em operação,NF-7765435,Automático,U011,1991-03-12
+PPI-0000311,SHP-14,90.0,Edificações,Aquisição/construção própria,2024-05-21,50,9901.12,167.2,0.0,9733.92,198.02,Em operação,NF-6455193,Automático,U031,2024-05-24
+PPI-0000312,SHP-38,75.0,Edificações,Combinação de negócios,2005-01-17,50,47.2,10.36,121.14,157.98,0.94,Em operação,LAUDO-6438808,Automático,U018,2005-01-20
+PPI-0000313,SHP-28,40.0,Edificações,Combinação de negócios,1996-08-09,50,23019.61,6747.74,77141.13,93413.0,460.39,Em operação,LAUDO-8584426,Automático,U013,1996-08-12
+PPI-0000314,SHP-24,100.0,Edificações,Combinação de negócios,1982-09-02,40,11797.91,5921.33,20287.69,26164.27,0.0,Em operação,LAUDO-3233185,Automático,U021,1982-09-06
+PPI-0000315,SHP-38,75.0,Edificações,Combinação de negócios,2007-12-10,50,521818.16,100929.27,976188.05,1397076.94,10436.36,Em operação,LAUDO-0398756,Automático,U047,2007-12-17
+PPI-0000316,SHP-10,60.5,Equipamentos e sistemas,Aquisição/construção própria,1993-02-06,5,78.2,37.63,0.0,40.57,0.0,Em operação,NF-7214144,Manual,U010,1993-02-08
+PPI-0000317,SHP-27,40.0,Equipamentos e sistemas,Aquisição/construção própria,2018-02-27,10,2385.29,1015.94,0.0,1369.35,238.53,Em operação,NF-6895635,Automático,U043,2018-02-27
+PPI-0000318,SHP-21,40.0,Benfeitorias e acabamentos,Combinação de negócios,2005-03-28,25,6182.13,2687.01,21526.43,25021.55,247.29,Em operação,LAUDO-3590140,Automático,U032,2005-03-30
+PPI-0000319,SHP-29,30.0,Edificações,Aquisição/construção própria,1977-08-07,40,42665.98,21916.76,0.0,20749.22,0.0,Em operação,NF-9290537,Automático,U019,1977-08-12
+PPI-0000320,SHP-38,75.0,Instalações,Combinação de negócios,2015-11-09,20,155.17,40.77,500.3,614.7,7.76,Em operação,LAUDO-7157379,Automático,U058,2015-11-11
+PPI-0000321,SHP-18,100.0,Edificações,Aquisição/construção própria,2004-08-17,50,6512.42,1506.48,0.0,5005.94,130.25,Em operação,NF-2274305,Automático,U018,2004-08-18
+PPI-0000322,SHP-36,100.0,Edificações,Aquisição/construção própria,1994-07-30,50,11027.4,3753.4,0.0,7274.0,220.55,Em operação,NF-1529039,Automático,U045,1994-08-03
+PPI-0000323,SHP-27,40.0,Edificações,Combinação de negócios,1987-05-12,40,770.55,403.27,2414.21,2781.49,19.26,Em operação,LAUDO-6926709,Automático,U053,1987-05-13
+PPI-0000324,SHP-24,100.0,Edificações,Aquisição/construção própria,1981-09-30,50,2290.24,1149.83,0.0,1140.41,45.8,Em operação,NF-5038105,Automático,U030,1981-09-30
+PPI-0000325,SHP-13,65.0,Edificações,Combinação de negócios,1986-07-07,50,7803.75,3333.35,13920.88,18391.28,156.07,Em operação,LAUDO-7345359,Automático,U007,1986-07-08
+PPI-0000326,SHP-34,50.0,Instalações,Combinação de negócios,2016-07-25,15,5116.17,1615.33,17358.69,20859.53,341.08,Em operação,LAUDO-0392685,Automático,U023,2016-08-12
+PPI-0000327,SHP-20,46.7,Benfeitorias e acabamentos,Aquisição/construção própria,2017-04-02,15,37.59,11.02,0.0,26.57,2.51,Em operação,NF-8096774,Manual,U013,2017-04-03
+PPI-0000328,SHP-22,40.0,Edificações,Aquisição/construção própria,2024-05-06,40,14537.71,308.01,0.0,14229.7,363.44,Em operação,NF-1172390,Automático,U004,2024-05-06
+PPI-0000329,SHP-32,50.0,Edificações,Combinação de negócios,1999-03-06,50,3576.75,1002.33,11018.92,13593.34,71.54,Em operação,LAUDO-0139837,Automático,U024,1999-04-05
+PPI-0000330,SHP-19,50.0,Edificações,Combinação de negócios,2007-05-04,40,46436.17,11715.59,67795.17,102515.75,1160.9,Em operação,LAUDO-5518520,Automático,U003,2007-05-04
+PPI-0000331,SHP-12,70.0,Direito de uso,Aquisição/construção própria,1993-01-03,30,28287.68,14025.89,0.0,14261.79,0.0,Em operação,CTR-0434497,Automático,U013,1993-01-11
+PPI-0000332,SHP-42,40.0,Instalações,Aquisição/construção própria,2014-07-10,15,30530.67,13146.81,0.0,17383.86,2035.38,Em operação,NF-3616021,Automático,U030,2014-07-10
+PPI-0000333,SHP-13,65.0,Instalações,Combinação de negócios,2008-05-27,20,1690.04,852.22,5146.37,5984.19,84.5,Em operação,LAUDO-8823232,Automático,U007,2008-05-30
+PPI-0000334,SHP-02,30.0,Benfeitorias e acabamentos,Aquisição/construção própria,2006-06-20,10,9965.38,5361.96,0.0,4603.42,0.0,Em operação,NF-3581383,Automático,U025,2006-06-23
+PPI-0000335,SHP-02,30.0,Benfeitorias e acabamentos,Combinação de negócios,1988-11-12,10,565.61,307.01,1163.45,1422.05,0.0,Em operação,LAUDO-0414239,Automático,U023,1988-11-14
+PPI-0000336,SHP-22,40.0,Edificações,Combinação de negócios,2008-08-23,50,1555.62,284.4,1196.38,2467.6,31.11,Em operação,LAUDO-5454085,Manual,U012,2008-08-27
+PPI-0000337,SHP-34,50.0,Instalações,Aquisição/construção própria,2011-03-09,20,5491.66,2078.02,0.0,3413.64,274.58,Em operação,NF-9767050,Automático,U035,2011-03-09
+PPI-0000338,SHP-09,70.0,Edificações,Aquisição/construção própria,2005-10-29,50,1756.32,384.6,0.0,1371.72,35.13,Em operação,NF-2420199,Automático,U059,2005-11-02
+PPI-0000339,SHP-15,70.0,Edificações,Aquisição/construção própria,2002-01-07,50,66287.18,17286.11,0.0,49001.07,1325.74,Em operação,NF-9476634,Automático,U018,2002-01-09
+PPI-0000340,SHP-01,90.0,Edificações,Aquisição/construção própria,2016-04-22,40,222830.33,30341.08,0.0,192489.25,5570.76,Em operação,NF-5122379,Automático,U030,2016-05-30
+PPI-0000341,SHP-29,30.0,Instalações,Combinação de negócios,1989-04-16,15,12609.34,6478.04,40166.85,46298.15,0.0,Em operação,LAUDO-3289201,Automático,U004,1989-04-19
+PPI-0000342,SHP-27,40.0,Equipamentos e sistemas,Combinação de negócios,1975-07-12,10,286.08,152.04,493.47,627.51,0.0,Em operação,LAUDO-5974476,Automático,U023,1975-07-15
+PPI-0000343,SHP-27,40.0,Instalações,Combinação de negócios,2000-01-15,15,2057.51,1035.36,1438.76,2460.91,0.0,Em operação,LAUDO-0349738,Automático,U046,2000-01-17
+PPI-0000344,SHP-29,30.0,Equipamentos e sistemas,Combinação de negócios,2000-07-23,10,977.14,460.16,977.12,1494.1,0.0,Em operação,LAUDO-3983170,Automático,U049,2000-08-25
+PPI-0000345,SHP-25,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,1993-02-24,25,7452.93,3812.67,0.0,3640.26,0.0,Em operação,NF-9666336,Automático,U014,1993-02-26
+PPI-0000346,SHP-02,30.0,Instalações,Aquisição/construção própria,1999-03-18,20,29137.95,14575.54,0.0,14562.41,0.0,Em operação,NF-8912901,Manual,U010,1999-03-23
+PPI-0000347,SHP-05,75.0,Instalações,Aquisição/construção própria,2008-06-14,20,785.42,353.78,0.0,431.64,39.27,Em operação,NF-4621291,Automático,U059,2008-06-17
+PPI-0000348,SHP-17,65.0,Benfeitorias e acabamentos,Combinação de negócios,2011-09-23,15,5207.92,2484.6,18019.37,20742.69,347.19,Em operação,LAUDO-9017483,Automático,U051,2011-09-28
+PPI-0000349,SHP-15,70.0,Equipamentos e sistemas,Aquisição/construção própria,1978-03-08,5,181.36,94.43,0.0,86.93,0.0,Em operação,NF-8745525,Automático,U050,1978-03-13
+PPI-0000350,SHP-10,60.5,Edificações,Combinação de negócios,2016-09-23,40,11183.69,1387.02,41798.02,51594.69,279.59,Em operação,LAUDO-7893711,Automático,U003,2016-09-27
+PPI-0000351,SHP-05,75.0,Benfeitorias e acabamentos,Combinação de negócios,2014-11-30,25,2340.96,574.45,4031.87,5798.38,93.64,Em operação,LAUDO-9181603,Automático,U041,2014-12-01
+PPI-0000352,SHP-24,100.0,Instalações,Aquisição/construção própria,2022-08-27,20,421.55,37.24,0.0,384.31,21.08,Em operação,NF-6481255,Automático,U047,2022-08-29
+PPI-0000353,SHP-14,90.0,Instalações,Combinação de negócios,2005-08-01,15,423.01,199.03,737.11,961.09,0.0,Em operação,LAUDO-8970329,Automático,U008,2005-08-02
+PPI-0000354,SHP-12,70.0,Equipamentos e sistemas,Aquisição/construção própria,2007-07-29,10,798.48,380.08,0.0,418.4,0.0,Em operação,NF-6016598,Automático,U057,2007-07-30
+PPI-0000355,SHP-37,40.0,Edificações,Aquisição/construção própria,2010-03-25,40,1025.27,222.31,0.0,802.96,25.63,Em operação,NF-7272628,Automático,U001,2010-03-29
+PPI-0000356,SHP-29,30.0,Edificações,Aquisição/construção própria,1978-09-08,50,9032.55,4414.32,0.0,4618.23,180.65,Em operação,NF-9541003,Automático,U060,1978-09-08
+PPI-0000357,SHP-34,50.0,Equipamentos e sistemas,Aquisição/construção própria,2009-01-29,5,957.2,485.56,0.0,471.64,0.0,Em operação,NF-7613992,Automático,U007,2009-02-04
+PPI-0000358,SHP-40,50.0,Obras em andamento,Aquisição/construção própria,2004-08-20,0,1644.22,0.0,0.0,1644.22,0.0,Em desenvolvimento,NF-5304686,Automático,U008,2004-08-23
+PPI-0000359,SHP-02,30.0,Benfeitorias e acabamentos,Combinação de negócios,2004-03-25,10,1193.06,579.44,4478.89,5092.51,0.0,Em operação,LAUDO-8465756,Automático,U032,2004-03-25
+PPI-0000360,SHP-21,40.0,Equipamentos e sistemas,Combinação de negócios,2024-01-07,5,6554.58,1287.46,12642.95,17910.07,1310.92,Em operação,LAUDO-0423984,Manual,U007,2024-01-10
+PPI-0000361,SHP-29,30.0,Edificações,Combinação de negócios,2010-07-14,50,19614.06,3172.14,55442.74,71884.66,392.28,Em operação,LAUDO-6396310,Automático,U003,2010-07-19
+PPI-0000362,SHP-17,65.0,Instalações,Adição 2025,2025-02-09,15,2426.15,71.08,0.0,2355.07,144.46,Em operação,NF-6504851,Automático,U014,2025-02-11
+PPI-0000363,SHP-12,70.0,Edificações,Combinação de negócios,2014-10-19,50,22518.25,2549.3,55746.68,75715.63,450.36,Em operação,LAUDO-4152711,Automático,U027,2014-10-24
+PPI-0000364,SHP-07,50.0,Edificações,Aquisição/construção própria,2002-01-26,40,364314.45,124498.17,0.0,239816.28,9107.86,Em operação,NF-7503682,Automático,U032,2002-01-29
+PPI-0000365,SHP-35,100.0,Instalações,Combinação de negócios,1994-12-31,20,144.61,73.65,273.92,344.88,0.0,Em operação,LAUDO-9470593,Automático,U020,1995-01-02
+PPI-0000366,SHP-17,65.0,Instalações,Combinação de negócios,2014-01-26,20,1099.16,344.69,2845.35,3599.82,54.96,Em operação,LAUDO-8983374,Automático,U041,2014-01-27
+PPI-0000367,SHP-43,75.0,Edificações,Aquisição/construção própria,2015-01-17,50,10255.73,1235.67,0.0,9020.06,205.11,Em operação,NF-5228160,Automático,U036,2015-01-20
+PPI-0000368,SHP-29,30.0,Edificações,Aquisição/construção própria,2004-02-02,50,163.55,37.55,0.0,126.0,3.27,Em operação,NF-9769750,Automático,U048,2004-03-01
+PPI-0000369,SHP-15,70.0,Edificações,Aquisição/construção própria,2016-11-07,50,26381.78,2718.73,0.0,23663.05,527.64,Em operação,NF-8983340,Automático,U023,2016-11-10
+PPI-0000370,SHP-17,65.0,Edificações,Aquisição/construção própria,2000-08-07,40,8202.45,2696.33,0.0,5506.12,205.06,Em operação,NF-3742488,Automático,U033,2000-08-14
+PPI-0000371,SHP-29,30.0,Edificações,Combinação de negócios,2001-12-17,50,31745.75,7626.52,48436.74,72555.97,634.92,Em operação,LAUDO-6378927,Automático,U058,2001-12-19
+PPI-0000372,SHP-21,40.0,Benfeitorias e acabamentos,Combinação de negócios,1990-07-19,10,95.94,45.89,187.23,237.28,0.0,Em operação,LAUDO-8474495,Automático,U022,1990-08-09
+PPI-0000373,SHP-03,50.0,Equipamentos e sistemas,Aquisição/construção própria,2006-05-15,5,741.85,394.28,0.0,347.57,0.0,Em operação,NF-3796431,Manual,U005,2006-05-22
+PPI-0000374,SHP-34,50.0,Equipamentos e sistemas,Combinação de negócios,2001-12-23,10,991.9,531.39,2959.31,3419.82,0.0,Em operação,LAUDO-5803541,Automático,U053,2001-12-27
+PPI-0000375,SHP-31,65.0,Instalações,Combinação de negócios,1997-11-23,20,19026.08,10198.99,35057.33,43884.42,0.0,Em operação,LAUDO-8651326,Automático,U019,1997-11-28
+PPI-0000376,SHP-34,50.0,Instalações,Combinação de negócios,1992-10-12,15,3668.48,1999.55,8777.49,10446.42,0.0,Em operação,LAUDO-6317655,Manual,U015,1992-10-12
+PPI-0000377,SHP-28,40.0,Equipamentos e sistemas,Adição 2025,2025-04-11,5,6815.5,556.55,0.0,6258.95,989.65,Em operação,NF-1527436,Automático,U010,2025-04-11
+PPI-0000378,SHP-38,75.0,Edificações,Combinação de negócios,2011-04-11,50,17136.85,2754.02,62273.6,76656.43,342.74,Em operação,LAUDO-5026605,Manual,U006,2011-04-22
+PPI-0000379,SHP-31,65.0,Instalações,Combinação de negócios,1989-12-03,20,397.93,190.78,1101.17,1308.32,0.0,Em operação,LAUDO-8324469,Automático,U015,1990-01-03
+PPI-0000380,SHP-20,46.7,Benfeitorias e acabamentos,Adição 2025,2025-06-24,15,37327.46,706.28,0.0,36621.18,1302.2,Em operação,NF-9392948,Automático,U031,2025-06-26
+PPI-0000381,SHP-04,60.5,Edificações,Combinação de negócios,2012-02-17,40,211.77,36.21,592.54,768.1,5.29,Em operação,LAUDO-9584851,Manual,U011,2012-02-21
+PPI-0000382,SHP-20,46.7,Instalações,Combinação de negócios,2005-11-16,20,2022.59,1075.28,2773.82,3721.13,0.0,Em operação,LAUDO-0419481,Automático,U053,2005-11-18
+PPI-0000383,SHP-39,70.0,Edificações,Aquisição/construção própria,2006-07-07,40,3492.24,843.21,0.0,2649.03,87.31,Em operação,NF-6239338,Automático,U002,2006-07-11
+PPI-0000384,SHP-29,30.0,Edificações,Combinação de negócios,2013-12-03,50,9979.27,1220.18,14761.74,23520.83,199.59,Em operação,LAUDO-8482228,Automático,U017,2013-12-06
+PPI-0000385,SHP-07,50.0,Instalações,Aquisição/construção própria,2014-07-29,15,5072.21,2175.72,0.0,2896.49,338.15,Em operação,NF-6635494,Automático,U011,2014-08-04
+PPI-0000386,SHP-42,40.0,Instalações,Aquisição/construção própria,2009-05-23,20,230.06,93.26,0.0,136.8,11.5,Em operação,NF-6468762,Manual,U008,2009-06-22
+PPI-0000387,SHP-38,75.0,Instalações,Combinação de negócios,2018-10-10,20,1042.12,202.05,1221.46,2061.53,52.11,Em operação,LAUDO-8823926,Automático,U042,2018-10-15
+PPI-0000388,SHP-24,100.0,Edificações,Combinação de negócios,2000-10-01,50,4724.99,1364.34,14157.01,17517.66,94.5,Em operação,LAUDO-0268919,Manual,U005,2000-10-03
+PPI-0000389,SHP-38,75.0,Benfeitorias e acabamentos,Combinação de negócios,2010-11-24,10,14112.77,6757.73,26195.68,33550.72,0.0,Em operação,LAUDO-8200596,Automático,U003,2010-11-29
+PPI-0000390,SHP-41,100.0,Benfeitorias e acabamentos,Combinação de negócios,2013-12-23,15,75.24,29.59,225.46,271.11,5.02,Em operação,LAUDO-1704759,Automático,U057,2013-12-25
+PPI-0000391,SHP-41,100.0,Edificações,Combinação de negócios,2012-12-19,50,1102.16,156.01,2580.37,3526.52,22.04,Em operação,LAUDO-5601373,Manual,U015,2012-12-24
+PPI-0000392,SHP-22,40.0,Equipamentos e sistemas,Aquisição/construção própria,2012-04-28,5,4140.71,1957.03,0.0,2183.68,0.0,Em operação,NF-1919330,Automático,U054,2012-05-03
+PPI-0000393,SHP-31,65.0,Equipamentos e sistemas,Combinação de negócios,2011-07-04,10,3474.21,1714.95,8427.93,10187.19,0.0,Em operação,LAUDO-4001297,Automático,U036,2011-07-07
+PPI-0000394,SHP-32,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2016-06-18,25,581.48,121.08,0.0,460.4,23.26,Em operação,NF-8325898,Automático,U010,2016-06-20
+PPI-0000395,SHP-37,40.0,Benfeitorias e acabamentos,Aquisição/construção própria,2018-06-15,15,2892.23,787.6,0.0,2104.63,192.82,Em operação,NF-0433692,Automático,U036,2018-06-18
+PPI-0000396,SHP-34,50.0,Edificações,Combinação de negócios,2001-03-22,50,14823.99,4033.05,55520.17,66311.11,296.48,Em operação,LAUDO-2831946,Automático,U049,2001-04-03
+PPI-0000397,SHP-29,30.0,Edificações,Combinação de negócios,2018-08-14,50,29755.95,2409.54,84148.76,111495.17,595.12,Em operação,LAUDO-7604310,Automático,U035,2018-08-20
+PPI-0000398,SHP-05,75.0,Edificações,Combinação de negócios,2011-09-04,40,97556.85,17977.21,327244.27,406823.91,2438.92,Em operação,LAUDO-6373929,Automático,U007,2011-09-07
+PPI-0000399,SHP-23,50.0,Edificações,Aquisição/construção própria,2023-10-24,40,516019.81,14768.94,0.0,501250.87,12900.5,Em operação,NF-5471704,Automático,U016,2023-10-27
+PPI-0000400,SHP-45,46.7,Direito de uso,Aquisição/construção própria,1991-05-13,10,155.54,78.98,0.0,76.56,0.0,Em operação,CTR-6031246,Automático,U043,1991-05-27
+PPI-0000401,SHP-30,100.0,Equipamentos e sistemas,Aquisição/construção própria,1997-08-09,5,7258.28,3788.64,0.0,3469.64,0.0,Em operação,NF-1812854,Automático,U026,1997-08-11
+PPI-0000402,SHP-25,50.0,Edificações,Combinação de negócios,2024-06-23,40,30387.98,626.39,36778.04,66539.63,759.7,Em operação,LAUDO-2340319,Automático,U054,2024-06-27
+PPI-0000403,SHP-31,65.0,Benfeitorias e acabamentos,Combinação de negócios,2008-01-15,25,188.04,76.91,236.26,347.39,7.52,Em operação,LAUDO-8212139,Manual,U002,2008-01-18
+PPI-0000404,SHP-11,90.0,Edificações,Adição 2025,2025-02-28,40,1103.75,11.54,0.0,1092.21,23.21,Em operação,NF-5273870,Automático,U019,2025-03-05
+PPI-0000405,SHP-34,50.0,Edificações,Aquisição/construção própria,2009-12-23,50,6978.64,1104.65,0.0,5873.99,139.57,Em operação,NF-2971340,Automático,U007,2009-12-28
+PPI-0000406,SHP-44,60.5,Edificações,Combinação de negócios,2024-01-30,40,4818.55,118.04,10687.68,15388.19,120.46,Em operação,LAUDO-0805138,Automático,U035,2024-03-01
+PPI-0000407,SHP-29,30.0,Edificações,Aquisição/construção própria,2023-07-03,40,3002.29,93.48,0.0,2908.81,75.06,Em operação,NF-2842066,Manual,U012,2023-07-05
+PPI-0000408,SHP-34,50.0,Edificações,Combinação de negócios,2016-08-30,40,5115.5,683.15,8973.94,13406.29,127.89,Em operação,LAUDO-5758886,Automático,U025,2016-09-05
+PPI-0000409,SHP-14,90.0,Edificações,Combinação de negócios,2004-08-10,40,216555.73,59778.85,520364.14,677141.02,5413.89,Em operação,LAUDO-9165784,Automático,U019,2004-08-16
+PPI-0000410,SHP-44,60.5,Equipamentos e sistemas,Combinação de negócios,2008-08-20,5,73208.61,36716.92,109088.18,145579.87,0.0,Em operação,LAUDO-9267046,Automático,U003,2008-08-21
+PPI-0000411,SHP-09,70.0,Obras em andamento,Combinação de negócios,2005-01-09,0,24868.5,0.0,54186.92,79055.42,0.0,Em desenvolvimento,LAUDO-4339435,Automático,U047,2005-02-04
+PPI-0000412,SHP-43,75.0,Instalações,Combinação de negócios,2006-09-28,15,2097.8,1080.42,2133.38,3150.76,0.0,Em operação,LAUDO-0583360,Automático,U007,2006-10-02
+PPI-0000413,SHP-34,50.0,Edificações,Combinação de negócios,1998-09-11,50,292716.49,83565.2,485367.64,694518.93,5854.33,Em operação,LAUDO-9363823,Automático,U030,1998-09-16
+PPI-0000414,SHP-45,46.7,Edificações,Aquisição/construção própria,2006-01-09,50,35404.89,7181.46,0.0,28223.43,708.1,Em operação,NF-2989106,Automático,U052,2006-01-11
+PPI-0000415,SHP-05,75.0,Instalações,Aquisição/construção própria,1996-04-22,15,6354.31,3152.35,0.0,3201.96,0.0,Em operação,NF-2010310,Automático,U050,1996-04-24
+PPI-0000416,SHP-33,100.0,Edificações,Combinação de negócios,2012-02-25,40,59139.05,11053.67,91360.98,139446.36,1478.48,Em operação,LAUDO-7198231,Manual,U008,2012-02-29
+PPI-0000417,SHP-32,50.0,Instalações,Combinação de negócios,1989-04-02,20,585.16,294.88,536.43,826.71,0.0,Em operação,LAUDO-8314381,Manual,U006,1989-04-04
+PPI-0000418,SHP-32,50.0,Direito de uso,Aquisição/construção própria,2000-10-23,20,4705.81,2306.02,0.0,2399.79,0.0,Em operação,CTR-3411115,Automático,U004,2000-10-25
+PPI-0000419,SHP-07,50.0,Edificações,Aquisição/construção própria,2010-11-29,50,22027.45,3374.05,0.0,18653.4,440.55,Em operação,NF-8604042,Automático,U019,2010-12-01
+PPI-0000420,SHP-41,100.0,Edificações,Combinação de negócios,2014-05-16,40,6453.27,1007.39,12179.65,17625.53,161.33,Em operação,LAUDO-0903640,Automático,U057,2014-05-30
+PPI-0000421,SHP-21,40.0,Edificações,Aquisição/construção própria,2010-10-05,40,14554.44,3150.16,0.0,11404.28,363.86,Em operação,NF-2574917,Automático,U030,2010-10-11
+PPI-0000422,SHP-30,100.0,Instalações,Aquisição/construção própria,2014-12-22,20,6150.83,1768.75,0.0,4382.08,307.54,Em operação,NF-5396472,Manual,U005,2015-01-19
+PPI-0000423,SHP-15,70.0,Benfeitorias e acabamentos,Combinação de negócios,1989-11-30,15,774.41,408.92,1772.63,2138.12,0.0,Em operação,LAUDO-1853258,Automático,U049,1989-12-01
+PPI-0000424,SHP-05,75.0,Benfeitorias e acabamentos,Combinação de negócios,2001-02-04,25,775.5,384.59,2747.08,3137.99,31.02,Em operação,LAUDO-3282491,Manual,U003,2001-02-05
+PPI-0000425,SHP-06,100.0,Instalações,Adição 2025,2025-01-25,20,379.81,9.46,0.0,370.35,17.74,Em operação,NF-7170699,Automático,U058,2025-01-27
+PPI-0000426,SHP-25,50.0,Edificações,Combinação de negócios,2014-04-19,40,1724.77,263.95,6461.14,7921.96,43.12,Em operação,LAUDO-9286926,Automático,U046,2014-04-21
+PPI-0000427,SHP-17,65.0,Benfeitorias e acabamentos,Combinação de negócios,2016-04-08,10,4769.06,2513.77,16279.76,18535.05,476.91,Em operação,LAUDO-9192477,Manual,U011,2016-04-18
+PPI-0000428,SHP-05,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2017-02-02,15,1520.27,468.7,0.0,1051.57,101.35,Em operação,NF-5248697,Automático,U041,2017-02-03
+PPI-0000429,SHP-32,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2012-09-27,25,1335.6,399.35,0.0,936.25,53.42,Em operação,NF-5735350,Automático,U027,2012-10-01
+PPI-0000430,SHP-15,70.0,Edificações,Combinação de negócios,1995-05-31,40,4336.88,1893.98,4023.52,6466.42,108.42,Em operação,LAUDO-5524892,Automático,U023,1995-06-01
+PPI-0000431,SHP-17,65.0,Benfeitorias e acabamentos,Combinação de negócios,2011-04-26,15,226.86,120.63,430.9,537.13,15.12,Em operação,LAUDO-0986822,Automático,U003,2011-05-02
+PPI-0000432,SHP-27,40.0,Equipamentos e sistemas,Combinação de negócios,2015-04-04,10,320.62,162.99,916.49,1074.12,0.0,Em operação,LAUDO-2507949,Automático,U060,2015-04-09
+PPI-0000433,SHP-34,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2023-07-25,15,13516.6,1152.43,0.0,12364.17,901.11,Em operação,NF-3675225,Automático,U053,2023-07-26
+PPI-0000434,SHP-28,40.0,Edificações,Combinação de negócios,2010-09-21,50,3015.08,521.86,4122.04,6615.26,60.3,Em operação,LAUDO-0529584,Manual,U006,2010-09-24
+PPI-0000435,SHP-34,50.0,Benfeitorias e acabamentos,Combinação de negócios,2002-06-19,10,3209.19,1636.73,2730.29,4302.75,0.0,Em operação,LAUDO-6767001,Automático,U018,2002-07-29
+PPI-0000436,SHP-43,75.0,Benfeitorias e acabamentos,Combinação de negócios,2008-04-23,15,1707.87,811.23,1692.55,2589.19,0.0,Em operação,LAUDO-8534797,Automático,U005,2008-04-28
+PPI-0000437,SHP-43,75.0,Instalações,Aquisição/construção própria,2002-10-22,15,811.41,395.21,0.0,416.2,0.0,Em operação,NF-8326370,Manual,U003,2002-10-25
+PPI-0000438,SHP-32,50.0,Edificações,Combinação de negócios,2024-08-26,40,9845.4,169.57,20158.04,29833.87,246.14,Em operação,LAUDO-4915375,Automático,U039,2024-08-30
+PPI-0000439,SHP-26,100.0,Edificações,Adição 2025,2025-08-04,40,545.64,2.88,0.0,542.76,5.61,Em operação,NF-1755038,Automático,U034,2025-08-04
+PPI-0000440,SHP-44,60.5,Edificações,Combinação de negócios,1978-11-01,40,1660.28,834.52,3066.8,3892.56,0.0,Em operação,LAUDO-3955008,Automático,U041,1978-11-02
+PPI-0000441,SHP-38,75.0,Benfeitorias e acabamentos,Combinação de negócios,2005-06-01,25,1534.54,678.96,3367.34,4222.92,61.38,Em operação,LAUDO-2080879,Automático,U053,2005-06-28
+PPI-0000442,SHP-43,75.0,Edificações,Combinação de negócios,1998-06-30,50,2103.93,631.74,5268.89,6741.08,42.08,Em operação,LAUDO-8196337,Automático,U044,1998-07-27
+PPI-0000443,SHP-06,100.0,Benfeitorias e acabamentos,Adição 2025,2025-12-04,25,1136.33,1.52,0.0,1134.81,3.49,Em operação,NF-8154465,Automático,U021,2025-12-08
+PPI-0000444,SHP-29,30.0,Edificações,Aquisição/construção própria,2024-08-27,40,90301.21,1680.52,0.0,88620.69,2257.53,Em operação,NF-6595049,Manual,U002,2024-08-27
+PPI-0000445,SHP-38,75.0,Edificações,Aquisição/construção própria,1998-03-16,50,1881.12,565.75,0.0,1315.37,37.62,Em operação,NF-6940379,Automático,U040,1998-03-19
+PPI-0000446,SHP-42,40.0,Edificações,Combinação de negócios,1996-08-07,40,5442.78,2147.96,20068.04,23362.86,136.07,Em operação,LAUDO-7809762,Manual,U002,1996-09-05
+PPI-0000447,SHP-12,70.0,Edificações,Aquisição/construção própria,1981-10-22,50,29696.76,13762.07,0.0,15934.69,593.94,Em operação,NF-1485263,Automático,U002,1981-10-27
+PPI-0000448,SHP-05,75.0,Instalações,Combinação de negócios,1978-08-09,20,11953.98,5806.24,28678.86,34826.6,0.0,Em operação,LAUDO-6406950,Manual,U009,1978-08-11
+PPI-0000449,SHP-38,75.0,Instalações,Aquisição/construção própria,1998-12-29,15,132567.76,66226.3,0.0,66341.46,0.0,Em operação,NF-3086911,Manual,U011,1998-12-31
+PPI-0000450,SHP-05,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2011-03-05,10,8205.1,4014.34,0.0,4190.76,0.0,Em operação,NF-0123243,Manual,U005,2011-03-18
+PPI-0000451,SHP-13,65.0,Instalações,Combinação de negócios,2012-07-17,20,1231.58,444.69,1489.92,2276.81,61.58,Em operação,LAUDO-4346068,Manual,U002,2012-08-27
+PPI-0000452,SHP-05,75.0,Benfeitorias e acabamentos,Combinação de negócios,2010-03-08,15,7451.53,3890.94,14574.81,18135.4,0.0,Em operação,LAUDO-2618207,Automático,U024,2010-03-15
+PPI-0000453,SHP-12,70.0,Equipamentos e sistemas,Combinação de negócios,1999-07-09,5,297.55,138.31,231.32,390.56,0.0,Em operação,LAUDO-9499589,Manual,U008,1999-07-14
+PPI-0000454,SHP-32,50.0,Edificações,Combinação de negócios,2006-08-14,50,33141.19,6301.69,61610.4,88449.9,662.82,Em operação,LAUDO-4219963,Automático,U017,2006-08-17
+PPI-0000455,SHP-44,60.5,Edificações,Combinação de negócios,2009-09-06,50,5246.29,923.36,13988.15,18311.08,104.93,Em operação,LAUDO-1263065,Automático,U016,2009-09-07
+PPI-0000456,SHP-38,75.0,Instalações,Combinação de negócios,2001-04-03,15,3477.85,1822.87,9535.42,11190.4,0.0,Em operação,LAUDO-4267758,Manual,U012,2001-04-09
+PPI-0000457,SHP-10,60.5,Instalações,Combinação de negócios,2009-04-06,15,1638.21,824.21,5961.23,6775.23,0.0,Em operação,LAUDO-5073696,Manual,U001,2009-04-13
+PPI-0000458,SHP-41,100.0,Benfeitorias e acabamentos,Combinação de negócios,2000-10-04,25,2708.64,1414.45,4352.13,5646.32,0.0,Em operação,LAUDO-4902868,Manual,U014,2000-10-09
+PPI-0000459,SHP-32,50.0,Edificações,Combinação de negócios,2016-10-24,50,45221.51,4339.99,118177.05,159058.57,904.43,Em operação,LAUDO-8938385,Manual,U003,2016-10-26
+PPI-0000460,SHP-43,75.0,Instalações,Combinação de negócios,2002-03-25,15,550.09,281.51,1280.1,1548.68,0.0,Em operação,LAUDO-3887062,Automático,U014,2002-04-01
+PPI-0000461,SHP-41,100.0,Instalações,Aquisição/construção própria,2016-07-15,15,13044.67,4324.12,0.0,8720.55,869.64,Em operação,NF-6773634,Automático,U052,2016-07-18
+PPI-0000462,SHP-06,100.0,Instalações,Aquisição/construção própria,2007-08-25,15,2201.96,1129.76,0.0,1072.2,0.0,Em operação,NF-5812570,Automático,U019,2007-08-30
+PPI-0000463,SHP-42,40.0,Instalações,Combinação de negócios,2023-08-30,15,1277.81,98.61,4432.78,5611.98,85.19,Em operação,LAUDO-8030576,Automático,U037,2023-08-30
+PPI-0000464,SHP-09,70.0,Instalações,Aquisição/construção própria,1994-11-24,15,844.95,431.79,0.0,413.16,0.0,Em operação,NF-8809545,Automático,U011,1994-11-28
+PPI-0000465,SHP-08,65.0,Instalações,Combinação de negócios,2018-12-01,15,129626.53,32363.18,258758.18,356021.53,8641.77,Em operação,LAUDO-9532893,Automático,U044,2018-12-03
+PPI-0000466,SHP-35,100.0,Edificações,Combinação de negócios,2008-10-20,50,9613.29,1852.07,22862.05,30623.27,192.27,Em operação,LAUDO-3158398,Automático,U017,2008-10-27
+PPI-0000467,SHP-31,65.0,Edificações,Combinação de negócios,2011-01-01,50,28106.99,4837.5,57934.21,81203.7,562.14,Em operação,LAUDO-3940821,Automático,U028,2011-01-03
+PPI-0000468,SHP-32,50.0,Edificações,Aquisição/construção própria,2014-03-19,50,28837.2,3617.57,0.0,25219.63,576.74,Em operação,NF-2751985,Automático,U036,2014-03-19
+PPI-0000469,SHP-13,65.0,Edificações,Aquisição/construção própria,1991-04-29,40,7007.87,2968.15,0.0,4039.72,175.2,Em operação,NF-5271574,Automático,U015,1991-05-01
+PPI-0000470,SHP-37,40.0,Edificações,Combinação de negócios,2012-08-22,40,3731.29,625.17,10060.58,13166.7,93.28,Em operação,LAUDO-8803489,Automático,U056,2012-08-22
+PPI-0000471,SHP-42,40.0,Edificações,Combinação de negócios,2020-01-20,40,9446.64,734.24,18486.1,27198.5,236.17,Em operação,LAUDO-4558855,Automático,U051,2020-01-20
+PPI-0000472,SHP-05,75.0,Equipamentos e sistemas,Combinação de negócios,2007-09-28,5,51.33,27.67,179.54,203.2,0.0,Em operação,LAUDO-1507816,Automático,U057,2007-10-01
+PPI-0000473,SHP-03,50.0,Instalações,Aquisição/construção própria,2022-09-18,20,3015.75,247.97,0.0,2767.78,150.79,Em operação,NF-9615668,Automático,U033,2022-09-22
+PPI-0000474,SHP-02,30.0,Edificações,Combinação de negócios,1984-08-18,50,3648.8,1592.26,12730.3,14786.84,72.98,Em operação,LAUDO-6077270,Automático,U050,1984-08-23
+PPI-0000475,SHP-22,40.0,Direito de uso,Aquisição/construção própria,2001-06-06,30,200.15,80.29,0.0,119.86,6.67,Em operação,CTR-7637607,Automático,U048,2001-06-07
+PPI-0000476,SHP-38,75.0,Edificações,Aquisição/construção própria,2003-06-13,40,2959.83,840.27,0.0,2119.56,74.0,Em operação,NF-0157628,Automático,U050,2003-06-17
+PPI-0000477,SHP-20,46.7,Instalações,Aquisição/construção própria,2015-11-25,20,11.08,2.87,0.0,8.21,0.55,Em operação,NF-4844469,Automático,U058,2015-11-27
+PPI-0000478,SHP-21,40.0,Instalações,Combinação de negócios,2022-02-04,20,3644.52,390.37,6762.84,10016.99,182.23,Em operação,LAUDO-4048601,Manual,U001,2022-02-04
+PPI-0000479,SHP-24,100.0,Edificações,Combinação de negócios,2011-10-01,50,16501.53,2389.47,23285.56,37397.62,330.03,Em operação,LAUDO-6459267,Automático,U045,2011-11-14
+PPI-0000480,SHP-10,60.5,Edificações,Combinação de negócios,2000-04-16,40,16094.49,5326.01,39562.67,50331.15,402.36,Em operação,LAUDO-6210430,Automático,U038,2000-04-17
+PPI-0000481,SHP-21,40.0,Benfeitorias e acabamentos,Aquisição/construção própria,2012-05-02,15,1383.07,645.77,0.0,737.3,92.2,Em operação,NF-5272016,Automático,U009,2012-05-04
+PPI-0000482,SHP-39,70.0,Edificações,Aquisição/construção própria,1996-05-03,40,2949.61,1157.06,0.0,1792.55,73.74,Em operação,NF-9972398,Automático,U038,1996-05-27
+PPI-0000483,SHP-31,65.0,Edificações,Combinação de negócios,2014-05-12,40,17443.87,2527.96,35338.8,50254.71,436.1,Em operação,LAUDO-6215451,Automático,U030,2014-06-02
+PPI-0000484,SHP-36,100.0,Obras em andamento,Aquisição/construção própria,2019-06-30,0,21242.49,0.0,0.0,21242.49,0.0,Em desenvolvimento,NF-5523061,Automático,U011,2019-08-12
+PPI-0000485,SHP-12,70.0,Edificações,Aquisição/construção própria,2011-02-12,40,2377.78,458.29,0.0,1919.49,59.44,Em operação,NF-3235936,Automático,U027,2011-02-14
+PPI-0000486,SHP-02,30.0,Equipamentos e sistemas,Aquisição/construção própria,2011-08-08,5,11364.47,5527.96,0.0,5836.51,0.0,Em operação,NF-6205700,Automático,U050,2011-08-09
+PPI-0000487,SHP-36,100.0,Equipamentos e sistemas,Combinação de negócios,2019-01-27,10,699.82,240.21,983.03,1442.64,69.98,Em operação,LAUDO-4552812,Automático,U060,2019-01-31
+PPI-0000488,SHP-17,65.0,Terreno,Aquisição/construção própria,2016-06-23,0,10382.97,0.0,0.0,10382.97,0.0,Em operação,ESC-2779777,Automático,U003,2016-07-11
+PPI-0000489,SHP-19,50.0,Equipamentos e sistemas,Combinação de negócios,1981-02-16,10,139.52,70.82,389.34,458.04,0.0,Em operação,LAUDO-1897215,Automático,U044,1981-03-09
+PPI-0000490,SHP-03,50.0,Edificações,Aquisição/construção própria,2021-03-14,50,1875.96,90.12,0.0,1785.84,37.52,Em operação,NF-3691716,Manual,U003,2021-03-15
+PPI-0000491,SHP-06,100.0,Edificações,Combinação de negócios,2013-09-03,40,12354.83,2079.07,46146.78,56422.54,308.87,Em operação,LAUDO-4270413,Automático,U043,2013-09-04
+PPI-0000492,SHP-40,50.0,Benfeitorias e acabamentos,Combinação de negócios,2000-03-21,15,4475.29,2338.08,10929.62,13066.83,0.0,Em operação,LAUDO-0194316,Manual,U009,2000-03-24
+PPI-0000493,SHP-38,75.0,Edificações,Aquisição/construção própria,2009-09-24,50,15419.78,2510.49,0.0,12909.29,308.4,Em operação,NF-0978754,Automático,U022,2009-11-02
+PPI-0000494,SHP-32,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2009-02-08,25,3185.17,1089.36,0.0,2095.81,127.41,Em operação,NF-0190147,Automático,U036,2009-02-09
+PPI-0000495,SHP-02,30.0,Obras em andamento,Adição 2025,2025-06-25,0,578.92,0.0,0.0,578.92,0.0,Em desenvolvimento,NF-3448158,Automático,U048,2025-06-30
+PPI-0000496,SHP-02,30.0,Edificações,Aquisição/construção própria,2009-08-03,40,209.05,46.91,0.0,162.14,5.23,Em operação,NF-9423432,Automático,U042,2009-08-05
+PPI-0000497,SHP-15,70.0,Equipamentos e sistemas,Combinação de negócios,2024-04-07,5,2953.49,528.24,6242.6,8667.85,590.7,Em operação,LAUDO-9603595,Automático,U042,2024-04-09
+PPI-0000498,SHP-29,30.0,Instalações,Aquisição/construção própria,1994-04-15,15,293.27,159.11,0.0,134.16,0.0,Em operação,NF-1674065,Automático,U041,1994-04-20
+PPI-0000499,SHP-21,40.0,Edificações,Aquisição/construção própria,2024-11-08,40,771.34,10.83,0.0,760.51,19.28,Em operação,NF-3925148,Automático,U018,2024-12-02
+PPI-0000500,SHP-45,46.7,Edificações,Combinação de negócios,2016-04-25,50,8732.27,903.15,16076.47,23905.59,174.65,Em operação,LAUDO-6317959,Automático,U017,2016-04-28
+PPI-0000501,SHP-15,70.0,Equipamentos e sistemas,Combinação de negócios,1997-07-27,10,4364.12,2114.32,11838.47,14088.27,0.0,Em operação,LAUDO-4268231,Automático,U059,1997-09-02
+PPI-0000502,SHP-15,70.0,Edificações,Aquisição/construção própria,1987-11-29,40,7073.3,3333.29,0.0,3740.01,176.83,Em operação,NF-3810211,Manual,U014,1987-11-30
+PPI-0000503,SHP-16,35.0,Benfeitorias e acabamentos,Adição 2025,2025-10-27,10,555.94,4.81,0.0,551.13,10.05,Em operação,NF-6309621,Manual,U014,2025-10-30
+PPI-0000504,SHP-08,65.0,Edificações,Aquisição/construção própria,2019-03-21,40,11826.87,991.74,0.0,10835.13,295.67,Em operação,NF-7241518,Automático,U016,2019-04-05
+PPI-0000505,SHP-02,30.0,Edificações,Aquisição/construção própria,2010-11-14,40,7922.89,1585.49,0.0,6337.4,198.07,Em operação,NF-1057653,Automático,U031,2010-11-15
+PPI-0000506,SHP-19,50.0,Equipamentos e sistemas,Combinação de negócios,1998-01-18,10,2733.61,1427.64,2547.16,3853.13,0.0,Em operação,LAUDO-0038996,Automático,U011,1998-01-19
+PPI-0000507,SHP-43,75.0,Benfeitorias e acabamentos,Combinação de negócios,2011-08-30,10,4331.16,2326.56,9410.0,11414.6,0.0,Em operação,LAUDO-1283322,Automático,U011,2011-09-05
+PPI-0000508,SHP-19,50.0,Equipamentos e sistemas,Combinação de negócios,2016-01-04,5,315.5,168.4,1082.37,1229.47,0.0,Em operação,LAUDO-5178312,Automático,U056,2016-01-08
+PPI-0000509,SHP-01,90.0,Edificações,Aquisição/construção própria,2021-07-08,40,9797.84,570.35,0.0,9227.49,244.95,Em operação,NF-5397685,Automático,U011,2021-07-08
+PPI-0000510,SHP-24,100.0,Edificações,Aquisição/construção própria,2015-11-22,40,6756.49,857.96,0.0,5898.53,168.91,Em operação,NF-1807936,Automático,U059,2015-11-25
+PPI-0000511,SHP-39,70.0,Benfeitorias e acabamentos,Combinação de negócios,2014-04-30,25,235.46,55.35,515.95,696.06,9.42,Em operação,LAUDO-4324053,Automático,U028,2014-05-01
+PPI-0000512,SHP-01,90.0,Instalações,Combinação de negócios,2007-06-13,20,914.22,475.15,1104.59,1543.66,45.71,Em operação,LAUDO-0942543,Automático,U051,2007-06-14
+PPI-0000513,SHP-29,30.0,Benfeitorias e acabamentos,Combinação de negócios,2008-01-10,15,12149.49,6162.97,30570.38,36556.9,0.0,Em operação,LAUDO-1246223,Automático,U048,2008-01-14
+PPI-0000514,SHP-21,40.0,Direito de uso,Aquisição/construção própria,1975-11-30,20,4141.29,1969.95,0.0,2171.34,0.0,Em operação,CTR-9670874,Automático,U010,1975-12-05
+PPI-0000515,SHP-29,30.0,Edificações,Aquisição/construção própria,1977-07-28,40,3096.42,1464.88,0.0,1631.54,0.0,Em operação,NF-7402102,Automático,U023,1977-08-01
+PPI-0000516,SHP-13,65.0,Instalações,Combinação de negócios,2006-10-10,20,42.26,21.19,35.65,56.72,2.11,Em operação,LAUDO-1613574,Automático,U030,2006-11-22
+PPI-0000517,SHP-29,30.0,Edificações,Aquisição/construção própria,2015-10-10,50,231.52,23.16,0.0,208.36,4.63,Em operação,NF-8705450,Automático,U053,2015-10-12
+PPI-0000518,SHP-21,40.0,Obras em andamento,Combinação de negócios,2014-03-08,0,1325.14,0.0,4041.57,5366.71,0.0,Em desenvolvimento,LAUDO-1624573,Automático,U044,2014-03-12
+PPI-0000519,SHP-31,65.0,Edificações,Combinação de negócios,1990-04-04,50,15794.0,6469.51,15077.81,24402.3,315.88,Em operação,LAUDO-2304562,Automático,U019,1990-04-06
+PPI-0000520,SHP-29,30.0,Edificações,Aquisição/construção própria,2021-08-03,50,16334.39,819.48,0.0,15514.91,326.69,Em operação,NF-2854273,Automático,U027,2021-09-06
+PPI-0000521,SHP-04,60.5,Edificações,Adição 2025,2025-07-20,50,1790.29,8.08,0.0,1782.21,16.19,Em operação,NF-8723133,Automático,U038,2025-07-21
+PPI-0000522,SHP-18,100.0,Edificações,Combinação de negócios,2011-03-08,50,11541.01,1845.11,9814.42,19510.32,230.82,Em operação,LAUDO-8746205,Automático,U051,2011-03-14
+PPI-0000523,SHP-17,65.0,Edificações,Aquisição/construção própria,2020-05-07,50,33520.04,1972.38,0.0,31547.66,670.4,Em operação,NF-4145066,Automático,U053,2020-05-12
+PPI-0000524,SHP-21,40.0,Equipamentos e sistemas,Combinação de negócios,1998-05-08,5,35751.8,16613.19,33316.76,52455.37,0.0,Em operação,LAUDO-8024503,Automático,U021,1998-05-11
+PPI-0000525,SHP-03,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2015-05-11,15,2255.18,886.8,0.0,1368.38,150.35,Em operação,NF-5245969,Automático,U058,2015-05-11
+PPI-0000526,SHP-05,75.0,Edificações,Combinação de negócios,2014-06-28,40,3542.34,546.51,5625.61,8621.44,88.56,Em operação,LAUDO-9582329,Manual,U009,2014-06-30
+PPI-0000527,SHP-08,65.0,Benfeitorias e acabamentos,Combinação de negócios,2024-01-01,10,441.28,46.26,403.72,798.74,44.13,Em operação,LAUDO-2399934,Automático,U010,2024-01-02
+PPI-0000528,SHP-02,30.0,Equipamentos e sistemas,Combinação de negócios,2010-08-22,5,842.01,432.9,2105.44,2514.55,0.0,Em operação,LAUDO-6675690,Automático,U049,2010-08-24
+PPI-0000529,SHP-13,65.0,Edificações,Combinação de negócios,2019-05-29,50,47991.37,3620.71,158927.25,203297.91,959.83,Em operação,LAUDO-6345318,Automático,U004,2019-06-05
+PPI-0000530,SHP-13,65.0,Direito de uso,Aquisição/construção própria,1985-05-22,30,482.92,236.99,0.0,245.93,0.0,Em operação,CTR-8608471,Automático,U055,1985-05-27
+PPI-0000531,SHP-30,100.0,Benfeitorias e acabamentos,Combinação de negócios,2016-09-09,25,13.64,2.77,25.63,36.5,0.55,Em operação,LAUDO-2975472,Automático,U046,2016-09-14
+PPI-0000532,SHP-05,75.0,Instalações,Aquisição/construção própria,2009-05-05,15,622.8,327.17,0.0,295.63,0.0,Em operação,NF-7141512,Automático,U013,2009-05-11
+PPI-0000533,SHP-29,30.0,Equipamentos e sistemas,Combinação de negócios,1984-10-31,5,617.59,306.68,2131.86,2442.77,0.0,Em operação,LAUDO-9928495,Automático,U021,1984-10-31
+PPI-0000534,SHP-38,75.0,Edificações,Aquisição/construção própria,2020-04-04,50,112.96,6.52,0.0,106.44,2.26,Em operação,NF-8050420,Manual,U002,2020-04-06
+PPI-0000535,SHP-14,90.0,Edificações,Aquisição/construção própria,2015-12-24,40,65231.21,8414.32,0.0,56816.89,1630.78,Em operação,NF-9078699,Automático,U043,2015-12-28
+PPI-0000536,SHP-34,50.0,Edificações,Combinação de negócios,1981-04-28,50,1224.62,618.9,2833.32,3439.04,24.49,Em operação,LAUDO-3810327,Automático,U009,1981-06-11
+PPI-0000537,SHP-42,40.0,Edificações,Combinação de negócios,1980-02-29,40,153785.42,82696.29,482935.75,554024.88,0.0,Em operação,LAUDO-6736682,Automático,U034,1980-03-03
+PPI-0000538,SHP-02,30.0,Instalações,Aquisição/construção própria,1986-11-12,20,2527.21,1183.29,0.0,1343.92,0.0,Em operação,NF-1129415,Automático,U048,1986-11-12
+PPI-0000539,SHP-24,100.0,Benfeitorias e acabamentos,Combinação de negócios,2001-10-23,25,690.76,332.63,2206.59,2564.72,27.63,Em operação,LAUDO-0000367,Automático,U022,2001-10-29
+PPI-0000540,SHP-05,75.0,Instalações,Combinação de negócios,2019-10-16,15,4492.0,1047.74,11293.04,14737.3,299.47,Em operação,LAUDO-1301701,Automático,U011,2019-10-18
+PPI-0000541,SHP-04,60.5,Edificações,Aquisição/construção própria,2002-06-07,40,9857.67,3006.2,0.0,6851.47,246.44,Em operação,NF-4996563,Manual,U005,2002-06-07
+PPI-0000542,SHP-02,30.0,Edificações,Aquisição/construção própria,2005-10-17,40,2157.1,558.27,0.0,1598.83,53.93,Em operação,NF-9834254,Automático,U012,2005-10-19
+PPI-0000543,SHP-38,75.0,Instalações,Aquisição/construção própria,1980-09-01,15,3149.35,1529.81,0.0,1619.54,0.0,Em operação,NF-4248152,Automático,U001,1980-09-04
+PPI-0000544,SHP-13,65.0,Edificações,Combinação de negócios,2001-04-17,50,139343.59,34068.97,419271.68,524546.3,2786.87,Em operação,,Manual,U010,2001-04-17
+PPI-0000545,SHP-38,75.0,Benfeitorias e acabamentos,Combinação de negócios,2022-05-26,10,1302.1,245.29,4034.81,5091.62,130.21,Em operação,LAUDO-8288344,Automático,U007,2022-05-30
+PPI-0000546,SHP-15,70.0,Edificações,Aquisição/construção própria,1997-03-27,40,2032.21,795.94,0.0,1236.27,50.81,Em operação,NF-3750203,Automático,U054,1997-03-31
+PPI-0000547,SHP-34,50.0,Benfeitorias e acabamentos,Combinação de negócios,2003-10-19,25,2349.08,1085.99,2446.89,3709.98,93.96,Em operação,LAUDO-5395635,Automático,U016,2003-10-23
+PPI-0000548,SHP-05,75.0,Edificações,Aquisição/construção própria,2021-09-03,40,8245.3,436.94,0.0,7808.36,206.13,Em operação,NF-9835174,Automático,U030,2021-09-06
+PPI-0000549,SHP-08,65.0,Benfeitorias e acabamentos,Combinação de negócios,2017-03-29,25,806.58,147.59,1242.68,1901.67,32.26,Em operação,LAUDO-3975018,Automático,U034,2017-03-29
+PPI-0000550,SHP-42,40.0,Instalações,Combinação de negócios,2012-01-26,20,5942.58,2154.94,14559.55,18347.19,297.13,Em operação,LAUDO-1150289,Automático,U006,2012-01-31
+PPI-0000551,SHP-42,40.0,Instalações,Aquisição/construção própria,2007-07-08,20,28244.36,14690.94,0.0,13553.42,1412.22,Em operação,NF-7771074,Automático,U038,2007-07-11
+PPI-0000552,SHP-14,90.0,Edificações,Combinação de negócios,2012-06-06,40,1762.08,314.36,6158.87,7606.59,44.05,Em operação,LAUDO-7896748,Automático,U050,2012-06-06
+PPI-0000553,SHP-05,75.0,Benfeitorias e acabamentos,Adição 2025,2025-12-13,25,17795.65,17.04,0.0,17778.61,37.05,Em operação,NF-4701695,Automático,U004,2025-12-18
+PPI-0000554,SHP-14,90.0,Equipamentos e sistemas,Combinação de negócios,2012-01-12,5,1934.38,1015.12,5655.45,6574.71,0.0,Em operação,LAUDO-5424866,Automático,U028,2012-02-21
+PPI-0000555,SHP-27,40.0,Edificações,Combinação de negócios,2021-07-30,40,20141.94,1261.46,75922.8,94803.28,503.55,Em operação,LAUDO-8636909,Automático,U052,2021-08-02
+PPI-0000556,SHP-21,40.0,Instalações,Combinação de negócios,1986-05-05,20,4703.92,2359.39,16511.11,18855.64,0.0,Em operação,LAUDO-6615517,Automático,U041,1986-05-12
+PPI-0000557,SHP-05,75.0,Instalações,Combinação de negócios,1986-06-17,20,129.14,68.16,96.91,157.89,0.0,Em operação,LAUDO-4575215,Automático,U026,1986-06-23
+PPI-0000558,SHP-04,60.5,Edificações,Aquisição/construção própria,2024-04-25,50,587.84,9.87,0.0,577.97,11.76,Em operação,NF-1386445,Automático,U044,2024-04-29
+PPI-0000559,SHP-25,50.0,Equipamentos e sistemas,Aquisição/construção própria,2011-10-25,5,1387.69,738.62,0.0,649.07,0.0,Em operação,NF-0173996,Automático,U034,2011-11-28
+PPI-0000560,SHP-17,65.0,Edificações,Aquisição/construção própria,2024-05-18,40,182540.83,4080.1,0.0,178460.73,4563.52,Em operação,NF-9625512,Automático,U036,2024-05-24
+PPI-0000561,SHP-32,50.0,Equipamentos e sistemas,Combinação de negócios,2010-01-18,5,4247.09,2035.14,9731.47,11943.42,0.0,Em operação,LAUDO-1673492,Automático,U028,2010-01-20
+PPI-0000562,SHP-43,75.0,Edificações,Combinação de negócios,2022-08-23,40,1290.35,53.2,3440.76,4677.91,32.26,Em operação,LAUDO-7767623,Automático,U002,2022-08-26
+PPI-0000563,SHP-07,50.0,Edificações,Combinação de negócios,2001-08-27,40,9604.2,3306.32,22487.45,28785.33,240.1,Em operação,LAUDO-5855749,Automático,U010,2001-09-24
+PPI-0000564,SHP-22,40.0,Obras em andamento,Combinação de negócios,1991-07-22,0,904.86,0.0,3400.72,4305.58,0.0,Em desenvolvimento,LAUDO-0469311,Automático,U040,1991-07-22
+PPI-0000565,SHP-11,90.0,Benfeitorias e acabamentos,Aquisição/construção própria,2010-11-11,10,442.42,211.73,0.0,230.69,0.0,Em operação,NF-0849691,Automático,U029,2010-11-12
+PPI-0000566,SHP-15,70.0,Benfeitorias e acabamentos,Aquisição/construção própria,2007-05-12,15,37934.55,17782.74,0.0,20151.81,0.0,Em operação,NF-5243177,Manual,U012,2007-05-14
+PPI-0000567,SHP-04,60.5,Equipamentos e sistemas,Combinação de negócios,2020-03-26,5,2820.28,1393.64,6618.73,8045.37,0.0,Em operação,LAUDO-3493731,Automático,U038,2020-03-30
+PPI-0000568,SHP-04,60.5,Instalações,Combinação de negócios,2012-11-09,15,475.93,226.57,1609.85,1859.21,31.73,Em operação,LAUDO-3324097,Automático,U050,2012-11-12
+PPI-0000569,SHP-03,50.0,Instalações,Combinação de negócios,2016-02-27,20,3939.83,1032.48,6518.82,9426.17,196.99,Em operação,LAUDO-1464188,Automático,U047,2016-03-01
+PPI-0000570,SHP-39,70.0,Edificações,Combinação de negócios,2020-05-14,40,435.42,31.62,1376.0,1779.8,10.89,Em operação,LAUDO-0519563,Automático,U009,2020-05-14
+PPI-0000571,SHP-15,70.0,Equipamentos e sistemas,Combinação de negócios,2006-11-17,10,119.31,64.46,410.35,465.2,0.0,Em operação,LAUDO-7842260,Manual,U013,2006-11-20
+PPI-0000572,SHP-06,100.0,Equipamentos e sistemas,Aquisição/construção própria,1990-01-07,5,868.71,403.33,0.0,465.38,0.0,Em operação,NF-2625143,Manual,U012,1990-01-11
+PPI-0000573,SHP-43,75.0,Benfeitorias e acabamentos,Combinação de negócios,2024-01-01,15,182.85,12.95,626.06,795.96,12.19,Em operação,LAUDO-4555903,Automático,U019,2024-01-01
+PPI-0000574,SHP-31,65.0,Edificações,Aquisição/construção própria,1992-09-10,40,101840.08,44649.03,0.0,57191.05,2546.0,Em operação,NF-4824239,Manual,U004,1992-09-10
+PPI-0000575,SHP-02,30.0,Instalações,Aquisição/construção própria,2006-07-18,20,1639.78,837.2,0.0,802.58,81.99,Em operação,NF-4186196,Automático,U037,2006-07-19
+PPI-0000576,SHP-13,65.0,Benfeitorias e acabamentos,Aquisição/construção própria,2013-06-23,25,174.12,44.24,0.0,129.88,6.96,Em operação,NF-1994728,Automático,U044,2013-06-25
+PPI-0000577,SHP-17,65.0,Instalações,Aquisição/construção própria,2024-04-27,20,8618.85,383.16,0.0,8235.69,430.94,Em operação,NF-0780421,Automático,U014,2024-05-02
+PPI-0000578,SHP-09,70.0,Edificações,Combinação de negócios,2022-07-21,40,64206.88,2896.14,55195.86,116506.6,1605.17,Em operação,LAUDO-7505421,Automático,U051,2022-07-25
+PPI-0000579,SHP-15,70.0,Edificações,Combinação de negócios,1995-01-23,40,1823.68,794.32,3028.22,4057.58,45.59,Em operação,LAUDO-8121444,Automático,U054,1995-01-30
+PPI-0000580,SHP-30,100.0,Instalações,Combinação de negócios,2003-11-14,20,3574.41,1714.62,4902.62,6762.41,0.0,Em operação,LAUDO-5232418,Automático,U035,2003-11-14
+PPI-0000581,SHP-14,90.0,Instalações,Aquisição/construção própria,1975-11-08,20,4022.76,1986.01,0.0,2036.75,0.0,Em operação,NF-8910701,Automático,U042,1975-11-10
+PPI-0000582,SHP-28,40.0,Direito de uso,Aquisição/construção própria,2002-04-25,20,1593.53,831.96,0.0,761.57,0.0,Em operação,CTR-7584629,Manual,U004,2002-04-29
+PPI-0000583,SHP-31,65.0,Edificações,Combinação de negócios,2012-12-18,50,1722.31,234.93,4964.32,6451.7,34.45,Em operação,LAUDO-9142692,Automático,U033,2013-01-23
+PPI-0000584,SHP-21,40.0,Instalações,Combinação de negócios,2011-11-20,20,10598.22,3809.87,15740.34,22528.69,529.91,Em operação,LAUDO-5166195,Automático,U035,2011-11-25
+PPI-0000585,SHP-05,75.0,Edificações,Combinação de negócios,2012-03-12,40,24139.82,4552.67,54053.33,73640.48,603.5,Em operação,LAUDO-5466227,Automático,U007,2012-03-26
+PPI-0000586,SHP-15,70.0,Edificações,Aquisição/construção própria,2010-09-04,50,19837.7,3076.4,0.0,16761.3,396.75,Em operação,NF-5052670,Automático,U045,2010-09-06
+PPI-0000587,SHP-34,50.0,Edificações,Aquisição/construção própria,1983-02-18,40,3092.42,1622.37,0.0,1470.05,0.0,Em operação,NF-2622484,Automático,U030,1983-03-15
+PPI-0000588,SHP-12,70.0,Edificações,Aquisição/construção própria,2011-05-14,40,552.12,99.98,0.0,452.14,13.8,Em operação,NF-8998543,Automático,U004,2011-05-16
+PPI-0000589,SHP-25,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,1997-02-18,10,55.02,29.33,0.0,25.69,0.0,Em operação,NF-7216120,Automático,U028,1997-02-21
+PPI-0000590,SHP-43,75.0,Edificações,Aquisição/construção própria,1999-02-24,40,20142.61,7563.33,0.0,12579.28,503.57,Em operação,NF-1678733,Automático,U020,1999-03-01
+PPI-0000591,SHP-25,50.0,Instalações,Combinação de negócios,2008-12-07,15,198605.25,105977.57,334765.49,427393.17,0.0,Em operação,LAUDO-6510979,Automático,U055,2009-01-05
+PPI-0000592,SHP-15,70.0,Edificações,Aquisição/construção própria,2018-08-06,40,28232.46,2815.64,0.0,25416.82,705.81,Em operação,NF-3910231,Automático,U045,2018-08-08
+PPI-0000593,SHP-42,40.0,Edificações,Aquisição/construção própria,1992-08-11,50,87314.41,30916.73,0.0,56397.68,1746.29,Em operação,NF-1725769,Automático,U020,1992-08-17
+PPI-0000594,SHP-01,90.0,Obras em andamento,Combinação de negócios,2022-08-07,0,94520.68,0.0,348783.84,443304.52,0.0,Em desenvolvimento,LAUDO-2504922,Automático,U059,2022-08-08
+PPI-0000595,SHP-33,100.0,Benfeitorias e acabamentos,Aquisição/construção própria,1981-02-15,15,144.65,77.6,0.0,67.05,0.0,Em operação,NF-6151090,Automático,U016,1981-02-16
+PPI-0000596,SHP-22,40.0,Equipamentos e sistemas,Aquisição/construção própria,1997-06-29,10,134.96,63.17,0.0,71.79,0.0,Em operação,NF-4428224,Automático,U013,1997-06-30
+PPI-0000597,SHP-36,100.0,Edificações,Combinação de negócios,2002-03-30,50,102845.25,27146.9,299800.01,375498.36,2056.91,Em operação,LAUDO-3444531,Manual,U002,2002-04-01
+PPI-0000598,SHP-30,100.0,Instalações,Aquisição/construção própria,2008-02-02,20,46932.08,22360.21,0.0,24571.87,2346.6,Em operação,NF-0986434,Automático,U002,2008-02-04
+PPI-0000599,SHP-24,100.0,Edificações,Aquisição/construção própria,2006-08-02,40,2461.16,584.65,0.0,1876.51,61.53,Em operação,NF-9387260,Automático,U046,2006-08-28
+PPI-0000600,SHP-39,70.0,Edificações,Combinação de negócios,2006-05-13,40,10249.94,2456.53,19206.0,26999.41,256.25,Em operação,LAUDO-7416385,Manual,U010,2006-05-15
+PPI-0000601,SHP-05,75.0,Edificações,Combinação de negócios,2010-07-29,40,16536.51,3339.98,19806.51,33003.04,413.41,Em operação,LAUDO-3153149,Automático,U050,2010-07-30
+PPI-0000602,SHP-32,50.0,Equipamentos e sistemas,Adição 2025,2025-08-07,5,3599.78,144.49,0.0,3455.29,289.95,Em operação,NF-0597424,Automático,U001,2025-08-12
+PPI-0000603,SHP-12,70.0,Equipamentos e sistemas,Combinação de negócios,2002-07-20,5,55.55,28.55,40.68,67.68,0.0,Em operação,LAUDO-0878533,Automático,U043,2002-07-22
+PPI-0000604,SHP-29,30.0,Edificações,Aquisição/construção própria,2011-10-28,40,4749.74,889.94,0.0,3859.8,118.74,Em operação,NF-2433009,Automático,U018,2011-10-31
+PPI-0000605,SHP-38,75.0,Edificações,Combinação de negócios,1994-06-04,40,19614.47,8010.39,63758.74,75362.82,490.36,Em operação,LAUDO-4816302,Automático,U005,1994-06-20
+PPI-0000606,SHP-34,50.0,Edificações,Combinação de negócios,2011-07-23,50,2988.84,452.65,9064.84,11601.03,59.78,Em operação,LAUDO-1101770,Automático,U051,2011-07-26
+PPI-0000607,SHP-21,40.0,Equipamentos e sistemas,Aquisição/construção própria,2013-09-28,5,31935.73,15736.43,0.0,16199.3,0.0,Em operação,NF-0272699,Automático,U001,2013-10-01
+PPI-0000608,SHP-38,75.0,Obras em andamento,Aquisição/construção própria,1994-08-04,0,2611.26,0.0,0.0,2611.26,0.0,Em desenvolvimento,NF-1509570,Automático,U037,1994-08-09
+PPI-0000609,SHP-19,50.0,Edificações,Aquisição/construção própria,2010-02-18,50,12411.09,2024.72,0.0,10386.37,248.22,Em operação,NF-9188037,Manual,U007,2010-02-18
+PPI-0000610,SHP-27,40.0,Instalações,Combinação de negócios,1991-04-06,15,1362.11,732.21,4460.59,5090.49,0.0,Em operação,LAUDO-2210764,Automático,U016,1991-04-10
+PPI-0000611,SHP-24,100.0,Edificações,Aquisição/construção própria,2015-11-14,40,759.46,108.59,0.0,650.87,18.99,Em operação,NF-4113743,Automático,U038,2015-11-16
+PPI-0000612,SHP-27,40.0,Edificações,Combinação de negócios,2009-11-10,50,13061.38,2215.27,42663.94,53510.05,261.23,Em operação,LAUDO-5941732,Manual,U006,2009-11-11
+PPI-0000613,SHP-43,75.0,Instalações,Combinação de negócios,2020-02-14,15,71972.31,15415.71,239559.74,296116.34,4798.15,Em operação,LAUDO-1555499,Automático,U021,2020-03-23
+PPI-0000614,SHP-17,65.0,Edificações,Aquisição/construção própria,2013-10-12,50,104267.17,13542.36,0.0,90724.81,2085.34,Em operação,NF-3704789,Manual,U006,2013-10-15
+PPI-0000615,SHP-20,46.7,Edificações,Aquisição/construção própria,1996-08-04,50,7721.98,2550.18,0.0,5171.8,154.44,Em operação,NF-5051616,Manual,U013,1996-08-07
+PPI-0000616,SHP-11,90.0,Edificações,Aquisição/construção própria,2002-11-20,50,45.04,11.01,0.0,34.03,0.9,Em operação,NF-4971307,Manual,U014,2002-12-25
+PPI-0000617,SHP-44,60.5,Benfeitorias e acabamentos,Aquisição/construção própria,2014-10-15,25,824.98,197.32,0.0,627.66,33.0,Em operação,NF-7721829,Automático,U030,2014-10-16
+PPI-0000618,SHP-20,46.7,Instalações,Combinação de negócios,2002-06-15,15,924.98,488.54,1424.18,1860.62,0.0,Em operação,LAUDO-6037202,Manual,U015,2002-06-17
+PPI-0000619,SHP-42,40.0,Edificações,Aquisição/construção própria,1985-03-28,50,37154.22,14885.07,0.0,22269.15,743.08,Em operação,NF-3202159,Manual,U005,1985-03-29
+PPI-0000620,SHP-15,70.0,Equipamentos e sistemas,Aquisição/construção própria,2007-10-12,5,247.86,117.61,0.0,130.25,0.0,Em operação,NF-7237684,Manual,U007,2007-10-18
+PPI-0000621,SHP-44,60.5,Instalações,Aquisição/construção própria,2015-07-27,15,108.43,39.81,0.0,68.62,7.23,Em operação,NF-0563004,Automático,U048,2015-07-31
+PPI-0000622,SHP-06,100.0,Instalações,Combinação de negócios,2006-08-15,20,1812.79,869.25,4790.2,5733.74,90.64,Em operação,LAUDO-8402967,Automático,U038,2006-08-16
+PPI-0000623,SHP-44,60.5,Equipamentos e sistemas,Adição 2025,2025-01-04,5,1338.98,130.44,0.0,1208.54,265.59,Em operação,NF-2642221,Automático,U024,2025-01-06
+PPI-0000624,SHP-07,50.0,Instalações,Combinação de negócios,2012-06-25,15,349.71,172.84,939.96,1116.83,23.31,Em operação,LAUDO-1123450,Automático,U016,2012-07-23
+PPI-0000625,SHP-36,100.0,Benfeitorias e acabamentos,Combinação de negócios,2011-09-11,15,15159.07,7211.39,27178.89,35126.57,1010.6,Em operação,LAUDO-6653835,Automático,U004,2011-09-26
+PPI-0000626,SHP-13,65.0,Benfeitorias e acabamentos,Aquisição/construção própria,1990-06-03,10,1748.49,910.17,0.0,838.32,0.0,Em operação,NF-4917870,Automático,U028,1990-06-04
+PPI-0000627,SHP-02,30.0,Edificações,Aquisição/construção própria,2001-05-06,50,22028.76,6051.25,0.0,15977.51,440.58,Em operação,NF-1224277,Automático,U028,2001-05-28
+PPI-0000628,SHP-29,30.0,Instalações,Combinação de negócios,2006-08-20,15,99.72,54.29,324.31,369.74,0.0,Em operação,LAUDO-5718630,Manual,U007,2006-08-21
+PPI-0000629,SHP-38,75.0,Equipamentos e sistemas,Combinação de negócios,2011-12-28,5,6.63,3.56,16.72,19.79,0.0,Em operação,LAUDO-9047789,Automático,U043,2011-12-29
+PPI-0000630,SHP-43,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2007-01-20,10,46012.42,22826.95,0.0,23185.47,0.0,Em operação,NF-3524292,Automático,U017,2007-01-23
+PPI-0000631,SHP-37,40.0,Instalações,Combinação de negócios,2015-07-01,20,533.99,145.35,462.65,851.29,26.7,Em operação,LAUDO-3224329,Automático,U022,2015-07-13
+PPI-0000632,SHP-29,30.0,Edificações,Combinação de negócios,1995-11-29,40,904.12,332.2,3182.56,3754.48,22.6,Em operação,LAUDO-6923985,Manual,U011,1995-11-30
+PPI-0000633,SHP-18,100.0,Edificações,Aquisição/construção própria,2003-07-01,40,1671.72,487.61,0.0,1184.11,41.79,Em operação,NF-6041704,Automático,U005,2003-07-07
+PPI-0000634,SHP-23,50.0,Instalações,Combinação de negócios,2018-05-10,15,69695.85,18549.76,132642.98,183789.07,4646.39,Em operação,LAUDO-7047174,Automático,U025,2018-05-15
+PPI-0000635,SHP-43,75.0,Equipamentos e sistemas,Aquisição/construção própria,1982-08-24,10,1901.21,1027.81,0.0,873.4,0.0,Em operação,NF-1261632,Automático,U024,1982-09-13
+PPI-0000636,SHP-27,40.0,Obras em andamento,Aquisição/construção própria,2003-12-03,0,838.3,0.0,0.0,838.3,0.0,Em desenvolvimento,NF-0879442,Automático,U050,2003-12-05
+PPI-0000637,SHP-13,65.0,Equipamentos e sistemas,Combinação de negócios,2005-10-09,5,6148.67,3246.14,15992.78,18895.31,0.0,Em operação,LAUDO-9721651,Automático,U016,2005-10-11
+PPI-0000638,SHP-15,70.0,Equipamentos e sistemas,Aquisição/construção própria,1999-02-18,5,1949.95,1021.72,0.0,928.23,0.0,Em operação,NF-8147225,Automático,U040,1999-02-18
+PPI-0000639,SHP-16,35.0,Equipamentos e sistemas,Combinação de negócios,2014-08-15,10,102.26,49.49,380.49,433.26,0.0,Em operação,LAUDO-7955379,Automático,U017,2014-08-15
+PPI-0000640,SHP-02,30.0,Instalações,Aquisição/construção própria,2020-03-05,20,299229.76,44161.95,0.0,255067.81,14961.49,Em operação,NF-7794158,Automático,U059,2020-03-06
+PPI-0000641,SHP-35,100.0,Benfeitorias e acabamentos,Aquisição/construção própria,1985-12-22,10,4285.44,2065.75,0.0,2219.69,0.0,Em operação,NF-4142194,Manual,U001,1985-12-24
+PPI-0000642,SHP-39,70.0,Instalações,Combinação de negócios,2008-10-30,15,2558.23,1293.86,2878.64,4143.01,0.0,Em operação,LAUDO-1129414,Automático,U041,2008-10-30
+PPI-0000643,SHP-09,70.0,Equipamentos e sistemas,Aquisição/construção própria,2011-07-16,10,1457.61,786.97,0.0,670.64,0.0,Em operação,NF-8379301,Manual,U004,2011-07-20
+PPI-0000644,SHP-43,75.0,Instalações,Combinação de negócios,2011-09-21,15,30400.7,16390.09,92773.87,106784.48,2026.71,Em operação,LAUDO-3080775,Automático,U037,2011-09-26
+PPI-0000645,SHP-30,100.0,Edificações,Aquisição/construção própria,2022-06-28,50,103897.43,3792.1,0.0,100105.33,2077.95,Em operação,NF-3624966,Automático,U039,2022-07-04
+PPI-0000646,SHP-15,70.0,Edificações,Aquisição/construção própria,2007-09-28,50,892.9,181.86,0.0,711.04,17.86,Em operação,NF-8646184,Automático,U025,2007-09-28
+PPI-0000647,SHP-15,70.0,Instalações,Aquisição/construção própria,2016-07-01,15,25859.26,8485.64,0.0,17373.62,1723.95,Em operação,NF-5542093,Automático,U060,2016-07-04
+PPI-0000648,SHP-21,40.0,Instalações,Combinação de negócios,2012-09-28,15,536.11,256.03,1151.55,1431.63,35.74,Em operação,LAUDO-6872591,Automático,U043,2012-10-02
+PPI-0000649,SHP-30,100.0,Instalações,Aquisição/construção própria,1994-09-01,15,6224.96,3277.1,0.0,2947.86,0.0,Em operação,NF-0488822,Automático,U056,1994-09-05
+PPI-0000650,SHP-05,75.0,Instalações,Aquisição/construção própria,1992-02-14,20,1052.35,566.2,0.0,486.15,0.0,Em operação,NF-4532455,Automático,U056,1992-02-14
+PPI-0000651,SHP-16,35.0,Benfeitorias e acabamentos,Combinação de negócios,2016-05-12,10,49.16,23.72,48.45,73.89,4.92,Em operação,LAUDO-0933864,Automático,U004,2016-05-16
+PPI-0000652,SHP-15,70.0,Instalações,Aquisição/construção própria,2005-09-23,20,12526.55,5965.41,0.0,6561.14,0.0,Em operação,NF-6884056,Manual,U008,2005-09-23
+PPI-0000653,SHP-34,50.0,Equipamentos e sistemas,Aquisição/construção própria,2012-05-23,10,570.21,294.66,0.0,275.55,0.0,Em operação,NF-3582668,Automático,U024,2012-05-23
+PPI-0000654,SHP-12,70.0,Benfeitorias e acabamentos,Combinação de negócios,2021-02-17,10,4186.61,1006.09,12027.59,15208.11,418.66,Em operação,LAUDO-0947096,Automático,U054,2021-02-22
+PPI-0000655,SHP-05,75.0,Benfeitorias e acabamentos,Combinação de negócios,2000-01-10,10,12800.03,6448.04,21874.84,28226.83,0.0,Em operação,LAUDO-7313163,Automático,U047,2000-01-14
+PPI-0000656,SHP-27,40.0,Instalações,Aquisição/construção própria,2019-01-05,15,53.5,14.22,0.0,39.28,3.57,Em operação,NF-4301917,Automático,U037,2019-01-09
+PPI-0000657,SHP-27,40.0,Benfeitorias e acabamentos,Aquisição/construção própria,2000-12-06,10,231.78,121.57,0.0,110.21,0.0,Em operação,NF-7859766,Automático,U025,2000-12-06
+PPI-0000658,SHP-10,60.5,Edificações,Combinação de negócios,2007-11-20,50,4230.18,856.13,10670.78,14044.83,84.6,Em operação,LAUDO-9637200,Automático,U050,2007-11-22
+PPI-0000659,SHP-15,70.0,Benfeitorias e acabamentos,Aquisição/construção própria,2013-02-22,10,2046.05,1071.82,0.0,974.23,0.0,Em operação,NF-4847191,Automático,U042,2013-02-25
+PPI-0000660,SHP-15,70.0,Instalações,Aquisição/construção própria,2012-05-22,20,10124.29,3721.76,0.0,6402.53,506.21,Em operação,NF-4443136,Automático,U034,2012-05-28
+PPI-0000661,SHP-21,40.0,Benfeitorias e acabamentos,Adição 2025,2025-08-16,10,1873.18,37.17,0.0,1836.01,70.82,Em operação,NF-2160285,Automático,U033,2025-08-18
+PPI-0000662,SHP-42,40.0,Obras em andamento,Combinação de negócios,1992-12-24,0,260.51,0.0,405.23,665.74,0.0,Em desenvolvimento,LAUDO-2693561,Automático,U005,1992-12-24
+PPI-0000663,SHP-42,40.0,Edificações,Combinação de negócios,2015-03-28,40,420.28,60.54,431.3,791.04,10.51,Em operação,LAUDO-2892482,Automático,U016,2015-03-30
+PPI-0000664,SHP-42,40.0,Edificações,Combinação de negócios,2001-12-03,40,321.64,103.03,346.32,564.93,8.04,Em operação,LAUDO-4133647,Automático,U016,2001-12-27
+PPI-0000665,SHP-10,60.5,Edificações,Adição 2025,2025-11-25,50,10824.48,11.26,0.0,10813.22,21.95,Em operação,NF-3411430,Automático,U029,2025-11-27
+PPI-0000666,SHP-22,40.0,Edificações,Combinação de negócios,1988-02-07,50,8587.91,3185.24,18811.92,24214.59,171.76,Em operação,LAUDO-0920781,Automático,U056,1988-02-10
+PPI-0000667,SHP-14,90.0,Instalações,Combinação de negócios,2005-03-03,20,17532.2,9192.33,34126.21,42466.08,0.0,Em operação,LAUDO-9697985,Automático,U034,2005-03-03
+PPI-0000668,SHP-09,70.0,Instalações,Aquisição/construção própria,2013-12-19,15,54508.95,24483.29,0.0,30025.66,3633.93,Em operação,NF-3333362,Automático,U054,2013-12-20
+PPI-0000669,SHP-13,65.0,Instalações,Combinação de negócios,2000-12-24,15,171325.37,90691.18,473796.11,554430.3,0.0,Em operação,LAUDO-1564283,Automático,U026,2000-12-28
+PPI-0000670,SHP-31,65.0,Edificações,Combinação de negócios,2007-06-06,50,10761.6,2176.87,26344.09,34928.82,215.23,Em operação,LAUDO-6981520,Manual,U008,2007-06-11
+PPI-0000671,SHP-43,75.0,Instalações,Aquisição/construção própria,2015-01-22,15,1357.09,555.45,0.0,801.64,90.47,Em operação,NF-8200799,Automático,U044,2015-01-23
+PPI-0000672,SHP-15,70.0,Equipamentos e sistemas,Combinação de negócios,1986-10-21,5,318.91,171.18,713.26,860.99,0.0,Em operação,LAUDO-8358461,Automático,U048,1986-10-24
+PPI-0000673,SHP-43,75.0,Instalações,Combinação de negócios,1980-04-11,15,3164.16,1677.3,2450.44,3937.3,0.0,Em operação,LAUDO-0417051,Automático,U025,1980-04-14
+PPI-0000674,SHP-10,60.5,Instalações,Combinação de negócios,2006-03-07,15,651.66,308.62,1292.04,1635.08,0.0,Em operação,LAUDO-4072629,Automático,U032,2006-04-03
+PPI-0000675,SHP-36,100.0,Benfeitorias e acabamentos,Adição 2025,2025-09-29,15,317.96,2.68,0.0,315.28,5.46,Em operação,NF-8008871,Automático,U027,2025-10-02
+PPI-0000676,SHP-34,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2013-04-27,25,184.64,47.11,0.0,137.53,7.39,Em operação,NF-0048967,Manual,U011,2013-05-01
+PPI-0000677,SHP-02,30.0,Instalações,Aquisição/construção própria,2002-05-03,20,31410.06,16682.47,0.0,14727.59,0.0,Em operação,NF-7247875,Automático,U053,2002-05-07
+PPI-0000678,SHP-38,75.0,Instalações,Combinação de negócios,1999-05-05,20,4960.64,2505.5,9849.79,12304.93,0.0,Em operação,LAUDO-3266915,Automático,U014,1999-05-07
+PPI-0000679,SHP-39,70.0,Benfeitorias e acabamentos,Aquisição/construção própria,2011-11-29,10,32033.53,15901.75,0.0,16131.78,0.0,Em operação,NF-1191972,Manual,U014,2012-01-09
+PPI-0000680,SHP-02,30.0,Edificações,Combinação de negócios,1990-06-05,50,49922.88,18098.31,55627.79,87452.36,998.46,Em operação,LAUDO-0799756,Automático,U050,1990-06-08
+PPI-0000681,SHP-15,70.0,Edificações,Aquisição/construção própria,2003-06-14,50,1122.77,264.23,0.0,858.54,22.46,Em operação,NF-4603197,Automático,U045,2003-06-16
+PPI-0000682,SHP-34,50.0,Edificações,Aquisição/construção própria,1998-05-07,40,15377.49,5381.23,0.0,9996.26,384.44,Em operação,NF-8385630,Automático,U026,1998-05-12
+PPI-0000683,SHP-23,50.0,Equipamentos e sistemas,Aquisição/construção própria,2018-06-17,5,298.27,152.34,0.0,145.93,0.0,Em operação,NF-8744032,Automático,U028,2018-07-30
+PPI-0000684,SHP-15,70.0,Equipamentos e sistemas,Combinação de negócios,2021-03-18,10,2465.24,582.03,5515.41,7398.62,246.52,Em operação,LAUDO-9403773,Automático,U027,2021-03-22
+PPI-0000685,SHP-02,30.0,Edificações,Combinação de negócios,1994-03-23,40,31584.78,12824.01,59262.15,78022.92,789.62,Em operação,LAUDO-4228583,Automático,U023,1994-03-23
+PPI-0000686,SHP-03,50.0,Equipamentos e sistemas,Combinação de negócios,2002-08-14,5,1932.01,1003.31,7105.2,8033.9,0.0,Em operação,LAUDO-8572101,Automático,U036,2002-08-16
+PPI-0000687,SHP-39,70.0,Edificações,Combinação de negócios,2011-05-28,40,4923.96,975.48,15919.73,19868.21,123.1,Em operação,LAUDO-7546617,Automático,U036,2011-05-31
+PPI-0000688,SHP-13,65.0,Equipamentos e sistemas,Combinação de negócios,2011-03-31,10,170.83,84.19,349.18,435.82,0.0,Em operação,LAUDO-5205404,Automático,U007,2011-04-04
+PPI-0000689,SHP-43,75.0,Edificações,Combinação de negócios,2023-11-19,50,167.73,3.63,484.32,648.42,3.35,Em operação,LAUDO-9518318,Manual,U002,2023-12-06
+PPI-0000690,SHP-43,75.0,Edificações,Combinação de negócios,2004-02-08,40,1673.67,475.6,4526.53,5724.6,41.84,Em operação,LAUDO-6588468,Automático,U007,2004-02-13
+PPI-0000691,SHP-15,70.0,Equipamentos e sistemas,Aquisição/construção própria,1979-11-22,5,219.94,116.98,0.0,102.96,0.0,Em operação,NF-1759733,Automático,U016,1979-11-26
+PPI-0000692,SHP-11,90.0,Benfeitorias e acabamentos,Combinação de negócios,2006-05-30,25,13125.44,5311.04,36165.52,43979.92,525.02,Em operação,LAUDO-5369196,Automático,U058,2006-06-02
+PPI-0000693,SHP-43,75.0,Edificações,Aquisição/construção própria,2015-01-08,40,478.09,64.31,0.0,413.78,11.95,Em operação,NF-3567604,Automático,U001,2015-01-13
+PPI-0000694,SHP-33,100.0,Edificações,Combinação de negócios,2006-10-13,40,27950.23,7093.77,72822.35,93678.81,698.76,Em operação,LAUDO-6145294,Automático,U055,2006-10-13
+PPI-0000695,SHP-23,50.0,Edificações,Aquisição/construção própria,1994-10-02,40,34450.24,14272.57,0.0,20177.67,861.26,Em operação,NF-2888032,Automático,U052,1994-11-07
+PPI-0000696,SHP-15,70.0,Edificações,Aquisição/construção própria,2007-11-02,40,18848.39,4188.48,0.0,14659.91,471.21,Em operação,NF-8817467,Automático,U011,2007-11-30
+PPI-0000697,SHP-15,70.0,Edificações,Aquisição/construção própria,2000-12-14,50,623.6,164.5,0.0,459.1,12.47,Em operação,NF-0100474,Automático,U008,2000-12-18
+PPI-0000698,SHP-14,90.0,Obras em andamento,Aquisição/construção própria,2015-03-19,0,581.51,0.0,0.0,581.51,0.0,Em desenvolvimento,NF-9389907,Automático,U046,2015-03-23
+PPI-0000699,SHP-21,40.0,Instalações,Combinação de negócios,2004-06-27,20,893.51,452.0,3056.65,3498.16,0.0,Em operação,LAUDO-9382883,Manual,U009,2004-06-29
+PPI-0000700,SHP-38,75.0,Edificações,Combinação de negócios,1990-07-14,50,2669.52,1084.79,8748.33,10333.06,53.39,Em operação,LAUDO-1666385,Automático,U034,1990-07-19
+PPI-0000701,SHP-02,30.0,Edificações,Combinação de negócios,2015-01-04,40,1973.09,294.3,1730.87,3409.66,49.33,Em operação,LAUDO-9166489,Automático,U030,2015-01-07
+PPI-0000702,SHP-28,40.0,Instalações,Combinação de negócios,1992-05-04,20,32903.2,17668.63,38487.19,53721.76,0.0,Em operação,LAUDO-8575907,Automático,U033,1992-05-06
+PPI-0000703,SHP-04,60.5,Instalações,Aquisição/construção própria,2018-12-26,20,36199.49,6883.27,0.0,29316.22,1809.97,Em operação,NF-5356301,Automático,U015,2018-12-31
+PPI-0000704,SHP-05,75.0,Edificações,Aquisição/construção própria,2013-04-05,50,13316.45,1819.61,0.0,11496.84,266.33,Em operação,NF-6201065,Automático,U009,2013-04-08
+PPI-0000705,SHP-31,65.0,Instalações,Aquisição/construção própria,1991-03-03,15,14689.3,6835.54,0.0,7853.76,0.0,Em operação,NF-4256905,Automático,U020,1991-03-04
+PPI-0000706,SHP-20,46.7,Edificações,Combinação de negócios,2007-08-12,40,2696.85,668.79,5738.9,7766.96,67.42,Em operação,LAUDO-1290158,Manual,U015,2007-08-16
+PPI-0000707,SHP-30,100.0,Edificações,Aquisição/construção própria,2011-12-15,40,20206.52,4060.71,0.0,16145.81,505.16,Em operação,NF-9344473,Automático,U029,2012-01-09
+PPI-0000708,SHP-35,100.0,Edificações,Combinação de negócios,2024-07-25,50,9618.83,140.34,31391.69,40870.18,192.38,Em operação,LAUDO-0021280,Automático,U006,2024-07-26
+PPI-0000709,SHP-35,100.0,Benfeitorias e acabamentos,Combinação de negócios,1977-02-03,10,6706.0,3152.37,15242.23,18795.86,0.0,Em operação,LAUDO-0623985,Automático,U047,1977-02-04
+PPI-0000710,SHP-36,100.0,Direito de uso,Aquisição/construção própria,2008-04-30,20,995.68,456.93,0.0,538.75,49.78,Em operação,CTR-5868767,Automático,U048,2008-05-05
+PPI-0000711,SHP-29,30.0,Instalações,Combinação de negócios,2006-06-09,20,15794.71,7686.21,21045.45,29153.95,789.74,Em operação,LAUDO-5362882,Manual,U002,2006-06-13
+PPI-0000712,SHP-15,70.0,Instalações,Aquisição/construção própria,2014-01-04,20,2064.6,700.97,0.0,1363.63,103.23,Em operação,NF-3894462,Automático,U038,2014-01-07
+PPI-0000713,SHP-12,70.0,Benfeitorias e acabamentos,Aquisição/construção própria,1986-06-06,10,7595.83,3995.1,0.0,3600.73,0.0,Em operação,NF-6488858,Automático,U059,1986-06-11
+PPI-0000714,SHP-22,40.0,Benfeitorias e acabamentos,Aquisição/construção própria,2008-05-02,10,14732.02,8032.8,0.0,6699.22,0.0,Em operação,NF-3172801,Automático,U040,2008-05-07
+PPI-0000715,SHP-06,100.0,Obras em andamento,Aquisição/construção própria,1978-12-29,0,442.63,0.0,0.0,442.63,0.0,Em desenvolvimento,NF-2551840,Manual,U012,1979-01-03
+PPI-0000716,SHP-21,40.0,Edificações,Combinação de negócios,2004-01-01,50,354.46,83.57,1167.08,1437.97,7.09,Em operação,LAUDO-6625843,Automático,U041,2004-01-30
+PPI-0000717,SHP-05,75.0,Edificações,Combinação de negócios,2017-07-23,50,1419.1,125.08,1772.64,3066.66,28.38,Em operação,LAUDO-3996261,Automático,U060,2017-07-24
+PPI-0000718,SHP-13,65.0,Instalações,Combinação de negócios,2023-05-23,20,11526.08,850.03,12092.32,22768.37,576.3,Em operação,LAUDO-7544959,Automático,U018,2023-05-24
+PPI-0000719,SHP-14,90.0,Instalações,Combinação de negócios,1994-01-10,15,4936.13,2392.57,6490.01,9033.57,0.0,Em operação,LAUDO-4887757,Automático,U029,1994-01-12
+PPI-0000720,SHP-01,90.0,Benfeitorias e acabamentos,Combinação de negócios,2002-10-10,25,2014.59,1011.08,7049.53,8053.04,80.58,Em operação,LAUDO-1155168,Automático,U011,2002-10-14
+PPI-0000721,SHP-43,75.0,Instalações,Combinação de negócios,2022-02-08,20,9188.13,913.65,31586.4,39860.88,459.41,Em operação,LAUDO-8661747,Automático,U047,2022-03-22
+PPI-0000722,SHP-35,100.0,Equipamentos e sistemas,Combinação de negócios,2017-03-03,5,9703.75,4988.99,15665.92,20380.68,0.0,Em operação,LAUDO-0487811,Automático,U048,2017-03-07
+PPI-0000723,SHP-40,50.0,Equipamentos e sistemas,Combinação de negócios,2001-05-12,5,451.83,223.2,1599.77,1828.4,0.0,Em operação,LAUDO-4929503,Automático,U031,2001-05-14
+PPI-0000724,SHP-45,46.7,Edificações,Combinação de negócios,2021-03-06,50,2385.24,117.79,5137.58,7405.03,47.7,Em operação,LAUDO-1281476,Manual,U003,2021-03-08
+PPI-0000725,SHP-19,50.0,Instalações,Combinação de negócios,2006-03-15,20,5249.69,2802.53,11000.42,13447.58,262.48,Em operação,LAUDO-6510390,Automático,U031,2006-03-20
+PPI-0000726,SHP-21,40.0,Benfeitorias e acabamentos,Combinação de negócios,2006-03-30,25,8748.99,3829.04,12602.79,17522.74,349.96,Em operação,LAUDO-8203192,Manual,U001,2006-03-31
+PPI-0000727,SHP-26,100.0,Equipamentos e sistemas,Aquisição/construção própria,2007-11-04,10,2288.21,1120.02,0.0,1168.19,0.0,Em operação,NF-1183500,Automático,U046,2007-11-08
+PPI-0000728,SHP-07,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2019-11-18,25,20134.1,2552.98,0.0,17581.12,805.36,Em operação,NF-1071699,Automático,U059,2019-11-21
+PPI-0000729,SHP-40,50.0,Edificações,Combinação de negócios,2002-06-07,50,911.63,216.93,2403.76,3098.46,18.23,Em operação,LAUDO-2692213,Automático,U040,2002-06-10
+PPI-0000730,SHP-11,90.0,Edificações,Aquisição/construção própria,2012-08-05,40,622.54,117.52,0.0,505.02,15.56,Em operação,NF-2678070,Manual,U010,2012-08-08
+PPI-0000731,SHP-15,70.0,Edificações,Aquisição/construção própria,1977-03-13,40,8158.87,3812.84,0.0,4346.03,0.0,Em operação,NF-9661767,Automático,U056,1977-03-17
+PPI-0000732,SHP-09,70.0,Edificações,Adição 2025,2025-04-16,40,1032.15,9.57,0.0,1022.58,18.38,Em operação,NF-3296416,Manual,U001,2025-04-21
+PPI-0000733,SHP-12,70.0,Edificações,Combinação de negócios,2014-10-08,40,218.27,34.85,213.46,396.88,5.46,Em operação,LAUDO-3467980,Automático,U038,2014-10-29
+PPI-0000734,SHP-04,60.5,Edificações,Combinação de negócios,1984-01-19,40,12565.17,6349.92,39209.35,45424.6,0.0,Em operação,LAUDO-3771997,Automático,U024,1984-01-23
+PPI-0000735,SHP-09,70.0,Edificações,Combinação de negócios,1992-09-21,50,13859.53,4882.75,42397.92,51374.7,277.19,Em operação,LAUDO-2299540,Automático,U052,1992-09-21
+PPI-0000736,SHP-09,70.0,Equipamentos e sistemas,Combinação de negócios,2003-05-12,5,61.12,29.35,165.67,197.44,0.0,Em operação,LAUDO-8373234,Automático,U020,2003-05-12
+PPI-0000737,SHP-29,30.0,Equipamentos e sistemas,Combinação de negócios,2016-01-01,10,3503.49,1896.39,6709.93,8317.03,350.35,Em operação,LAUDO-8403870,Manual,U014,2016-01-04
+PPI-0000738,SHP-44,60.5,Edificações,Combinação de negócios,2017-10-18,50,10678.74,862.96,21385.55,31201.33,213.57,Em operação,LAUDO-8981108,Automático,U011,2017-10-19
+PPI-0000739,SHP-43,75.0,Benfeitorias e acabamentos,Combinação de negócios,2007-10-08,10,2579.13,1212.61,4996.86,6363.38,0.0,Em operação,LAUDO-5810603,Automático,U023,2007-10-12
+PPI-0000740,SHP-18,100.0,Instalações,Combinação de negócios,2018-03-30,20,31566.2,5979.4,30924.81,56511.61,1578.31,Em operação,LAUDO-7604514,Manual,U007,2018-04-03
+PPI-0000741,SHP-12,70.0,Instalações,Combinação de negócios,2020-08-19,20,1700.9,241.85,3621.63,5080.68,85.04,Em operação,LAUDO-2168658,Automático,U038,2020-08-20
+PPI-0000742,SHP-21,40.0,Benfeitorias e acabamentos,Aquisição/construção própria,2011-08-22,25,748.74,229.58,0.0,519.16,29.95,Em operação,NF-1923616,Manual,U006,2011-08-26
+PPI-0000743,SHP-29,30.0,Edificações,Aquisição/construção própria,2013-08-25,50,15907.4,2023.26,0.0,13884.14,318.15,Em operação,NF-1051309,Automático,U018,2013-09-16
+PPI-0000744,SHP-04,60.5,Benfeitorias e acabamentos,Combinação de negócios,2011-04-19,10,67.93,33.12,127.41,162.22,0.0,Em operação,LAUDO-6001884,Automático,U039,2011-04-25
+PPI-0000745,SHP-05,75.0,Edificações,Combinação de negócios,1980-03-23,40,858.15,450.33,2932.58,3340.4,0.0,Em operação,LAUDO-0983888,Automático,U011,1980-03-24
+PPI-0000746,SHP-24,100.0,Instalações,Aquisição/construção própria,2016-03-24,20,12181.01,3165.97,0.0,9015.04,609.05,Em operação,NF-0668441,Automático,U042,2016-03-29
+PPI-0000747,SHP-30,100.0,Instalações,Aquisição/construção própria,2004-10-09,20,3195.48,1584.73,0.0,1610.75,0.0,Em operação,NF-5106904,Manual,U002,2004-10-11
+PPI-0000748,SHP-05,75.0,Equipamentos e sistemas,Combinação de negócios,2016-03-29,10,1097.85,519.04,3417.26,3996.07,109.78,Em operação,LAUDO-6558462,Manual,U003,2016-03-29
+PPI-0000749,SHP-05,75.0,Edificações,Combinação de negócios,2024-07-10,50,444.12,7.01,1670.58,2107.69,8.88,Em operação,LAUDO-2845428,Automático,U010,2024-07-19
+PPI-0000750,SHP-17,65.0,Benfeitorias e acabamentos,Combinação de negócios,2024-02-16,25,2206.58,86.76,3320.83,5440.65,88.26,Em operação,LAUDO-3906139,Automático,U058,2024-02-21
+PPI-0000751,SHP-45,46.7,Benfeitorias e acabamentos,Aquisição/construção própria,1983-07-15,25,861.02,430.38,0.0,430.64,0.0,Em operação,NF-5426825,Automático,U008,1983-08-02
+PPI-0000752,SHP-23,50.0,Edificações,Combinação de negócios,1986-06-03,50,910003.12,370191.05,676183.47,1215995.54,18200.06,Em operação,LAUDO-6850428,Automático,U002,1986-06-03
+PPI-0000753,SHP-45,46.7,Edificações,Aquisição/construção própria,2007-08-30,50,3360.75,645.51,0.0,2715.24,67.22,Em operação,NF-0240843,Automático,U016,2007-09-04
+PPI-0000754,SHP-32,50.0,Edificações,Combinação de negócios,2007-08-27,40,34755.75,7803.96,44030.67,70982.46,868.89,Em operação,LAUDO-8134031,Automático,U008,2007-09-03
+PPI-0000755,SHP-06,100.0,Edificações,Combinação de negócios,2013-07-08,50,8028.66,1104.02,12220.26,19144.9,160.57,Em operação,LAUDO-2183013,Automático,U013,2013-07-08
+PPI-0000756,SHP-43,75.0,Direito de uso,Aquisição/construção própria,2010-03-25,10,1470.62,687.49,0.0,783.13,0.0,Em operação,CTR-7545916,Automático,U050,2010-03-30
+PPI-0000757,SHP-15,70.0,Benfeitorias e acabamentos,Combinação de negócios,2002-04-19,15,6031.25,2973.25,6623.63,9681.63,0.0,Em operação,LAUDO-2383385,Automático,U018,2002-05-20
+PPI-0000758,SHP-05,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2013-02-02,25,110.3,27.88,0.0,82.42,4.41,Em operação,NF-2384048,Manual,U015,2013-02-05
+PPI-0000759,SHP-30,100.0,Benfeitorias e acabamentos,Adição 2025,2025-12-15,15,431.51,0.56,0.0,430.95,1.34,Em operação,NF-6304943,Automático,U013,2025-12-22
+PPI-0000760,SHP-34,50.0,Instalações,Aquisição/construção própria,2007-04-15,20,301251.48,147090.81,0.0,154160.67,15062.57,Em operação,NF-7057181,Automático,U031,2007-04-17
+PPI-0000761,SHP-04,60.5,Edificações,Combinação de negócios,1992-02-10,40,23440.08,9971.22,85015.59,98484.45,586.0,Em operação,LAUDO-1758616,Automático,U048,1992-02-14
+PPI-0000762,SHP-32,50.0,Instalações,Aquisição/construção própria,2002-12-24,20,6467.1,3401.25,0.0,3065.85,0.0,Em operação,NF-9067433,Automático,U042,2002-12-27
+PPI-0000763,SHP-35,100.0,Benfeitorias e acabamentos,Combinação de negócios,2014-01-04,10,213.02,104.06,333.44,442.4,0.0,Em operação,LAUDO-5328522,Automático,U055,2014-01-09
+PPI-0000764,SHP-05,75.0,Equipamentos e sistemas,Combinação de negócios,2006-05-10,10,265.25,139.05,754.32,880.52,0.0,Em operação,LAUDO-0702537,Automático,U016,2006-06-05
+PPI-0000765,SHP-05,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2015-01-13,15,36147.13,14282.65,0.0,21864.48,2409.81,Em operação,NF-7187856,Manual,U004,2015-01-13
+PPI-0000766,SHP-34,50.0,Edificações,Combinação de negócios,2016-01-02,40,4422.84,565.27,11623.47,15481.04,110.57,Em operação,LAUDO-0822489,Automático,U025,2016-01-05
+PPI-0000767,SHP-09,70.0,Instalações,Aquisição/construção própria,2009-03-10,20,930.2,417.67,0.0,512.53,46.51,Em operação,NF-9961556,Automático,U012,2009-03-10
+PPI-0000768,SHP-13,65.0,Benfeitorias e acabamentos,Combinação de negócios,1994-11-05,10,51.91,25.42,163.15,189.64,0.0,Em operação,LAUDO-4222411,Automático,U049,1994-11-07
+PPI-0000769,SHP-27,40.0,Equipamentos e sistemas,Aquisição/construção própria,2013-03-25,10,358.4,176.78,0.0,181.62,0.0,Em operação,NF-7625188,Automático,U025,2013-03-29
+PPI-0000770,SHP-43,75.0,Edificações,Combinação de negócios,2010-11-17,40,1621.03,300.09,2806.77,4127.71,40.53,Em operação,LAUDO-6231708,Automático,U003,2010-11-22
+PPI-0000771,SHP-07,50.0,Edificações,Aquisição/construção própria,2012-03-05,40,2386.7,448.51,0.0,1938.19,59.67,Em operação,NF-3521613,Automático,U060,2012-03-12
+PPI-0000772,SHP-29,30.0,Edificações,Combinação de negócios,2010-07-20,50,1672.13,293.24,5983.37,7362.26,33.44,Em operação,LAUDO-2925755,Automático,U048,2010-08-02
+PPI-0000773,SHP-06,100.0,Benfeitorias e acabamentos,Combinação de negócios,1997-10-08,15,608.0,307.08,1248.75,1549.67,0.0,Em operação,LAUDO-7440289,Manual,U011,1997-10-09
+PPI-0000774,SHP-20,46.7,Benfeitorias e acabamentos,Aquisição/construção própria,2008-08-25,25,1836.93,641.66,0.0,1195.27,73.48,Em operação,NF-8479349,Automático,U040,2008-08-27
+PPI-0000775,SHP-18,100.0,Edificações,Combinação de negócios,1994-11-13,40,208953.49,87381.14,417719.52,539291.87,5223.84,Em operação,LAUDO-5139840,Automático,U022,1994-11-18
+PPI-0000776,SHP-29,30.0,Benfeitorias e acabamentos,Aquisição/construção própria,2022-12-29,10,234.18,38.16,0.0,196.02,23.42,Em operação,NF-7383713,Automático,U042,2022-12-30
+PPI-0000777,SHP-35,100.0,Benfeitorias e acabamentos,Combinação de negócios,1996-06-25,25,283.8,142.85,577.63,718.58,0.0,Em operação,LAUDO-8385073,Automático,U018,1996-06-28
+PPI-0000778,SHP-29,30.0,Benfeitorias e acabamentos,Aquisição/construção própria,2017-03-14,10,2405.69,1213.91,0.0,1191.78,240.57,Em operação,NF-9862638,Automático,U021,2017-03-20
+PPI-0000779,SHP-17,65.0,Edificações,Combinação de negócios,2006-11-20,40,1158.74,311.5,2658.28,3505.52,28.97,Em operação,LAUDO-1191411,Automático,U048,2006-11-28
+PPI-0000780,SHP-29,30.0,Edificações,Combinação de negócios,2006-03-08,50,2429.85,474.63,9023.29,10978.51,48.6,Em operação,LAUDO-6319352,Automático,U024,2006-03-13
+PPI-0000781,SHP-20,46.7,Instalações,Aquisição/construção própria,2024-06-13,15,9985.25,550.62,0.0,9434.63,665.68,Em operação,NF-0602883,Automático,U033,2024-06-18
+PPI-0000782,SHP-02,30.0,Instalações,Combinação de negócios,2007-05-19,20,3622.0,1907.8,12270.14,13984.34,181.1,Em operação,LAUDO-6764926,Automático,U052,2007-06-15
+PPI-0000783,SHP-06,100.0,Instalações,Adição 2025,2025-06-19,15,875.44,17.15,0.0,858.29,31.34,Em operação,NF-5601539,Automático,U036,2025-07-04
+PPI-0000784,SHP-25,50.0,Instalações,Combinação de negócios,1986-11-29,20,306577.36,148571.36,755426.6,913432.6,0.0,Em operação,LAUDO-2498558,Automático,U025,1986-12-08
+PPI-0000785,SHP-31,65.0,Edificações,Combinação de negócios,2016-05-05,40,34890.04,4504.29,88486.69,118872.44,872.25,Em operação,LAUDO-8652024,Automático,U006,2016-05-10
+PPI-0000786,SHP-08,65.0,Equipamentos e sistemas,Aquisição/construção própria,2011-05-10,10,794.71,405.23,0.0,389.48,0.0,Em operação,NF-6358890,Automático,U052,2011-06-06
+PPI-0000787,SHP-12,70.0,Equipamentos e sistemas,Aquisição/construção própria,2007-06-21,5,237.45,126.4,0.0,111.05,0.0,Em operação,NF-9498127,Automático,U049,2007-06-22
+PPI-0000788,SHP-25,50.0,Edificações,Combinação de negócios,2002-08-18,50,67254.78,16023.54,52653.94,103885.18,1345.1,Em operação,LAUDO-6972125,Automático,U001,2002-08-20
+PPI-0000789,SHP-29,30.0,Edificações,Aquisição/construção própria,2012-06-26,50,6315.94,891.71,0.0,5424.23,126.32,Em operação,NF-8719017,Automático,U020,2012-06-28
+PPI-0000790,SHP-29,30.0,Instalações,Aquisição/construção própria,2011-08-12,20,588.01,210.6,0.0,377.41,29.4,Em operação,NF-2273990,Automático,U002,2011-08-16
+PPI-0000791,SHP-16,35.0,Instalações,Combinação de negócios,2021-10-29,20,981.78,110.92,2627.07,3497.93,49.09,Em operação,LAUDO-3841938,Automático,U025,2021-11-02
+PPI-0000792,SHP-05,75.0,Direito de uso,Aquisição/construção própria,2010-08-17,20,354.55,143.14,0.0,211.41,17.73,Em operação,CTR-9425044,Manual,U007,2010-08-20
+PPI-0000793,SHP-38,75.0,Edificações,Aquisição/construção própria,2021-05-28,50,5027.49,258.94,0.0,4768.55,100.55,Em operação,NF-6062411,Automático,U030,2021-06-02
+PPI-0000794,SHP-20,46.7,Benfeitorias e acabamentos,Aquisição/construção própria,1988-12-12,25,2135.7,1102.81,0.0,1032.89,0.0,Em operação,NF-5726853,Automático,U034,1988-12-13
+PPI-0000795,SHP-35,100.0,Edificações,Combinação de negócios,2016-02-28,40,20693.32,2601.52,58533.58,76625.38,517.33,Em operação,LAUDO-6545042,Manual,U003,2016-03-04
+PPI-0000796,SHP-32,50.0,Edificações,Aquisição/construção própria,2006-06-11,50,1111.42,226.81,0.0,884.61,22.23,Em operação,NF-2150941,Manual,U011,2006-06-13
+PPI-0000797,SHP-35,100.0,Edificações,Combinação de negócios,2015-03-02,40,1742.81,253.8,1295.37,2784.38,43.57,Em operação,LAUDO-3727036,Automático,U016,2015-03-06
+PPI-0000798,SHP-04,60.5,Benfeitorias e acabamentos,Adição 2025,2025-12-12,15,3786.34,5.93,0.0,3780.41,13.83,Em operação,NF-2279362,Automático,U010,2025-12-22
+PPI-0000799,SHP-38,75.0,Benfeitorias e acabamentos,Adição 2025,2025-09-23,25,2907.27,17.13,0.0,2890.14,31.86,Em operação,NF-4266985,Automático,U023,2025-09-29
+PPI-0000800,SHP-43,75.0,Edificações,Combinação de negócios,2016-06-26,40,7436.38,939.01,13414.3,19911.67,185.91,Em operação,LAUDO-9731045,Automático,U003,2016-06-28
+PPI-0000801,SHP-43,75.0,Edificações,Combinação de negócios,2000-07-11,50,305.63,78.43,455.01,682.21,6.11,Em operação,LAUDO-9759756,Automático,U043,2000-07-25
+PPI-0000802,SHP-34,50.0,Edificações,Aquisição/construção própria,2008-03-15,50,3072.86,617.19,0.0,2455.67,61.46,Em operação,NF-6346991,Automático,U023,2008-03-18
+PPI-0000803,SHP-32,50.0,Edificações,Combinação de negócios,2019-06-22,50,163032.03,10450.64,169190.65,321772.04,3260.64,Em operação,LAUDO-8259334,Automático,U019,2019-06-27
+PPI-0000804,SHP-20,46.7,Benfeitorias e acabamentos,Aquisição/construção própria,1990-11-24,10,7019.76,3538.12,0.0,3481.64,0.0,Em operação,NF-4331251,Automático,U003,1990-11-29
+PPI-0000805,SHP-39,70.0,Benfeitorias e acabamentos,Combinação de negócios,2019-12-08,15,110481.17,23094.23,227282.12,314669.06,7365.41,Em operação,LAUDO-8306282,Automático,U032,2019-12-11
+PPI-0000806,SHP-02,30.0,Equipamentos e sistemas,Combinação de negócios,2007-07-15,10,1212.1,619.1,4554.29,5147.29,0.0,Em operação,LAUDO-0868715,Automático,U004,2007-07-16
+PPI-0000807,SHP-05,75.0,Edificações,Aquisição/construção própria,1993-01-26,50,3164.19,1082.73,0.0,2081.46,63.28,Em operação,NF-1672811,Manual,U002,1993-02-15
+PPI-0000808,SHP-09,70.0,Edificações,Aquisição/construção própria,2011-03-25,40,44495.16,8568.25,0.0,35926.91,1112.38,Em operação,NF-2728789,Automático,U037,2011-04-25
+PPI-0000809,SHP-43,75.0,Benfeitorias e acabamentos,Combinação de negócios,2016-04-07,10,4183.82,2078.94,15036.32,17141.2,418.38,Em operação,LAUDO-1535055,Automático,U033,2016-04-11
+PPI-0000810,SHP-05,75.0,Edificações,Combinação de negócios,2016-10-19,50,23687.79,2337.35,32257.2,53607.64,473.76,Em operação,LAUDO-4409305,Automático,U019,2016-10-20
+PPI-0000811,SHP-17,65.0,Instalações,Combinação de negócios,2013-03-12,20,21963.19,7447.19,19535.44,34051.44,1098.16,Em operação,LAUDO-2431715,Manual,U002,2013-03-13
+PPI-0000812,SHP-45,46.7,Edificações,Combinação de negócios,2010-07-09,40,10089.0,2090.07,15212.14,23211.07,252.22,Em operação,LAUDO-7436704,Automático,U003,2010-07-14
+PPI-0000813,SHP-21,40.0,Edificações,Aquisição/construção própria,2006-04-18,50,724.56,157.34,0.0,567.22,14.49,Em operação,NF-5498853,Manual,U003,2006-04-24
+PPI-0000814,SHP-15,70.0,Instalações,Combinação de negócios,2022-06-28,15,38063.37,5010.08,102880.06,135933.35,2537.56,Em operação,LAUDO-3815951,Automático,U059,2022-06-30
+PPI-0000815,SHP-29,30.0,Edificações,Combinação de negócios,2011-11-11,40,3308.7,666.99,11311.64,13953.35,82.72,Em operação,LAUDO-9567669,Manual,U007,2011-12-19
+PPI-0000816,SHP-38,75.0,Instalações,Adição 2025,2025-05-18,15,6399.45,150.29,0.0,6249.16,266.5,Em operação,NF-0553760,Automático,U009,2025-05-19
+PPI-0000817,SHP-16,35.0,Direito de uso,Aquisição/construção própria,2015-07-18,30,522.27,95.2,0.0,427.07,17.41,Em operação,CTR-8919933,Manual,U002,2015-08-17
+PPI-0000818,SHP-45,46.7,Benfeitorias e acabamentos,Aquisição/construção própria,2016-04-04,10,784.48,368.23,0.0,416.25,78.45,Em operação,NF-5731209,Automático,U020,2016-04-12
+PPI-0000819,SHP-27,40.0,Instalações,Combinação de negócios,2006-05-31,15,61372.91,28999.06,153135.18,185509.03,0.0,Em operação,LAUDO-5074219,Automático,U028,2006-06-05
+PPI-0000820,SHP-20,46.7,Instalações,Aquisição/construção própria,2015-08-09,15,83.41,32.48,0.0,50.93,5.56,Em operação,NF-1770556,Automático,U060,2015-08-11
+PPI-0000821,SHP-13,65.0,Equipamentos e sistemas,Combinação de negócios,1996-01-12,5,420.23,207.12,1089.69,1302.8,0.0,Em operação,LAUDO-6573246,Automático,U015,1996-01-15
+PPI-0000822,SHP-43,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2018-06-07,10,1000000.0,49377.23,0.0,950622.77,12044.16,Em operação,NF-1189450,Manual,U099,2025-12-28
+PPI-0000823,SHP-13,65.0,Instalações,Combinação de negócios,2012-10-26,20,7475.46,2706.66,11124.45,15893.25,373.77,Em operação,LAUDO-5406834,Automático,U009,2012-10-26
+PPI-0000824,SHP-38,75.0,Instalações,Combinação de negócios,2008-09-27,20,9033.96,4085.02,16501.7,21450.64,451.7,Em operação,LAUDO-9536723,Automático,U057,2008-10-02
+PPI-0000825,SHP-01,90.0,Benfeitorias e acabamentos,Combinação de negócios,2023-01-12,10,1039.61,153.61,2673.26,3559.26,103.96,Em operação,LAUDO-1917870,Automático,U039,2023-01-16
+PPI-0000826,SHP-05,75.0,Direito de uso,Aquisição/construção própria,2017-06-03,20,59.31,12.82,0.0,46.49,2.97,Em operação,CTR-3331522,Manual,U009,2017-06-05
+PPI-0000827,SHP-45,46.7,Edificações,Combinação de negócios,2016-09-23,40,448.0,54.8,676.27,1069.47,11.2,Em operação,LAUDO-4554807,Automático,U050,2016-09-28
+PPI-0000828,SHP-29,30.0,Benfeitorias e acabamentos,Aquisição/construção própria,2014-03-10,25,2452.56,624.41,0.0,1828.15,98.1,Em operação,NF-1665137,Automático,U006,2014-03-10
+PPI-0000829,SHP-04,60.5,Edificações,Aquisição/construção própria,2014-11-29,40,18515.1,2896.33,0.0,15618.77,462.88,Em operação,NF-1277575,Automático,U015,2014-12-04
+PPI-0000830,SHP-21,40.0,Equipamentos e sistemas,Combinação de negócios,1988-02-03,5,829.97,413.49,1354.92,1771.4,0.0,Em operação,LAUDO-1714993,Automático,U050,1988-02-08
+PPI-0000831,SHP-37,40.0,Instalações,Aquisição/construção própria,2013-07-10,15,23000.77,10429.45,0.0,12571.32,1533.38,Em operação,NF-9158809,Automático,U050,2013-08-05
+PPI-0000832,SHP-13,65.0,Edificações,Aquisição/construção própria,2003-01-18,50,365468.69,83182.71,0.0,282285.98,7309.37,Em operação,NF-9972993,Manual,U002,2003-02-28
+PPI-0000833,SHP-32,50.0,Instalações,Aquisição/construção própria,2008-06-05,20,482.57,226.47,0.0,256.1,24.13,Em operação,NF-4817554,Automático,U010,2008-06-23
+PPI-0000834,SHP-16,35.0,Edificações,Aquisição/construção própria,2007-03-13,50,2898.44,549.73,0.0,2348.71,57.97,Em operação,NF-7793164,Automático,U038,2007-03-19
+PPI-0000835,SHP-20,46.7,Edificações,Combinação de negócios,2011-03-18,50,393.89,62.11,1314.78,1646.56,7.88,Em operação,LAUDO-7819582,Automático,U020,2011-03-18
+PPI-0000836,SHP-07,50.0,Instalações,Aquisição/construção própria,2017-04-08,15,6222.63,1968.44,0.0,4254.19,414.84,Em operação,NF-9177272,Automático,U035,2017-04-12
+PPI-0000837,SHP-17,65.0,Edificações,Combinação de negócios,1979-05-25,50,57168.4,28336.97,196824.13,225655.56,1143.37,Em operação,LAUDO-0886902,Automático,U038,1979-05-25
+PPI-0000838,SHP-12,70.0,Edificações,Aquisição/construção própria,2015-04-06,50,86417.28,9417.56,0.0,76999.72,1728.35,Em operação,NF-2405691,Automático,U041,2015-05-01
+PPI-0000839,SHP-30,100.0,Edificações,Aquisição/construção própria,2023-09-17,50,17198.5,400.91,0.0,16797.59,343.97,Em operação,NF-2487364,Automático,U060,2023-09-21
+PPI-0000840,SHP-32,50.0,Benfeitorias e acabamentos,Combinação de negócios,2018-06-18,25,1813.09,297.98,4892.19,6407.3,72.52,Em operação,LAUDO-5315699,Automático,U051,2018-06-22
+PPI-0000841,SHP-32,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2021-12-04,25,1378.65,124.26,0.0,1254.39,55.15,Em operação,NF-6136807,Automático,U004,2021-12-06
+PPI-0000842,SHP-32,50.0,Edificações,Aquisição/construção própria,2003-08-26,50,3575.07,811.3,0.0,2763.77,71.5,Em operação,NF-6473831,Automático,U040,2003-09-05
+PPI-0000843,SHP-21,40.0,Obras em andamento,Aquisição/construção própria,2003-08-24,0,5280.19,0.0,0.0,5280.19,0.0,Em desenvolvimento,NF-4747374,Automático,U024,2003-08-27
+PPI-0000844,SHP-09,70.0,Edificações,Combinação de negócios,2018-05-13,50,1985.18,162.73,3839.42,5661.87,39.7,Em operação,LAUDO-0462341,Manual,U011,2018-05-16
+PPI-0000845,SHP-08,65.0,Benfeitorias e acabamentos,Combinação de negócios,2014-08-02,10,25656.84,13817.03,40199.97,52039.78,0.0,Em operação,LAUDO-9231814,Automático,U025,2014-09-08
+PPI-0000846,SHP-15,70.0,Instalações,Aquisição/construção própria,2018-01-03,15,1011.98,288.99,0.0,722.99,67.47,Em operação,NF-1770753,Automático,U033,2018-01-19
+PPI-0000847,SHP-02,30.0,Edificações,Aquisição/construção própria,2009-07-06,40,478.9,99.97,0.0,378.93,11.97,Em operação,NF-6151030,Automático,U017,2009-07-06
+PPI-0000848,SHP-07,50.0,Instalações,Aquisição/construção própria,1979-05-18,20,41252.76,19836.84,0.0,21415.92,0.0,Em operação,NF-7522987,Automático,U018,1979-05-21
+PPI-0000849,SHP-05,75.0,Edificações,Adição 2025,2025-08-06,50,50609.79,214.09,0.0,50395.7,410.42,Em operação,NF-6650496,Automático,U008,2025-08-11
+PPI-0000850,SHP-25,50.0,Edificações,Aquisição/construção própria,1983-12-05,40,1112.81,599.27,0.0,513.54,0.0,Em operação,NF-7756226,Automático,U032,1983-12-06
+PPI-0000851,SHP-35,100.0,Edificações,Aquisição/construção própria,2017-06-03,40,1402.15,170.84,0.0,1231.31,35.05,Em operação,NF-1830884,Automático,U028,2017-07-07
+PPI-0000852,SHP-24,100.0,Edificações,Combinação de negócios,1997-04-22,50,14249.04,4194.65,30928.92,40983.31,284.98,Em operação,LAUDO-3426920,Automático,U003,1997-04-24
+PPI-0000853,SHP-16,35.0,Instalações,Aquisição/construção própria,2008-09-09,20,748509.56,354309.79,0.0,394199.77,37425.48,Em operação,NF-4304884,Automático,U031,2008-09-11
+PPI-0000854,SHP-34,50.0,Edificações,Aquisição/construção própria,1985-03-30,50,2726.79,1162.87,0.0,1563.92,54.54,Em operação,NF-8090411,Manual,U003,1985-04-04
+PPI-0000855,SHP-32,50.0,Edificações,Aquisição/construção própria,2023-10-04,40,72539.82,2190.51,0.0,70349.31,1813.5,Em operação,NF-3967138,Automático,U025,2023-10-06
+PPI-0000856,SHP-40,50.0,Edificações,Aquisição/construção própria,2018-01-21,40,23857.37,2382.95,0.0,21474.42,596.43,Em operação,NF-9527048,Automático,U038,2018-01-25
+PPI-0000857,SHP-43,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2005-01-23,10,41.3,21.64,0.0,19.66,0.0,Em operação,NF-6724366,Automático,U038,2005-01-25
+PPI-0000858,SHP-27,40.0,Equipamentos e sistemas,Combinação de negócios,2015-02-20,5,31177.23,15440.52,76122.81,91859.52,0.0,Em operação,LAUDO-8780205,Automático,U052,2015-02-24
+PPI-0000859,SHP-23,50.0,Edificações,Aquisição/construção própria,2015-01-28,50,8077.27,1004.35,0.0,7072.92,161.55,Em operação,NF-6003593,Automático,U025,2015-02-02
+PPI-0000860,SHP-32,50.0,Instalações,Combinação de negócios,1977-11-03,15,7977.8,4110.25,16966.89,20834.44,0.0,Em operação,LAUDO-9684240,Automático,U014,1977-11-03
+PPI-0000861,SHP-42,40.0,Obras em andamento,Combinação de negócios,2009-11-18,0,9530.53,0.0,13055.15,22585.68,0.0,Em desenvolvimento,LAUDO-7123990,Manual,U002,2009-11-20
+PPI-0000862,SHP-23,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,2012-10-12,25,2577.97,690.12,0.0,1887.85,103.12,Em operação,NF-4010175,Automático,U052,2012-10-15
+PPI-0000863,SHP-36,100.0,Benfeitorias e acabamentos,Combinação de negócios,2013-09-30,25,171012.66,43813.89,351224.95,478423.72,6840.51,Em operação,LAUDO-2146607,Automático,U039,2013-10-03
+PPI-0000864,SHP-32,50.0,Edificações,Combinação de negócios,2011-06-28,50,40825.81,5911.73,73633.16,108547.24,816.52,Em operação,LAUDO-3929230,Automático,U031,2011-06-29
+PPI-0000865,SHP-32,50.0,Instalações,Combinação de negócios,2013-11-08,20,5528.94,1893.46,20271.26,23906.74,276.45,Em operação,LAUDO-6428720,Automático,U018,2013-11-18
+PPI-0000866,SHP-34,50.0,Benfeitorias e acabamentos,Adição 2025,2025-02-11,25,2597.24,51.57,0.0,2545.67,92.22,Em operação,NF-5746985,Automático,U004,2025-02-12
+PPI-0000867,SHP-35,100.0,Benfeitorias e acabamentos,Aquisição/construção própria,2012-02-06,10,19138.55,10164.63,0.0,8973.92,0.0,Em operação,NF-1190174,Automático,U047,2012-02-09
+PPI-0000868,SHP-21,40.0,Benfeitorias e acabamentos,Aquisição/construção própria,1992-06-28,10,41074.47,19746.34,0.0,21328.13,0.0,Em operação,NF-6713005,Automático,U025,1992-06-30
+PPI-0000869,SHP-13,65.0,Equipamentos e sistemas,Combinação de negócios,2013-03-09,10,282.38,138.27,255.52,399.63,0.0,Em operação,LAUDO-5450140,Automático,U051,2013-03-14
+PPI-0000870,SHP-29,30.0,Edificações,Combinação de negócios,2018-06-27,40,2020.88,191.0,5910.36,7740.24,50.52,Em operação,LAUDO-6399500,Automático,U033,2018-06-27
+PPI-0000871,SHP-40,50.0,Obras em andamento,Adição 2025,2025-10-13,0,228.43,0.0,0.0,228.43,0.0,Em desenvolvimento,NF-9898691,Automático,U018,2025-10-20
+PPI-0000872,SHP-13,65.0,Equipamentos e sistemas,Aquisição/construção própria,2015-07-21,10,129.1,65.63,0.0,63.47,0.0,Em operação,NF-5279642,Automático,U001,2015-07-21
+PPI-0000873,SHP-09,70.0,Direito de uso,Aquisição/construção própria,2005-07-15,20,652.73,318.7,0.0,334.03,0.0,Em operação,CTR-8737484,Automático,U014,2005-07-19
+PPI-0000874,SHP-37,40.0,Edificações,Combinação de negócios,1997-01-21,50,76159.44,25219.89,195200.54,246140.09,1523.19,Em operação,LAUDO-5236477,Manual,U012,1997-01-27
+PPI-0000875,SHP-38,75.0,Equipamentos e sistemas,Combinação de negócios,2009-07-13,5,877.2,416.84,1310.27,1770.63,0.0,Em operação,LAUDO-7078727,Automático,U035,2009-07-20
+PPI-0000876,SHP-09,70.0,Edificações,Aquisição/construção própria,2000-10-30,40,921.51,310.19,0.0,611.32,23.04,Em operação,NF-4610529,Automático,U037,2000-11-06
+PPI-0000877,SHP-38,75.0,Benfeitorias e acabamentos,Combinação de negócios,2015-06-23,10,11198.7,5856.24,33150.67,38493.13,0.0,Em operação,LAUDO-8729190,Automático,U055,2015-06-24
+PPI-0000878,SHP-43,75.0,Instalações,Combinação de negócios,2007-07-26,20,1869.92,986.55,2355.81,3239.18,93.5,Em operação,LAUDO-2910216,Automático,U045,2007-08-08
+PPI-0000879,SHP-12,70.0,Edificações,Combinação de negócios,2017-04-21,40,1564.96,169.07,4857.54,6253.43,39.12,Em operação,LAUDO-2452201,Automático,U035,2017-04-24
+PPI-0000880,SHP-38,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2015-11-12,10,5521.73,2637.06,0.0,2884.67,0.0,Em operação,NF-3924886,Automático,U027,2015-11-12
+PPI-0000881,SHP-28,40.0,Edificações,Combinação de negócios,2024-04-30,40,36784.38,850.35,136803.34,172737.37,919.61,Em operação,LAUDO-5714412,Automático,U019,2024-05-02
+PPI-0000882,SHP-13,65.0,Benfeitorias e acabamentos,Aquisição/construção própria,2011-12-01,25,3516.98,998.0,0.0,2518.98,140.68,Em operação,NF-0953162,Automático,U052,2011-12-01
+PPI-0000883,SHP-16,35.0,Equipamentos e sistemas,Combinação de negócios,2007-04-02,5,65.48,35.53,139.94,169.89,0.0,Em operação,LAUDO-5811507,Automático,U028,2007-04-05
+PPI-0000884,SHP-20,46.7,Benfeitorias e acabamentos,Aquisição/construção própria,2005-01-21,15,1735.47,849.01,0.0,886.46,0.0,Em operação,NF-9855606,Automático,U007,2005-01-24
+PPI-0000885,SHP-43,75.0,Equipamentos e sistemas,Adição 2025,2025-01-06,5,52.01,5.14,0.0,46.87,10.26,Em operação,NF-0110156,Automático,U051,2025-01-07
+PPI-0000886,SHP-05,75.0,Instalações,Adição 2025,2025-01-27,20,209.25,5.31,0.0,203.94,9.72,Em operação,NF-7769545,Automático,U011,2025-02-03
+PPI-0000887,SHP-02,30.0,Edificações,Aquisição/construção própria,1983-06-26,50,21633.6,9636.51,0.0,11997.09,432.67,Em operação,NF-9802035,Manual,U011,1983-06-29
+PPI-0000888,SHP-15,70.0,Edificações,Aquisição/construção própria,2016-11-08,40,498.15,62.95,0.0,435.2,12.45,Em operação,NF-5486606,Automático,U018,2016-12-21
+PPI-0000889,SHP-43,75.0,Instalações,Combinação de negócios,1999-06-21,15,9540.92,4987.22,32392.6,36946.3,0.0,Em operação,LAUDO-8058365,Automático,U059,1999-06-23
+PPI-0000890,SHP-15,70.0,Direito de uso,Aquisição/construção própria,2005-10-30,10,409129.18,215731.25,0.0,193397.93,0.0,Em operação,CTR-4482406,Manual,U015,2005-10-31
+PPI-0000891,SHP-04,60.5,Instalações,Aquisição/construção própria,2012-12-30,20,115.83,38.87,0.0,76.96,5.79,Em operação,NF-6284778,Automático,U019,2013-01-04
+PPI-0000892,SHP-34,50.0,Equipamentos e sistemas,Aquisição/construção própria,2020-02-19,5,52.31,25.81,0.0,26.5,0.0,Em operação,NF-5262645,Automático,U058,2020-02-28
+PPI-0000893,SHP-04,60.5,Benfeitorias e acabamentos,Combinação de negócios,2014-12-23,25,115.82,27.85,394.51,482.48,4.63,Em operação,LAUDO-9456572,Automático,U003,2014-12-26
+PPI-0000894,SHP-15,70.0,Edificações,Combinação de negócios,2021-02-27,50,1406.02,71.8,3298.94,4633.16,28.12,Em operação,LAUDO-2927868,Manual,U001,2021-04-12
+PPI-0000895,SHP-07,50.0,Edificações,Aquisição/construção própria,2023-10-09,50,916.34,23.21,0.0,893.13,18.33,Em operação,NF-9517193,Automático,U046,2023-11-09
+PPI-0000896,SHP-11,90.0,Instalações,Aquisição/construção própria,2012-08-09,20,484.28,162.84,0.0,321.44,24.21,Em operação,NF-3685100,Automático,U002,2012-08-29
+PPI-0000897,SHP-17,65.0,Instalações,Combinação de negócios,2005-01-10,20,376.06,199.43,341.17,517.8,0.0,Em operação,LAUDO-9382447,Automático,U054,2005-01-10
+PPI-0000898,SHP-21,40.0,Instalações,Combinação de negócios,1981-11-17,20,32.13,17.28,58.94,73.79,0.0,Em operação,LAUDO-0234297,Automático,U040,1981-11-23
+PPI-0000899,SHP-16,35.0,Instalações,Combinação de negócios,2009-12-28,15,954.53,507.85,2866.18,3312.86,0.0,Em operação,LAUDO-5348766,Automático,U007,2010-01-04
+PPI-0000900,SHP-31,65.0,Edificações,Combinação de negócios,2023-05-09,50,172.98,5.06,129.78,297.7,3.46,Em operação,LAUDO-7705466,Automático,U043,2023-05-15
+PPI-0000901,SHP-36,100.0,Instalações,Combinação de negócios,1983-07-01,15,187672.49,89720.43,436153.28,534105.34,0.0,Em operação,LAUDO-4240149,Automático,U056,1983-07-05
+PPI-0000902,SHP-32,50.0,Obras em andamento,Combinação de negócios,2023-06-23,0,105175.34,0.0,375342.58,480517.92,0.0,Em desenvolvimento,LAUDO-0754537,Automático,U026,2023-06-27
+PPI-0000903,SHP-11,90.0,Benfeitorias e acabamentos,Combinação de negócios,2017-09-01,25,126287.13,21102.97,269768.14,374952.3,5051.49,Em operação,LAUDO-7587635,Automático,U058,2017-09-06
+PPI-0000904,SHP-43,75.0,Benfeitorias e acabamentos,Combinação de negócios,2010-06-24,10,1535.66,771.67,3104.59,3868.58,0.0,Em operação,LAUDO-7357294,Manual,U013,2010-06-28
+PPI-0000905,SHP-21,40.0,Instalações,Combinação de negócios,1987-09-18,15,632.4,304.58,2120.52,2448.34,0.0,Em operação,LAUDO-6104041,Automático,U043,1987-09-21
+PPI-0000906,SHP-34,50.0,Edificações,Aquisição/construção própria,2010-07-04,50,682.91,118.11,0.0,564.8,13.66,Em operação,NF-1327363,Automático,U035,2010-07-06
+PPI-0000907,SHP-32,50.0,Instalações,Aquisição/construção própria,1991-01-15,20,8877.51,4233.24,0.0,4644.27,0.0,Em operação,NF-4687426,Automático,U001,1991-02-11
+PPI-0000908,SHP-03,50.0,Equipamentos e sistemas,Aquisição/construção própria,2007-08-29,5,12744.71,6946.0,0.0,5798.71,0.0,Em operação,NF-8890968,Automático,U033,2007-09-03
+PPI-0000909,SHP-22,40.0,Equipamentos e sistemas,Aquisição/construção própria,2011-02-18,5,111871.83,54969.49,0.0,56902.34,0.0,Em operação,NF-7126787,Automático,U025,2011-02-22
+PPI-0000910,SHP-40,50.0,Edificações,Aquisição/construção própria,2009-09-14,40,1675.65,344.73,0.0,1330.92,41.89,Em operação,NF-7579313,Automático,U011,2009-09-14
+PPI-0000911,SHP-26,100.0,Edificações,Combinação de negócios,2010-04-01,50,46901.39,8479.62,143093.6,181515.37,938.03,Em operação,LAUDO-5788264,Automático,U022,2010-04-05
+PPI-0000912,SHP-15,70.0,Edificações,Aquisição/construção própria,2019-02-08,50,8023.98,583.59,0.0,7440.39,160.48,Em operação,NF-1160251,Automático,U052,2019-02-11
+PPI-0000913,SHP-40,50.0,Equipamentos e sistemas,Aquisição/construção própria,1996-03-21,10,510.13,252.88,0.0,257.25,0.0,Em operação,NF-9607542,Manual,U003,1996-03-25
+PPI-0000914,SHP-12,70.0,Edificações,Combinação de negócios,2015-01-04,40,10123.77,1497.41,30561.26,39187.62,253.09,Em operação,LAUDO-1830154,Automático,U015,2015-01-05
+PPI-0000915,SHP-16,35.0,Instalações,Combinação de negócios,1997-07-30,20,76349.61,41565.9,93184.87,127968.58,0.0,Em operação,LAUDO-5040964,Automático,U050,1997-07-30
+PPI-0000916,SHP-36,100.0,Edificações,Aquisição/construção própria,2016-09-17,40,35344.39,4319.05,0.0,31025.34,883.61,Em operação,NF-3843420,Automático,U045,2016-09-19
+PPI-0000917,SHP-45,46.7,Edificações,Combinação de negócios,2011-07-14,50,4253.21,690.27,5825.77,9388.71,85.06,Em operação,LAUDO-5754125,Automático,U060,2011-08-10
+PPI-0000918,SHP-17,65.0,Edificações,Combinação de negócios,2009-06-08,40,146471.66,33459.62,157799.29,270811.33,3661.79,Em operação,LAUDO-1436209,Automático,U027,2009-06-15
+PPI-0000919,SHP-34,50.0,Edificações,Aquisição/construção própria,2011-06-14,50,101.78,15.78,0.0,86.0,2.04,Em operação,NF-7276061,Automático,U018,2011-06-14
+PPI-0000920,SHP-34,50.0,Edificações,Combinação de negócios,2024-01-24,50,1287.66,25.41,2478.31,3740.56,25.75,Em operação,LAUDO-2503072,Automático,U028,2024-01-25
+PPI-0000921,SHP-08,65.0,Edificações,Aquisição/construção própria,1984-06-08,40,9864.8,5271.71,0.0,4593.09,0.0,Em operação,NF-0214511,Manual,U010,1984-06-20
+PPI-0000922,SHP-30,100.0,Edificações,Combinação de negócios,2011-06-10,40,48386.72,9076.03,82880.87,122191.56,1209.67,Em operação,LAUDO-5790833,Automático,U060,2011-06-13
+PPI-0000923,SHP-05,75.0,Edificações,Combinação de negócios,1998-04-10,50,64.84,18.16,156.41,203.09,1.3,Em operação,LAUDO-4130820,Manual,U008,1998-04-10
+PPI-0000924,SHP-14,90.0,Edificações,Aquisição/construção própria,2023-02-21,40,29142.81,1118.17,0.0,28024.64,728.57,Em operação,NF-3801602,Automático,U030,2023-02-22
+PPI-0000925,SHP-09,70.0,Edificações,Combinação de negócios,2012-09-26,50,27250.41,4062.79,84141.54,107329.16,545.01,Em operação,LAUDO-5606691,Manual,U003,2012-10-01
+PPI-0000926,SHP-17,65.0,Edificações,Aquisição/construção própria,2009-07-01,40,212.65,49.37,0.0,163.28,5.32,Em operação,NF-4801836,Automático,U021,2009-07-03
+PPI-0000927,SHP-36,100.0,Equipamentos e sistemas,Combinação de negócios,2001-08-24,10,1164.14,605.29,2712.51,3271.36,0.0,Em operação,LAUDO-2644023,Automático,U020,2001-09-05
+PPI-0000928,SHP-15,70.0,Instalações,Aquisição/construção própria,1996-07-14,20,8817.51,4270.9,0.0,4546.61,0.0,Em operação,NF-0988911,Automático,U021,1996-07-16
+PPI-0000929,SHP-01,90.0,Benfeitorias e acabamentos,Aquisição/construção própria,2007-11-15,25,11707.02,4409.98,0.0,7297.04,468.28,Em operação,NF-2362651,Manual,U003,2007-11-15
+PPI-0000930,SHP-13,65.0,Equipamentos e sistemas,Combinação de negócios,2012-06-30,10,906.85,438.46,2956.63,3425.02,0.0,Em operação,LAUDO-9819175,Automático,U018,2012-07-03
+PPI-0000931,SHP-39,70.0,Instalações,Aquisição/construção própria,2022-11-15,15,149.42,16.73,0.0,132.69,9.96,Em operação,NF-8866673,Manual,U005,2022-11-16
+PPI-0000932,SHP-21,40.0,Edificações,Aquisição/construção própria,2010-09-28,50,5140.27,786.39,0.0,4353.88,102.81,Em operação,NF-6863958,Automático,U014,2010-10-01
+PPI-0000933,SHP-43,75.0,Instalações,Aquisição/construção própria,2003-08-15,20,184.5,90.53,0.0,93.97,0.0,Em operação,NF-5603548,Automático,U018,2003-08-19
+PPI-0000934,SHP-01,90.0,Benfeitorias e acabamentos,Aquisição/construção própria,2006-05-02,15,153100.18,81799.4,0.0,71300.78,0.0,Em operação,NF-5561778,Automático,U033,2006-05-02
+PPI-0000935,SHP-27,40.0,Equipamentos e sistemas,Aquisição/construção própria,2006-04-13,5,190.48,89.66,0.0,100.82,0.0,Em operação,NF-0882812,Automático,U046,2006-04-18
+PPI-0000936,SHP-45,46.7,Edificações,Combinação de negócios,2012-08-08,40,61387.38,11123.63,228879.15,279142.9,1534.68,Em operação,LAUDO-1519093,Automático,U055,2012-08-09
+PPI-0000937,SHP-38,75.0,Obras em andamento,Combinação de negócios,2015-03-03,0,8130.48,0.0,11683.72,19814.2,0.0,Em desenvolvimento,LAUDO-6443242,Automático,U044,2015-03-04
+PPI-0000938,SHP-38,75.0,Edificações,Aquisição/construção própria,2015-07-08,50,3702.14,398.91,0.0,3303.23,74.04,Em operação,NF-2156336,Automático,U046,2015-07-13
+PPI-0000939,SHP-39,70.0,Edificações,Aquisição/construção própria,2019-11-30,40,29394.14,2413.22,0.0,26980.92,734.85,Em operação,NF-8492515,Automático,U018,2019-12-04
+PPI-0000940,SHP-44,60.5,Edificações,Aquisição/construção própria,2017-11-17,40,5522.83,632.33,0.0,4890.5,138.07,Em operação,NF-3210872,Automático,U027,2017-11-20
+PPI-0000941,SHP-29,30.0,Benfeitorias e acabamentos,Aquisição/construção própria,2011-08-08,25,1128.73,370.25,0.0,758.48,45.15,Em operação,NF-2514012,Automático,U041,2011-08-11
+PPI-0000942,SHP-15,70.0,Benfeitorias e acabamentos,Combinação de negócios,2013-12-03,10,506.95,248.71,435.53,693.77,0.0,Em operação,LAUDO-0369309,Automático,U013,2013-12-03
+PPI-0000943,SHP-13,65.0,Edificações,Aquisição/construção própria,2001-06-22,40,6908.97,2386.16,0.0,4522.81,172.72,Em operação,NF-9326707,Automático,U024,2001-07-09
+PPI-0000944,SHP-09,70.0,Equipamentos e sistemas,Aquisição/construção própria,2007-12-14,5,131.08,66.81,0.0,64.27,0.0,Em operação,NF-9187396,Automático,U032,2008-01-18
+PPI-0000945,SHP-05,75.0,Instalações,Combinação de negócios,1995-09-24,15,78.45,41.69,188.57,225.33,0.0,Em operação,LAUDO-5569752,Automático,U014,1995-09-28
+PPI-0000946,SHP-34,50.0,Benfeitorias e acabamentos,Combinação de negócios,2000-03-24,15,56.27,29.53,102.64,129.38,0.0,Em operação,LAUDO-2202638,Automático,U018,2000-03-27
+PPI-0000947,SHP-42,40.0,Equipamentos e sistemas,Combinação de negócios,2004-05-01,5,242.37,127.07,209.6,324.9,0.0,Em operação,LAUDO-2496432,Automático,U009,2004-05-03
+PPI-0000948,SHP-13,65.0,Benfeitorias e acabamentos,Combinação de negócios,2013-09-03,25,7623.83,1881.78,4894.15,10636.2,304.95,Em operação,LAUDO-5794906,Automático,U018,2013-10-16
+PPI-0000949,SHP-09,70.0,Benfeitorias e acabamentos,Combinação de negócios,2020-12-17,15,668.67,126.52,882.36,1424.51,44.58,Em operação,LAUDO-6253146,Automático,U036,2020-12-22
+PPI-0000950,SHP-34,50.0,Equipamentos e sistemas,Combinação de negócios,1987-06-08,5,25520.73,12766.27,91101.2,103855.66,0.0,Em operação,LAUDO-1387985,Automático,U002,1987-06-10
+PPI-0000951,SHP-34,50.0,Instalações,Combinação de negócios,1990-03-28,15,1036.1,499.78,1416.94,1953.26,0.0,Em operação,LAUDO-9577142,Automático,U015,1990-04-02
+PPI-0000952,SHP-29,30.0,Edificações,Aquisição/construção própria,2011-12-17,40,1280.6,254.7,0.0,1025.9,32.02,Em operação,NF-4928173,Automático,U026,2011-12-19
+PPI-0000953,SHP-14,90.0,Edificações,Combinação de negócios,2014-11-15,50,4434.51,554.66,10645.07,14524.92,88.69,Em operação,LAUDO-7037718,Automático,U045,2014-11-20
+PPI-0000954,SHP-29,30.0,Benfeitorias e acabamentos,Aquisição/construção própria,2012-04-10,15,5.85,2.62,0.0,3.23,0.39,Em operação,NF-8649130,Automático,U052,2012-04-10
+PPI-0000955,SHP-35,100.0,Edificações,Aquisição/construção própria,2010-06-01,50,84321.5,14484.17,0.0,69837.33,1686.43,Em operação,NF-3201052,Automático,U022,2010-06-07
+PPI-0000956,SHP-45,46.7,Instalações,Combinação de negócios,2021-07-11,15,21887.91,3723.93,64514.98,82678.96,1459.19,Em operação,LAUDO-0443935,Automático,U031,2021-07-13
+PPI-0000957,SHP-14,90.0,Instalações,Combinação de negócios,2013-11-10,15,1125.62,493.81,3099.22,3731.03,75.04,Em operação,LAUDO-1029176,Automático,U002,2013-11-15
+PPI-0000958,SHP-05,75.0,Edificações,Combinação de negócios,2014-09-30,40,19159.49,2853.58,14392.93,30698.84,478.99,Em operação,LAUDO-7124787,Automático,U001,2014-10-20
+PPI-0000959,SHP-24,100.0,Edificações,Aquisição/construção própria,2022-01-23,40,4657.8,232.71,0.0,4425.09,116.44,Em operação,NF-1720057,Automático,U019,2022-01-26
+PPI-0000960,SHP-12,70.0,Edificações,Aquisição/construção própria,1982-06-26,50,26036.85,12901.36,0.0,13135.49,520.74,Em operação,NF-7462509,Automático,U040,1982-07-01
+PPI-0000961,SHP-25,50.0,Edificações,Combinação de negócios,2021-11-04,50,8183.41,373.75,17197.61,25007.27,163.67,Em operação,LAUDO-9640377,Automático,U053,2021-11-08
+PPI-0000962,SHP-34,50.0,Instalações,Aquisição/construção própria,2019-07-01,15,26302.23,6537.58,0.0,19764.65,1753.48,Em operação,NF-4752903,Automático,U009,2019-08-05
+PPI-0000963,SHP-33,100.0,Edificações,Combinação de negócios,1985-08-16,50,23498.16,9737.91,78440.69,92200.94,469.96,Em operação,LAUDO-9306162,Automático,U026,1985-08-19
+PPI-0000964,SHP-27,40.0,Direito de uso,Aquisição/construção própria,2003-07-15,20,2755.66,1325.02,0.0,1430.64,0.0,Em operação,CTR-3886581,Automático,U028,2003-08-18
+PPI-0000965,SHP-10,60.5,Benfeitorias e acabamentos,Combinação de negócios,2012-01-24,15,6182.01,3174.93,14667.23,17674.31,412.13,Em operação,LAUDO-6414611,Automático,U057,2012-01-26
+PPI-0000966,SHP-10,60.5,Edificações,Aquisição/construção própria,2000-07-28,40,1225.46,401.72,0.0,823.74,30.64,Em operação,NF-7161910,Automático,U015,2000-07-31
+PPI-0000967,SHP-36,100.0,Benfeitorias e acabamentos,Combinação de negócios,1992-07-28,15,4354.24,2026.13,12531.56,14859.67,0.0,Em operação,LAUDO-5677209,Manual,U013,1992-08-03
+PPI-0000968,SHP-43,75.0,Edificações,Aquisição/construção própria,1989-03-28,50,994.05,407.66,0.0,586.39,19.88,Em operação,NF-2780297,Automático,U046,1989-04-03
+PPI-0000969,SHP-09,70.0,Benfeitorias e acabamentos,Aquisição/construção própria,2011-09-12,25,578.85,168.22,0.0,410.63,23.15,Em operação,NF-1602034,Automático,U037,2011-09-19
+PPI-0000970,SHP-27,40.0,Edificações,Adição 2025,2025-04-08,50,6806.38,54.58,0.0,6751.8,99.95,Em operação,NF-2656233,Automático,U040,2025-04-09
+PPI-0000971,SHP-25,50.0,Benfeitorias e acabamentos,Adição 2025,2025-03-24,25,65.02,1.08,0.0,63.94,2.02,Em operação,NF-2549094,Automático,U009,2025-03-31
+PPI-0000972,SHP-43,75.0,Equipamentos e sistemas,Aquisição/construção própria,2021-02-07,10,26.84,6.48,0.0,20.36,2.68,Em operação,NF-3176812,Automático,U055,2021-02-08
+PPI-0000973,SHP-45,46.7,Instalações,Aquisição/construção própria,1998-01-02,15,2287.83,1106.91,0.0,1180.92,0.0,Em operação,NF-3559767,Automático,U006,1998-01-05
+PPI-0000974,SHP-13,65.0,Benfeitorias e acabamentos,Combinação de negócios,2021-10-30,25,132.47,12.02,440.64,561.09,5.3,Em operação,LAUDO-1268427,Automático,U002,2021-11-01
+PPI-0000975,SHP-12,70.0,Edificações,Combinação de negócios,2007-12-25,40,15875.27,3801.33,59686.47,71760.41,396.88,Em operação,LAUDO-6702483,Automático,U045,2007-12-31
+PPI-0000976,SHP-18,100.0,Edificações,Combinação de negócios,2007-10-25,50,10396.92,2029.37,35215.42,43582.97,207.94,Em operação,LAUDO-7718240,Automático,U055,2007-10-25
+PPI-0000977,SHP-29,30.0,Instalações,Combinação de negócios,2013-07-11,20,12503.46,4106.24,23387.93,31785.15,625.17,Em operação,LAUDO-1533857,Automático,U021,2013-07-15
+PPI-0000978,SHP-26,100.0,Benfeitorias e acabamentos,Combinação de negócios,2000-05-31,10,11564.3,5557.75,12187.39,18193.94,0.0,Em operação,LAUDO-1490297,Manual,U010,2000-06-05
+PPI-0000979,SHP-43,75.0,Edificações,Combinação de negócios,2021-10-27,40,17100.87,878.54,52289.78,68512.11,427.52,Em operação,LAUDO-3707479,Automático,U006,2021-10-28
+PPI-0000980,SHP-04,60.5,Benfeitorias e acabamentos,Combinação de negócios,1990-04-30,15,19037.94,10001.04,37796.34,46833.24,0.0,Em operação,LAUDO-9722592,Automático,U036,1990-05-01
+PPI-0000981,SHP-33,100.0,Edificações,Aquisição/construção própria,1986-11-18,40,225.58,116.65,0.0,108.93,5.64,Em operação,NF-0961925,Automático,U024,1986-12-05
+PPI-0000982,SHP-21,40.0,Equipamentos e sistemas,Aquisição/construção própria,2017-05-13,10,1591.27,781.72,0.0,809.55,159.13,Em operação,NF-7853604,Automático,U020,2017-05-17
+PPI-0000983,SHP-05,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2022-12-14,15,16197.28,1698.67,0.0,14498.61,1079.82,Em operação,NF-3048577,Automático,U060,2023-01-18
+PPI-0000984,SHP-37,40.0,Instalações,Combinação de negócios,2011-05-27,20,1740.86,700.46,1584.86,2625.26,87.04,Em operação,LAUDO-1165352,Automático,U045,2011-05-30
+PPI-0000985,SHP-28,40.0,Edificações,Combinação de negócios,2013-03-29,50,2979.86,383.43,4500.19,7096.62,59.6,Em operação,LAUDO-0101039,Automático,U020,2013-04-01
+PPI-0000986,SHP-43,75.0,Edificações,Aquisição/construção própria,2018-11-09,50,28813.68,2201.18,0.0,26612.5,576.27,Em operação,NF-2855493,Automático,U045,2018-11-09
+PPI-0000987,SHP-20,46.7,Equipamentos e sistemas,Adição 2025,2025-08-19,5,41.53,1.68,0.0,39.85,3.07,Em operação,NF-3245677,Manual,U006,2025-08-19
+PPI-0000988,SHP-29,30.0,Instalações,Aquisição/construção própria,2006-02-09,15,8882.66,4387.7,0.0,4494.96,0.0,Em operação,NF-0954258,Automático,U011,2006-02-14
+PPI-0000989,SHP-42,40.0,Equipamentos e sistemas,Aquisição/construção própria,2013-05-16,5,314.88,163.57,0.0,151.31,0.0,Em operação,NF-4842178,Automático,U021,2013-05-20
+PPI-0000990,SHP-32,50.0,Benfeitorias e acabamentos,Aquisição/construção própria,1980-07-11,25,410.08,202.31,0.0,207.77,0.0,Em operação,NF-6899815,Automático,U029,1980-08-07
+PPI-0000991,SHP-08,65.0,Instalações,Combinação de negócios,2009-05-10,15,2140.65,1125.71,7248.57,8263.51,0.0,Em operação,LAUDO-7141897,Manual,U002,2009-05-12
+PPI-0000992,SHP-27,40.0,Instalações,Aquisição/construção própria,2019-03-22,20,7603.7,1368.81,0.0,6234.89,380.18,Em operação,NF-4162436,Automático,U039,2019-03-27
+PPI-0000993,SHP-06,100.0,Benfeitorias e acabamentos,Aquisição/construção própria,2017-03-06,25,5227.94,931.68,0.0,4296.26,209.12,Em operação,NF-6416639,Automático,U014,2017-03-10
+PPI-0000994,SHP-27,40.0,Edificações,Adição 2025,2025-07-02,40,555.39,3.71,0.0,551.68,6.96,Em operação,NF-1316257,Automático,U042,2025-07-07
+PPI-0000995,SHP-34,50.0,Instalações,Aquisição/construção própria,1986-01-13,20,1646.25,838.48,0.0,807.77,0.0,Em operação,NF-9648295,Automático,U022,1986-02-17
+PPI-0000996,SHP-05,75.0,Benfeitorias e acabamentos,Aquisição/construção própria,2009-09-26,10,1471.15,699.3,0.0,771.85,0.0,Em operação,NF-2037380,Automático,U004,2009-09-28
+PPI-0000997,SHP-04,60.5,Edificações,Combinação de negócios,2011-06-03,40,1692.96,333.75,1548.52,2907.73,42.32,Em operação,LAUDO-4722289,Manual,U012,2011-06-06
+PPI-0000998,SHP-29,30.0,Edificações,Aquisição/construção própria,2011-07-27,50,1478.36,212.06,0.0,1266.3,29.57,Em operação,NF-0733584,Automático,U019,2011-07-27
+PPI-0000999,SHP-38,75.0,Edificações,Combinação de negócios,1991-03-08,40,15114.31,7174.63,19284.21,27223.89,377.86,Em operação,LAUDO-2257097,Automático,U034,1991-03-08
+PPI-0001000,SHP-45,46.7,Benfeitorias e acabamentos,Aquisição/construção própria,2001-03-29,25,38.43,19.88,0.0,18.55,1.54,Em operação,NF-9201652,Manual,U013,2001-03-30

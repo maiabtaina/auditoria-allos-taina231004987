@@ -1,0 +1,1041 @@
+id_erro,tipo_erro,id_registro,campo_alterado,valor_original,valor_inserido,efeito_no_total_da_base_RS,distorcao_potencial_RS,descricao
+E0001,DUPLICIDADE,PPI-0520001,registro inteiro,PPI-0406667,cópia,24516.61,24516.61,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0002,DUPLICIDADE,PPI-0520002,registro inteiro,PPI-0025991,cópia,42050.98,42050.98,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0003,DUPLICIDADE,PPI-0520003,registro inteiro,PPI-0117157,cópia,28503.23,28503.23,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0004,DUPLICIDADE,PPI-0520004,registro inteiro,PPI-0422085,cópia,25038.32,25038.32,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0005,DUPLICIDADE,PPI-0520005,registro inteiro,PPI-0159035,cópia,87941.82,87941.82,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0006,DUPLICIDADE,PPI-0520006,registro inteiro,PPI-0463096,cópia,126892.27,126892.27,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0007,DUPLICIDADE,PPI-0520007,registro inteiro,PPI-0464290,cópia,68008.26,68008.26,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0008,DUPLICIDADE,PPI-0520008,registro inteiro,PPI-0330409,cópia,54836.47,54836.47,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0009,DUPLICIDADE,PPI-0520009,registro inteiro,PPI-0020318,cópia,101754.68,101754.68,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0010,DUPLICIDADE,PPI-0520010,registro inteiro,PPI-0173394,cópia,55201.15,55201.15,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0011,DUPLICIDADE,PPI-0520011,registro inteiro,PPI-0095057,cópia,25995.37,25995.37,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0012,DUPLICIDADE,PPI-0520012,registro inteiro,PPI-0322018,cópia,24711.56,24711.56,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0013,DUPLICIDADE,PPI-0520013,registro inteiro,PPI-0083601,cópia,40334.84,40334.84,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0014,DUPLICIDADE,PPI-0520014,registro inteiro,PPI-0366811,cópia,230306.62,230306.62,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0015,DUPLICIDADE,PPI-0520015,registro inteiro,PPI-0013678,cópia,29075.36,29075.36,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0016,DUPLICIDADE,PPI-0520016,registro inteiro,PPI-0422904,cópia,63529.54,63529.54,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0017,DUPLICIDADE,PPI-0520017,registro inteiro,PPI-0118079,cópia,31769.51,31769.51,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0018,DUPLICIDADE,PPI-0520018,registro inteiro,PPI-0064636,cópia,22954.9,22954.9,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0019,DUPLICIDADE,PPI-0520019,registro inteiro,PPI-0277413,cópia,35208.7,35208.7,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0020,DUPLICIDADE,PPI-0520020,registro inteiro,PPI-0355994,cópia,130721.6,130721.6,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0021,DUPLICIDADE,PPI-0520021,registro inteiro,PPI-0265218,cópia,36518.78,36518.78,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0022,DUPLICIDADE,PPI-0520022,registro inteiro,PPI-0239484,cópia,179626.35,179626.35,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0023,DUPLICIDADE,PPI-0520023,registro inteiro,PPI-0398826,cópia,269539.67,269539.67,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0024,DUPLICIDADE,PPI-0520024,registro inteiro,PPI-0108454,cópia,387576.18,387576.18,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0025,DUPLICIDADE,PPI-0520025,registro inteiro,PPI-0451770,cópia,58933.11,58933.11,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0026,DUPLICIDADE,PPI-0520026,registro inteiro,PPI-0332420,cópia,20972.74,20972.74,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0027,DUPLICIDADE,PPI-0520027,registro inteiro,PPI-0228996,cópia,62863.38,62863.38,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0028,DUPLICIDADE,PPI-0520028,registro inteiro,PPI-0217529,cópia,94368.32,94368.32,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0029,DUPLICIDADE,PPI-0520029,registro inteiro,PPI-0102712,cópia,45097.85,45097.85,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0030,DUPLICIDADE,PPI-0520030,registro inteiro,PPI-0085427,cópia,31647.98,31647.98,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0031,DUPLICIDADE,PPI-0520031,registro inteiro,PPI-0353236,cópia,79296.59,79296.59,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0032,DUPLICIDADE,PPI-0520032,registro inteiro,PPI-0202877,cópia,45119.36,45119.36,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0033,DUPLICIDADE,PPI-0520033,registro inteiro,PPI-0452207,cópia,38003.28,38003.28,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0034,DUPLICIDADE,PPI-0520034,registro inteiro,PPI-0340879,cópia,157641.61,157641.61,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0035,DUPLICIDADE,PPI-0520035,registro inteiro,PPI-0316912,cópia,185557.24,185557.24,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0036,DUPLICIDADE,PPI-0520036,registro inteiro,PPI-0254123,cópia,32427.44,32427.44,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0037,DUPLICIDADE,PPI-0520037,registro inteiro,PPI-0001879,cópia,35993.07,35993.07,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0038,DUPLICIDADE,PPI-0520038,registro inteiro,PPI-0348303,cópia,26208.2,26208.2,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0039,DUPLICIDADE,PPI-0520039,registro inteiro,PPI-0013920,cópia,81098.08,81098.08,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0040,DUPLICIDADE,PPI-0520040,registro inteiro,PPI-0456582,cópia,3307383.15,3307383.15,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0041,DUPLICIDADE,PPI-0520041,registro inteiro,PPI-0159982,cópia,34950.16,34950.16,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0042,DUPLICIDADE,PPI-0520042,registro inteiro,PPI-0212186,cópia,28070.31,28070.31,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0043,DUPLICIDADE,PPI-0520043,registro inteiro,PPI-0396352,cópia,1219747.66,1219747.66,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0044,DUPLICIDADE,PPI-0520044,registro inteiro,PPI-0088819,cópia,40144.27,40144.27,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0045,DUPLICIDADE,PPI-0520045,registro inteiro,PPI-0113811,cópia,464911.92,464911.92,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0046,DUPLICIDADE,PPI-0520046,registro inteiro,PPI-0310857,cópia,29524.78,29524.78,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0047,DUPLICIDADE,PPI-0520047,registro inteiro,PPI-0155845,cópia,46740.51,46740.51,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0048,DUPLICIDADE,PPI-0520048,registro inteiro,PPI-0343963,cópia,267006.87,267006.87,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0049,DUPLICIDADE,PPI-0520049,registro inteiro,PPI-0182849,cópia,25775.41,25775.41,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0050,DUPLICIDADE,PPI-0520050,registro inteiro,PPI-0026498,cópia,84403.4,84403.4,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0051,DUPLICIDADE,PPI-0520051,registro inteiro,PPI-0468255,cópia,376229.83,376229.83,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0052,DUPLICIDADE,PPI-0520052,registro inteiro,PPI-0057769,cópia,73837.18,73837.18,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0053,DUPLICIDADE,PPI-0520053,registro inteiro,PPI-0069271,cópia,60704.48,60704.48,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0054,DUPLICIDADE,PPI-0520054,registro inteiro,PPI-0435177,cópia,99047.18,99047.18,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0055,DUPLICIDADE,PPI-0520055,registro inteiro,PPI-0288705,cópia,1893474.86,1893474.86,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0056,DUPLICIDADE,PPI-0520056,registro inteiro,PPI-0074461,cópia,1130710.38,1130710.38,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0057,DUPLICIDADE,PPI-0520057,registro inteiro,PPI-0490834,cópia,23484.37,23484.37,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0058,DUPLICIDADE,PPI-0520058,registro inteiro,PPI-0279730,cópia,28291.19,28291.19,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0059,DUPLICIDADE,PPI-0520059,registro inteiro,PPI-0381021,cópia,26949.25,26949.25,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0060,DUPLICIDADE,PPI-0520060,registro inteiro,PPI-0369176,cópia,151082.75,151082.75,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0061,DUPLICIDADE,PPI-0520061,registro inteiro,PPI-0152408,cópia,35917.81,35917.81,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0062,DUPLICIDADE,PPI-0520062,registro inteiro,PPI-0079181,cópia,33139.75,33139.75,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0063,DUPLICIDADE,PPI-0520063,registro inteiro,PPI-0317791,cópia,61656.22,61656.22,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0064,DUPLICIDADE,PPI-0520064,registro inteiro,PPI-0068979,cópia,65275.27,65275.27,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0065,DUPLICIDADE,PPI-0520065,registro inteiro,PPI-0071387,cópia,43417.16,43417.16,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0066,DUPLICIDADE,PPI-0520066,registro inteiro,PPI-0462069,cópia,60477.01,60477.01,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0067,DUPLICIDADE,PPI-0520067,registro inteiro,PPI-0039779,cópia,23318.24,23318.24,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0068,DUPLICIDADE,PPI-0520068,registro inteiro,PPI-0223714,cópia,289307.47,289307.47,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0069,DUPLICIDADE,PPI-0520069,registro inteiro,PPI-0225393,cópia,74490.48,74490.48,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0070,DUPLICIDADE,PPI-0520070,registro inteiro,PPI-0136875,cópia,54389.82,54389.82,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0071,DUPLICIDADE,PPI-0520071,registro inteiro,PPI-0378749,cópia,20836.08,20836.08,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0072,DUPLICIDADE,PPI-0520072,registro inteiro,PPI-0277788,cópia,20272.75,20272.75,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0073,DUPLICIDADE,PPI-0520073,registro inteiro,PPI-0022976,cópia,43961.79,43961.79,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0074,DUPLICIDADE,PPI-0520074,registro inteiro,PPI-0422132,cópia,52853.63,52853.63,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0075,DUPLICIDADE,PPI-0520075,registro inteiro,PPI-0203899,cópia,42057.89,42057.89,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0076,DUPLICIDADE,PPI-0520076,registro inteiro,PPI-0202567,cópia,148623.34,148623.34,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0077,DUPLICIDADE,PPI-0520077,registro inteiro,PPI-0289485,cópia,30177.37,30177.37,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0078,DUPLICIDADE,PPI-0520078,registro inteiro,PPI-0501310,cópia,777979.21,777979.21,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0079,DUPLICIDADE,PPI-0520079,registro inteiro,PPI-0126892,cópia,29929.53,29929.53,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0080,DUPLICIDADE,PPI-0520080,registro inteiro,PPI-0038735,cópia,26003.76,26003.76,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0081,DUPLICIDADE,PPI-0520081,registro inteiro,PPI-0023640,cópia,22790.64,22790.64,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0082,DUPLICIDADE,PPI-0520082,registro inteiro,PPI-0442438,cópia,210520.59,210520.59,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0083,DUPLICIDADE,PPI-0520083,registro inteiro,PPI-0177595,cópia,97570.57,97570.57,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0084,DUPLICIDADE,PPI-0520084,registro inteiro,PPI-0192823,cópia,337502.94,337502.94,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0085,DUPLICIDADE,PPI-0520085,registro inteiro,PPI-0060945,cópia,88102.64,88102.64,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0086,DUPLICIDADE,PPI-0520086,registro inteiro,PPI-0085307,cópia,112089.74,112089.74,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0087,DUPLICIDADE,PPI-0520087,registro inteiro,PPI-0236788,cópia,203683.24,203683.24,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0088,DUPLICIDADE,PPI-0520088,registro inteiro,PPI-0183025,cópia,114939.57,114939.57,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0089,DUPLICIDADE,PPI-0520089,registro inteiro,PPI-0158705,cópia,28489.94,28489.94,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0090,DUPLICIDADE,PPI-0520090,registro inteiro,PPI-0195441,cópia,217767.99,217767.99,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0091,DUPLICIDADE,PPI-0520091,registro inteiro,PPI-0104211,cópia,20450.88,20450.88,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0092,DUPLICIDADE,PPI-0520092,registro inteiro,PPI-0288309,cópia,280233.57,280233.57,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0093,DUPLICIDADE,PPI-0520093,registro inteiro,PPI-0513839,cópia,265894.0,265894.0,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0094,DUPLICIDADE,PPI-0520094,registro inteiro,PPI-0237577,cópia,139400.88,139400.88,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0095,DUPLICIDADE,PPI-0520095,registro inteiro,PPI-0169870,cópia,249798.1,249798.1,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0096,DUPLICIDADE,PPI-0520096,registro inteiro,PPI-0428401,cópia,48171.01,48171.01,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0097,DUPLICIDADE,PPI-0520097,registro inteiro,PPI-0040228,cópia,385969.64,385969.64,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0098,DUPLICIDADE,PPI-0520098,registro inteiro,PPI-0043177,cópia,283209.69,283209.69,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0099,DUPLICIDADE,PPI-0520099,registro inteiro,PPI-0272081,cópia,552056.13,552056.13,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0100,DUPLICIDADE,PPI-0520100,registro inteiro,PPI-0421415,cópia,48389.08,48389.08,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0101,DUPLICIDADE,PPI-0520101,registro inteiro,PPI-0100343,cópia,22659.99,22659.99,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0102,DUPLICIDADE,PPI-0520102,registro inteiro,PPI-0412346,cópia,26742.99,26742.99,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0103,DUPLICIDADE,PPI-0520103,registro inteiro,PPI-0376937,cópia,56021.13,56021.13,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0104,DUPLICIDADE,PPI-0520104,registro inteiro,PPI-0461873,cópia,167508.21,167508.21,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0105,DUPLICIDADE,PPI-0520105,registro inteiro,PPI-0123669,cópia,64224.1,64224.1,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0106,DUPLICIDADE,PPI-0520106,registro inteiro,PPI-0242234,cópia,27167.01,27167.01,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0107,DUPLICIDADE,PPI-0520107,registro inteiro,PPI-0222268,cópia,53801.17,53801.17,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0108,DUPLICIDADE,PPI-0520108,registro inteiro,PPI-0461719,cópia,28627.96,28627.96,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0109,DUPLICIDADE,PPI-0520109,registro inteiro,PPI-0178572,cópia,185756.29,185756.29,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0110,DUPLICIDADE,PPI-0520110,registro inteiro,PPI-0257418,cópia,58635.85,58635.85,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0111,DUPLICIDADE,PPI-0520111,registro inteiro,PPI-0008608,cópia,24440.3,24440.3,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0112,DUPLICIDADE,PPI-0520112,registro inteiro,PPI-0002550,cópia,166285.87,166285.87,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0113,DUPLICIDADE,PPI-0520113,registro inteiro,PPI-0198764,cópia,24879.93,24879.93,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0114,DUPLICIDADE,PPI-0520114,registro inteiro,PPI-0230345,cópia,62263.95,62263.95,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0115,DUPLICIDADE,PPI-0520115,registro inteiro,PPI-0168660,cópia,70518.74,70518.74,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0116,DUPLICIDADE,PPI-0520116,registro inteiro,PPI-0360232,cópia,63016.24,63016.24,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0117,DUPLICIDADE,PPI-0520117,registro inteiro,PPI-0397634,cópia,52691.4,52691.4,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0118,DUPLICIDADE,PPI-0520118,registro inteiro,PPI-0277673,cópia,26823.87,26823.87,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0119,DUPLICIDADE,PPI-0520119,registro inteiro,PPI-0044180,cópia,72021.22,72021.22,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0120,DUPLICIDADE,PPI-0520120,registro inteiro,PPI-0047532,cópia,22723.91,22723.91,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0121,DUPLICIDADE,PPI-0520121,registro inteiro,PPI-0222131,cópia,83430.0,83430.0,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0122,DUPLICIDADE,PPI-0520122,registro inteiro,PPI-0127188,cópia,35870.71,35870.71,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0123,DUPLICIDADE,PPI-0520123,registro inteiro,PPI-0311066,cópia,69366.34,69366.34,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0124,DUPLICIDADE,PPI-0520124,registro inteiro,PPI-0308777,cópia,422142.13,422142.13,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0125,DUPLICIDADE,PPI-0520125,registro inteiro,PPI-0070811,cópia,25522.13,25522.13,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0126,DUPLICIDADE,PPI-0520126,registro inteiro,PPI-0489129,cópia,185475.11,185475.11,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0127,DUPLICIDADE,PPI-0520127,registro inteiro,PPI-0108806,cópia,43788.47,43788.47,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0128,DUPLICIDADE,PPI-0520128,registro inteiro,PPI-0262489,cópia,20232.78,20232.78,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0129,DUPLICIDADE,PPI-0520129,registro inteiro,PPI-0278320,cópia,39436.99,39436.99,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0130,DUPLICIDADE,PPI-0520130,registro inteiro,PPI-0338344,cópia,26504.38,26504.38,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0131,DUPLICIDADE,PPI-0520131,registro inteiro,PPI-0416284,cópia,82238.0,82238.0,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0132,DUPLICIDADE,PPI-0520132,registro inteiro,PPI-0402498,cópia,30229.22,30229.22,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0133,DUPLICIDADE,PPI-0520133,registro inteiro,PPI-0441219,cópia,55106.47,55106.47,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0134,DUPLICIDADE,PPI-0520134,registro inteiro,PPI-0303363,cópia,67856.28,67856.28,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0135,DUPLICIDADE,PPI-0520135,registro inteiro,PPI-0318833,cópia,30485.36,30485.36,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0136,DUPLICIDADE,PPI-0520136,registro inteiro,PPI-0079188,cópia,89650.98,89650.98,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0137,DUPLICIDADE,PPI-0520137,registro inteiro,PPI-0333828,cópia,92695.42,92695.42,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0138,DUPLICIDADE,PPI-0520138,registro inteiro,PPI-0187263,cópia,25662.68,25662.68,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0139,DUPLICIDADE,PPI-0520139,registro inteiro,PPI-0422607,cópia,27079.76,27079.76,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0140,DUPLICIDADE,PPI-0520140,registro inteiro,PPI-0440577,cópia,79300.0,79300.0,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0141,DUPLICIDADE,PPI-0520141,registro inteiro,PPI-0077660,cópia,67772.31,67772.31,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0142,DUPLICIDADE,PPI-0520142,registro inteiro,PPI-0398608,cópia,149758.18,149758.18,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0143,DUPLICIDADE,PPI-0520143,registro inteiro,PPI-0208442,cópia,59717.32,59717.32,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0144,DUPLICIDADE,PPI-0520144,registro inteiro,PPI-0351763,cópia,32393.55,32393.55,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0145,DUPLICIDADE,PPI-0520145,registro inteiro,PPI-0414577,cópia,43863.79,43863.79,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0146,DUPLICIDADE,PPI-0520146,registro inteiro,PPI-0249947,cópia,341886.65,341886.65,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0147,DUPLICIDADE,PPI-0520147,registro inteiro,PPI-0404098,cópia,37957.81,37957.81,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0148,DUPLICIDADE,PPI-0520148,registro inteiro,PPI-0026269,cópia,73898.53,73898.53,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0149,DUPLICIDADE,PPI-0520149,registro inteiro,PPI-0463139,cópia,1108774.15,1108774.15,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0150,DUPLICIDADE,PPI-0520150,registro inteiro,PPI-0357821,cópia,30842.94,30842.94,"Registro duplicado de ativo existente (mesmos atributos, novo id)"
+E0151,CORTE (ATIVACAO EM 2026),PPI-0295369,data_ativacao,2025-10-10,2026-02-18,0.0,26457.04,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0152,CORTE (ATIVACAO EM 2026),PPI-0315357,data_ativacao,2025-03-23,2026-02-04,0.0,65146.53,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0153,CORTE (ATIVACAO EM 2026),PPI-0269230,data_ativacao,2025-05-26,2026-01-20,0.0,62591.2,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0154,CORTE (ATIVACAO EM 2026),PPI-0076081,data_ativacao,2025-10-27,2026-02-15,0.0,115953.37,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0155,CORTE (ATIVACAO EM 2026),PPI-0480833,data_ativacao,2025-05-28,2026-02-15,0.0,344791.32,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0156,CORTE (ATIVACAO EM 2026),PPI-0112488,data_ativacao,2025-09-29,2026-01-11,0.0,21974.12,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0157,CORTE (ATIVACAO EM 2026),PPI-0271385,data_ativacao,2025-12-27,2026-02-02,0.0,27558.08,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0158,CORTE (ATIVACAO EM 2026),PPI-0036792,data_ativacao,2025-04-23,2026-02-03,0.0,54863.18,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0159,CORTE (ATIVACAO EM 2026),PPI-0042211,data_ativacao,2025-01-02,2026-03-03,0.0,867382.23,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0160,CORTE (ATIVACAO EM 2026),PPI-0058047,data_ativacao,2025-01-10,2026-01-06,0.0,78710.41,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0161,CORTE (ATIVACAO EM 2026),PPI-0061099,data_ativacao,2025-07-08,2026-02-12,0.0,25163.86,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0162,CORTE (ATIVACAO EM 2026),PPI-0361646,data_ativacao,2025-01-06,2026-01-14,0.0,20546.97,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0163,CORTE (ATIVACAO EM 2026),PPI-0363858,data_ativacao,2025-06-01,2026-01-25,0.0,53435.69,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0164,CORTE (ATIVACAO EM 2026),PPI-0151083,data_ativacao,2025-08-17,2026-01-08,0.0,99399.54,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0165,CORTE (ATIVACAO EM 2026),PPI-0035049,data_ativacao,2025-06-12,2026-02-11,0.0,20434.1,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0166,CORTE (ATIVACAO EM 2026),PPI-0429294,data_ativacao,2025-03-13,2026-01-16,0.0,58130.16,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0167,CORTE (ATIVACAO EM 2026),PPI-0337254,data_ativacao,2025-04-08,2026-01-27,0.0,32177.91,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0168,CORTE (ATIVACAO EM 2026),PPI-0511962,data_ativacao,2025-05-15,2026-01-06,0.0,93029.35,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0169,CORTE (ATIVACAO EM 2026),PPI-0013953,data_ativacao,2025-11-25,2026-01-23,0.0,20558.6,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0170,CORTE (ATIVACAO EM 2026),PPI-0200839,data_ativacao,2025-10-29,2026-02-26,0.0,106003.63,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0171,CORTE (ATIVACAO EM 2026),PPI-0466357,data_ativacao,2025-07-11,2026-01-10,0.0,58963.37,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0172,CORTE (ATIVACAO EM 2026),PPI-0092788,data_ativacao,2025-09-23,2026-01-24,0.0,31226.4,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0173,CORTE (ATIVACAO EM 2026),PPI-0381088,data_ativacao,2025-12-06,2026-01-23,0.0,22534.43,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0174,CORTE (ATIVACAO EM 2026),PPI-0163878,data_ativacao,2025-11-23,2026-02-28,0.0,337854.35,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0175,CORTE (ATIVACAO EM 2026),PPI-0502807,data_ativacao,2025-07-26,2026-02-04,0.0,52203.72,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0176,CORTE (ATIVACAO EM 2026),PPI-0113687,data_ativacao,2025-06-10,2026-02-05,0.0,621501.78,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0177,CORTE (ATIVACAO EM 2026),PPI-0465869,data_ativacao,2025-05-19,2026-02-01,0.0,85559.87,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0178,CORTE (ATIVACAO EM 2026),PPI-0124285,data_ativacao,2025-11-07,2026-02-04,0.0,51917.22,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0179,CORTE (ATIVACAO EM 2026),PPI-0264232,data_ativacao,2025-04-09,2026-02-06,0.0,390450.47,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0180,CORTE (ATIVACAO EM 2026),PPI-0297536,data_ativacao,2025-02-08,2026-02-05,0.0,41962.72,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0181,CORTE (ATIVACAO EM 2026),PPI-0266799,data_ativacao,2025-01-07,2026-02-28,0.0,45099.46,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0182,CORTE (ATIVACAO EM 2026),PPI-0255541,data_ativacao,2025-11-12,2026-02-13,0.0,28080.47,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0183,CORTE (ATIVACAO EM 2026),PPI-0381280,data_ativacao,2025-09-06,2026-02-13,0.0,48379.76,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0184,CORTE (ATIVACAO EM 2026),PPI-0359070,data_ativacao,2025-11-03,2026-01-16,0.0,53478.49,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0185,CORTE (ATIVACAO EM 2026),PPI-0517952,data_ativacao,2025-07-15,2026-01-05,0.0,36486.4,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0186,CORTE (ATIVACAO EM 2026),PPI-0312587,data_ativacao,2025-05-26,2026-02-25,0.0,236804.57,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0187,CORTE (ATIVACAO EM 2026),PPI-0350069,data_ativacao,2025-12-27,2026-01-07,0.0,145023.41,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0188,CORTE (ATIVACAO EM 2026),PPI-0145980,data_ativacao,2025-05-10,2026-02-08,0.0,20672.73,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0189,CORTE (ATIVACAO EM 2026),PPI-0266680,data_ativacao,2025-03-02,2026-01-30,0.0,25873.19,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0190,CORTE (ATIVACAO EM 2026),PPI-0424322,data_ativacao,2025-10-06,2026-01-11,0.0,31035.83,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0191,CORTE (ATIVACAO EM 2026),PPI-0045858,data_ativacao,2025-10-12,2026-01-08,0.0,31572.66,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0192,CORTE (ATIVACAO EM 2026),PPI-0346531,data_ativacao,2025-11-19,2026-02-27,0.0,24248.13,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0193,CORTE (ATIVACAO EM 2026),PPI-0395977,data_ativacao,2025-10-08,2026-01-06,0.0,49682.16,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0194,CORTE (ATIVACAO EM 2026),PPI-0132425,data_ativacao,2025-03-01,2026-02-04,0.0,160068.5,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0195,CORTE (ATIVACAO EM 2026),PPI-0403337,data_ativacao,2025-02-24,2026-02-08,0.0,24610.21,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0196,CORTE (ATIVACAO EM 2026),PPI-0036949,data_ativacao,2025-03-25,2026-01-07,0.0,415262.27,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0197,CORTE (ATIVACAO EM 2026),PPI-0226312,data_ativacao,2025-12-08,2026-03-01,0.0,23587.99,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0198,CORTE (ATIVACAO EM 2026),PPI-0433136,data_ativacao,2025-03-20,2026-01-26,0.0,44975.76,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0199,CORTE (ATIVACAO EM 2026),PPI-0067514,data_ativacao,2025-01-02,2026-02-28,0.0,43030.28,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0200,CORTE (ATIVACAO EM 2026),PPI-0063717,data_ativacao,2025-10-21,2026-02-03,0.0,43855.36,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0201,CORTE (ATIVACAO EM 2026),PPI-0258608,data_ativacao,2025-01-01,2026-01-23,0.0,23794.26,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0202,CORTE (ATIVACAO EM 2026),PPI-0227972,data_ativacao,2025-10-01,2026-01-11,0.0,48199.07,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0203,CORTE (ATIVACAO EM 2026),PPI-0473556,data_ativacao,2025-04-22,2026-02-16,0.0,21039.53,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0204,CORTE (ATIVACAO EM 2026),PPI-0110953,data_ativacao,2025-01-28,2026-01-31,0.0,20491.09,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0205,CORTE (ATIVACAO EM 2026),PPI-0149477,data_ativacao,2025-05-30,2026-02-25,0.0,90903.32,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0206,CORTE (ATIVACAO EM 2026),PPI-0469315,data_ativacao,2025-08-22,2026-02-22,0.0,21884.47,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0207,CORTE (ATIVACAO EM 2026),PPI-0042390,data_ativacao,2025-04-07,2026-01-15,0.0,54209.28,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0208,CORTE (ATIVACAO EM 2026),PPI-0430256,data_ativacao,2025-11-18,2026-01-30,0.0,144501.13,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0209,CORTE (ATIVACAO EM 2026),PPI-0027860,data_ativacao,2025-08-25,2026-02-01,0.0,23110.09,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0210,CORTE (ATIVACAO EM 2026),PPI-0210375,data_ativacao,2025-11-14,2026-01-29,0.0,121754.68,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0211,CORTE (ATIVACAO EM 2026),PPI-0268379,data_ativacao,2025-05-09,2026-01-19,0.0,73915.09,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0212,CORTE (ATIVACAO EM 2026),PPI-0449293,data_ativacao,2025-11-20,2026-01-31,0.0,155200.93,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0213,CORTE (ATIVACAO EM 2026),PPI-0306934,data_ativacao,2025-12-27,2026-02-02,0.0,29052.19,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0214,CORTE (ATIVACAO EM 2026),PPI-0049755,data_ativacao,2025-02-16,2026-02-13,0.0,72361.52,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0215,CORTE (ATIVACAO EM 2026),PPI-0277907,data_ativacao,2025-06-22,2026-02-09,0.0,62860.87,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0216,CORTE (ATIVACAO EM 2026),PPI-0050801,data_ativacao,2025-09-26,2026-03-04,0.0,132539.86,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0217,CORTE (ATIVACAO EM 2026),PPI-0253915,data_ativacao,2025-01-21,2026-01-31,0.0,31191.44,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0218,CORTE (ATIVACAO EM 2026),PPI-0049585,data_ativacao,2025-06-08,2026-02-02,0.0,37511.93,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0219,CORTE (ATIVACAO EM 2026),PPI-0364665,data_ativacao,2025-06-17,2026-02-02,0.0,27474.06,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0220,CORTE (ATIVACAO EM 2026),PPI-0426930,data_ativacao,2025-08-17,2026-01-22,0.0,39017.33,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0221,CORTE (ATIVACAO EM 2026),PPI-0248953,data_ativacao,2025-12-17,2026-01-13,0.0,138651.02,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0222,CORTE (ATIVACAO EM 2026),PPI-0149744,data_ativacao,2025-10-17,2026-02-12,0.0,22806.05,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0223,CORTE (ATIVACAO EM 2026),PPI-0135404,data_ativacao,2025-10-22,2026-02-15,0.0,371284.7,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0224,CORTE (ATIVACAO EM 2026),PPI-0290425,data_ativacao,2025-09-11,2026-01-27,0.0,63928.41,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0225,CORTE (ATIVACAO EM 2026),PPI-0017939,data_ativacao,2025-01-04,2026-03-04,0.0,27971.51,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0226,CORTE (ATIVACAO EM 2026),PPI-0361989,data_ativacao,2025-04-09,2026-01-29,0.0,20746.17,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0227,CORTE (ATIVACAO EM 2026),PPI-0324751,data_ativacao,2025-07-25,2026-01-25,0.0,23422.43,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0228,CORTE (ATIVACAO EM 2026),PPI-0098683,data_ativacao,2025-01-23,2026-01-13,0.0,34026.11,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0229,CORTE (ATIVACAO EM 2026),PPI-0239759,data_ativacao,2025-01-13,2026-02-26,0.0,51263.21,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0230,CORTE (ATIVACAO EM 2026),PPI-0327312,data_ativacao,2025-05-11,2026-01-12,0.0,34513.2,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0231,CORTE (ATIVACAO EM 2026),PPI-0162186,data_ativacao,2025-07-19,2026-02-11,0.0,35178.2,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0232,CORTE (ATIVACAO EM 2026),PPI-0028319,data_ativacao,2025-07-26,2026-01-05,0.0,25547.4,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0233,CORTE (ATIVACAO EM 2026),PPI-0259279,data_ativacao,2025-07-01,2026-01-24,0.0,58240.14,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0234,CORTE (ATIVACAO EM 2026),PPI-0162210,data_ativacao,2025-05-31,2026-02-04,0.0,34166.06,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0235,CORTE (ATIVACAO EM 2026),PPI-0020785,data_ativacao,2025-04-14,2026-02-05,0.0,41785.36,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0236,CORTE (ATIVACAO EM 2026),PPI-0512236,data_ativacao,2025-01-28,2026-02-19,0.0,131070.36,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0237,CORTE (ATIVACAO EM 2026),PPI-0491628,data_ativacao,2025-04-18,2026-01-08,0.0,21530.11,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0238,CORTE (ATIVACAO EM 2026),PPI-0488928,data_ativacao,2025-03-16,2026-02-27,0.0,28770.54,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0239,CORTE (ATIVACAO EM 2026),PPI-0430318,data_ativacao,2025-02-07,2026-01-30,0.0,34704.91,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0240,CORTE (ATIVACAO EM 2026),PPI-0366244,data_ativacao,2025-07-29,2026-01-29,0.0,21891.64,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0241,CORTE (ATIVACAO EM 2026),PPI-0424353,data_ativacao,2025-12-11,2026-02-08,0.0,128341.33,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0242,CORTE (ATIVACAO EM 2026),PPI-0034832,data_ativacao,2025-03-12,2026-02-21,0.0,24473.03,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0243,CORTE (ATIVACAO EM 2026),PPI-0017356,data_ativacao,2025-05-10,2026-02-02,0.0,21159.54,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0244,CORTE (ATIVACAO EM 2026),PPI-0047727,data_ativacao,2025-02-23,2026-01-23,0.0,186527.24,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0245,CORTE (ATIVACAO EM 2026),PPI-0168175,data_ativacao,2025-07-19,2026-02-21,0.0,22356.96,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0246,CORTE (ATIVACAO EM 2026),PPI-0192667,data_ativacao,2025-01-24,2026-02-01,0.0,26713.96,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0247,CORTE (ATIVACAO EM 2026),PPI-0294138,data_ativacao,2025-12-02,2026-02-06,0.0,30495.84,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0248,CORTE (ATIVACAO EM 2026),PPI-0303523,data_ativacao,2025-05-23,2026-01-09,0.0,71089.77,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0249,CORTE (ATIVACAO EM 2026),PPI-0358694,data_ativacao,2025-11-29,2026-01-29,0.0,463124.51,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0250,CORTE (ATIVACAO EM 2026),PPI-0014708,data_ativacao,2025-10-01,2026-02-20,0.0,31860.02,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0251,CORTE (ATIVACAO EM 2026),PPI-0353483,data_ativacao,2025-11-26,2026-01-09,0.0,83614.85,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0252,CORTE (ATIVACAO EM 2026),PPI-0257692,data_ativacao,2025-04-27,2026-01-31,0.0,30675.61,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0253,CORTE (ATIVACAO EM 2026),PPI-0347912,data_ativacao,2025-01-03,2026-01-17,0.0,62346.05,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0254,CORTE (ATIVACAO EM 2026),PPI-0223994,data_ativacao,2025-04-11,2026-01-21,0.0,60999.44,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0255,CORTE (ATIVACAO EM 2026),PPI-0386051,data_ativacao,2025-12-29,2026-01-24,0.0,58141.49,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0256,CORTE (ATIVACAO EM 2026),PPI-0265119,data_ativacao,2025-10-26,2026-01-06,0.0,44994.33,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0257,CORTE (ATIVACAO EM 2026),PPI-0302817,data_ativacao,2025-04-09,2026-01-23,0.0,41188.54,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0258,CORTE (ATIVACAO EM 2026),PPI-0182927,data_ativacao,2025-04-15,2026-01-10,0.0,26043.91,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0259,CORTE (ATIVACAO EM 2026),PPI-0495851,data_ativacao,2025-04-11,2026-02-08,0.0,158177.43,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0260,CORTE (ATIVACAO EM 2026),PPI-0023174,data_ativacao,2025-08-21,2026-01-20,0.0,41547.46,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0261,CORTE (ATIVACAO EM 2026),PPI-0472188,data_ativacao,2025-03-05,2026-02-28,0.0,94158.04,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0262,CORTE (ATIVACAO EM 2026),PPI-0466417,data_ativacao,2025-12-17,2026-01-06,0.0,145045.98,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0263,CORTE (ATIVACAO EM 2026),PPI-0217896,data_ativacao,2025-07-05,2026-03-04,0.0,30952.49,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0264,CORTE (ATIVACAO EM 2026),PPI-0360579,data_ativacao,2025-07-21,2026-01-21,0.0,126485.15,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0265,CORTE (ATIVACAO EM 2026),PPI-0086617,data_ativacao,2025-04-27,2026-03-01,0.0,27745.49,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0266,CORTE (ATIVACAO EM 2026),PPI-0510739,data_ativacao,2025-05-03,2026-02-25,0.0,46179.4,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0267,CORTE (ATIVACAO EM 2026),PPI-0152253,data_ativacao,2025-05-02,2026-01-12,0.0,45235.96,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0268,CORTE (ATIVACAO EM 2026),PPI-0373536,data_ativacao,2025-04-22,2026-01-27,0.0,20508.63,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0269,CORTE (ATIVACAO EM 2026),PPI-0346190,data_ativacao,2025-01-21,2026-01-22,0.0,45935.05,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0270,CORTE (ATIVACAO EM 2026),PPI-0181926,data_ativacao,2025-05-06,2026-02-01,0.0,21406.85,Ativo com data de ativação posterior a 31/12/2025 incluído no saldo
+E0271,DEPRECIACAO INCORRETA,PPI-0245470,depreciacao_exercicio_2025 e acumulada,175.15,70.06,105.09,105.09,Depreciação do exercício alterada por fator 0.4
+E0272,DEPRECIACAO INCORRETA,PPI-0249915,depreciacao_exercicio_2025 e acumulada,712.92,1140.67,-427.75,427.75,Depreciação do exercício alterada por fator 1.6
+E0273,DEPRECIACAO INCORRETA,PPI-0405717,depreciacao_exercicio_2025 e acumulada,183.26,293.22,-109.96,109.96,Depreciação do exercício alterada por fator 1.6
+E0274,DEPRECIACAO INCORRETA,PPI-0119416,depreciacao_exercicio_2025 e acumulada,577.43,1039.37,-461.94,461.94,Depreciação do exercício alterada por fator 1.8
+E0275,DEPRECIACAO INCORRETA,PPI-0138775,depreciacao_exercicio_2025 e acumulada,114.78,206.6,-91.82,91.82,Depreciação do exercício alterada por fator 1.8
+E0276,DEPRECIACAO INCORRETA,PPI-0343203,depreciacao_exercicio_2025 e acumulada,825.86,1321.38,-495.52,495.52,Depreciação do exercício alterada por fator 1.6
+E0277,DEPRECIACAO INCORRETA,PPI-0019389,depreciacao_exercicio_2025 e acumulada,138.19,55.28,82.91,82.91,Depreciação do exercício alterada por fator 0.4
+E0278,DEPRECIACAO INCORRETA,PPI-0093206,depreciacao_exercicio_2025 e acumulada,181.53,72.61,108.92,108.92,Depreciação do exercício alterada por fator 0.4
+E0279,DEPRECIACAO INCORRETA,PPI-0158214,depreciacao_exercicio_2025 e acumulada,613.54,245.42,368.12,368.12,Depreciação do exercício alterada por fator 0.4
+E0280,DEPRECIACAO INCORRETA,PPI-0436124,depreciacao_exercicio_2025 e acumulada,853.32,341.33,511.99,511.99,Depreciação do exercício alterada por fator 0.4
+E0281,DEPRECIACAO INCORRETA,PPI-0510449,depreciacao_exercicio_2025 e acumulada,539.73,971.51,-431.78,431.78,Depreciação do exercício alterada por fator 1.8
+E0282,DEPRECIACAO INCORRETA,PPI-0362920,depreciacao_exercicio_2025 e acumulada,1128.79,1806.06,-677.27,677.27,Depreciação do exercício alterada por fator 1.6
+E0283,DEPRECIACAO INCORRETA,PPI-0498875,depreciacao_exercicio_2025 e acumulada,4493.11,2246.55,2246.55,2246.55,Depreciação do exercício alterada por fator 0.5
+E0284,DEPRECIACAO INCORRETA,PPI-0416446,depreciacao_exercicio_2025 e acumulada,1208.86,1934.18,-725.32,725.32,Depreciação do exercício alterada por fator 1.6
+E0285,DEPRECIACAO INCORRETA,PPI-0507728,depreciacao_exercicio_2025 e acumulada,149.42,268.96,-119.54,119.54,Depreciação do exercício alterada por fator 1.8
+E0286,DEPRECIACAO INCORRETA,PPI-0230370,depreciacao_exercicio_2025 e acumulada,6109.3,3054.65,3054.65,3054.65,Depreciação do exercício alterada por fator 0.5
+E0287,DEPRECIACAO INCORRETA,PPI-0435667,depreciacao_exercicio_2025 e acumulada,204.52,81.81,122.71,122.71,Depreciação do exercício alterada por fator 0.4
+E0288,DEPRECIACAO INCORRETA,PPI-0130413,depreciacao_exercicio_2025 e acumulada,158.27,253.23,-94.96,94.96,Depreciação do exercício alterada por fator 1.6
+E0289,DEPRECIACAO INCORRETA,PPI-0324897,depreciacao_exercicio_2025 e acumulada,922.7,1476.32,-553.62,553.62,Depreciação do exercício alterada por fator 1.6
+E0290,DEPRECIACAO INCORRETA,PPI-0417554,depreciacao_exercicio_2025 e acumulada,106.9,192.42,-85.52,85.52,Depreciação do exercício alterada por fator 1.8
+E0291,DEPRECIACAO INCORRETA,PPI-0368001,depreciacao_exercicio_2025 e acumulada,188.07,94.04,94.03,94.03,Depreciação do exercício alterada por fator 0.5
+E0292,DEPRECIACAO INCORRETA,PPI-0106331,depreciacao_exercicio_2025 e acumulada,114.08,205.34,-91.26,91.26,Depreciação do exercício alterada por fator 1.8
+E0293,DEPRECIACAO INCORRETA,PPI-0334579,depreciacao_exercicio_2025 e acumulada,448.24,179.3,268.94,268.94,Depreciação do exercício alterada por fator 0.4
+E0294,DEPRECIACAO INCORRETA,PPI-0289320,depreciacao_exercicio_2025 e acumulada,114.47,183.15,-68.68,68.68,Depreciação do exercício alterada por fator 1.6
+E0295,DEPRECIACAO INCORRETA,PPI-0286027,depreciacao_exercicio_2025 e acumulada,347.21,624.98,-277.77,277.77,Depreciação do exercício alterada por fator 1.8
+E0296,DEPRECIACAO INCORRETA,PPI-0282012,depreciacao_exercicio_2025 e acumulada,642.83,1157.09,-514.26,514.26,Depreciação do exercício alterada por fator 1.8
+E0297,DEPRECIACAO INCORRETA,PPI-0490507,depreciacao_exercicio_2025 e acumulada,513.2,821.12,-307.92,307.92,Depreciação do exercício alterada por fator 1.6
+E0298,DEPRECIACAO INCORRETA,PPI-0261071,depreciacao_exercicio_2025 e acumulada,5640.85,10153.53,-4512.68,4512.68,Depreciação do exercício alterada por fator 1.8
+E0299,DEPRECIACAO INCORRETA,PPI-0487673,depreciacao_exercicio_2025 e acumulada,128.75,64.38,64.38,64.38,Depreciação do exercício alterada por fator 0.5
+E0300,DEPRECIACAO INCORRETA,PPI-0456256,depreciacao_exercicio_2025 e acumulada,101.23,40.49,60.74,60.74,Depreciação do exercício alterada por fator 0.4
+E0301,DEPRECIACAO INCORRETA,PPI-0037890,depreciacao_exercicio_2025 e acumulada,276.39,138.2,138.19,138.19,Depreciação do exercício alterada por fator 0.5
+E0302,DEPRECIACAO INCORRETA,PPI-0290071,depreciacao_exercicio_2025 e acumulada,400.3,720.54,-320.24,320.24,Depreciação do exercício alterada por fator 1.8
+E0303,DEPRECIACAO INCORRETA,PPI-0221721,depreciacao_exercicio_2025 e acumulada,317.64,508.22,-190.58,190.58,Depreciação do exercício alterada por fator 1.6
+E0304,DEPRECIACAO INCORRETA,PPI-0490139,depreciacao_exercicio_2025 e acumulada,455.19,819.34,-364.15,364.15,Depreciação do exercício alterada por fator 1.8
+E0305,DEPRECIACAO INCORRETA,PPI-0267307,depreciacao_exercicio_2025 e acumulada,395.34,632.54,-237.2,237.2,Depreciação do exercício alterada por fator 1.6
+E0306,DEPRECIACAO INCORRETA,PPI-0235073,depreciacao_exercicio_2025 e acumulada,191.69,95.84,95.84,95.84,Depreciação do exercício alterada por fator 0.5
+E0307,DEPRECIACAO INCORRETA,PPI-0129879,depreciacao_exercicio_2025 e acumulada,2283.35,1141.68,1141.67,1141.67,Depreciação do exercício alterada por fator 0.5
+E0308,DEPRECIACAO INCORRETA,PPI-0195231,depreciacao_exercicio_2025 e acumulada,1628.28,814.14,814.14,814.14,Depreciação do exercício alterada por fator 0.5
+E0309,DEPRECIACAO INCORRETA,PPI-0184717,depreciacao_exercicio_2025 e acumulada,207.99,332.78,-124.79,124.79,Depreciação do exercício alterada por fator 1.6
+E0310,DEPRECIACAO INCORRETA,PPI-0171897,depreciacao_exercicio_2025 e acumulada,1151.42,575.71,575.71,575.71,Depreciação do exercício alterada por fator 0.5
+E0311,DEPRECIACAO INCORRETA,PPI-0380420,depreciacao_exercicio_2025 e acumulada,396.84,714.31,-317.47,317.47,Depreciação do exercício alterada por fator 1.8
+E0312,DEPRECIACAO INCORRETA,PPI-0179171,depreciacao_exercicio_2025 e acumulada,470.87,753.39,-282.52,282.52,Depreciação do exercício alterada por fator 1.6
+E0313,DEPRECIACAO INCORRETA,PPI-0032555,depreciacao_exercicio_2025 e acumulada,406.85,732.33,-325.48,325.48,Depreciação do exercício alterada por fator 1.8
+E0314,DEPRECIACAO INCORRETA,PPI-0137407,depreciacao_exercicio_2025 e acumulada,209.25,83.7,125.55,125.55,Depreciação do exercício alterada por fator 0.4
+E0315,DEPRECIACAO INCORRETA,PPI-0098012,depreciacao_exercicio_2025 e acumulada,2060.91,1030.46,1030.45,1030.45,Depreciação do exercício alterada por fator 0.5
+E0316,DEPRECIACAO INCORRETA,PPI-0358682,depreciacao_exercicio_2025 e acumulada,545.84,873.34,-327.5,327.5,Depreciação do exercício alterada por fator 1.6
+E0317,DEPRECIACAO INCORRETA,PPI-0231740,depreciacao_exercicio_2025 e acumulada,198.87,99.44,99.44,99.44,Depreciação do exercício alterada por fator 0.5
+E0318,DEPRECIACAO INCORRETA,PPI-0428695,depreciacao_exercicio_2025 e acumulada,590.2,236.08,354.12,354.12,Depreciação do exercício alterada por fator 0.4
+E0319,DEPRECIACAO INCORRETA,PPI-0377149,depreciacao_exercicio_2025 e acumulada,2810.87,1124.35,1686.52,1686.52,Depreciação do exercício alterada por fator 0.4
+E0320,DEPRECIACAO INCORRETA,PPI-0238657,depreciacao_exercicio_2025 e acumulada,293.83,146.92,146.91,146.91,Depreciação do exercício alterada por fator 0.5
+E0321,DEPRECIACAO INCORRETA,PPI-0218434,depreciacao_exercicio_2025 e acumulada,1697.15,3054.87,-1357.72,1357.72,Depreciação do exercício alterada por fator 1.8
+E0322,DEPRECIACAO INCORRETA,PPI-0478582,depreciacao_exercicio_2025 e acumulada,1912.67,3442.81,-1530.14,1530.14,Depreciação do exercício alterada por fator 1.8
+E0323,DEPRECIACAO INCORRETA,PPI-0142830,depreciacao_exercicio_2025 e acumulada,142.42,227.87,-85.45,85.45,Depreciação do exercício alterada por fator 1.6
+E0324,DEPRECIACAO INCORRETA,PPI-0472209,depreciacao_exercicio_2025 e acumulada,138.38,249.08,-110.7,110.7,Depreciação do exercício alterada por fator 1.8
+E0325,DEPRECIACAO INCORRETA,PPI-0052424,depreciacao_exercicio_2025 e acumulada,186.15,297.84,-111.69,111.69,Depreciação do exercício alterada por fator 1.6
+E0326,DEPRECIACAO INCORRETA,PPI-0426683,depreciacao_exercicio_2025 e acumulada,904.82,452.41,452.41,452.41,Depreciação do exercício alterada por fator 0.5
+E0327,DEPRECIACAO INCORRETA,PPI-0345319,depreciacao_exercicio_2025 e acumulada,398.11,159.24,238.87,238.87,Depreciação do exercício alterada por fator 0.4
+E0328,DEPRECIACAO INCORRETA,PPI-0009134,depreciacao_exercicio_2025 e acumulada,467.02,747.23,-280.21,280.21,Depreciação do exercício alterada por fator 1.6
+E0329,DEPRECIACAO INCORRETA,PPI-0131006,depreciacao_exercicio_2025 e acumulada,1025.39,512.7,512.7,512.7,Depreciação do exercício alterada por fator 0.5
+E0330,DEPRECIACAO INCORRETA,PPI-0083575,depreciacao_exercicio_2025 e acumulada,226.89,363.02,-136.13,136.13,Depreciação do exercício alterada por fator 1.6
+E0331,DEPRECIACAO INCORRETA,PPI-0295812,depreciacao_exercicio_2025 e acumulada,362.19,181.1,181.09,181.09,Depreciação do exercício alterada por fator 0.5
+E0332,DEPRECIACAO INCORRETA,PPI-0250944,depreciacao_exercicio_2025 e acumulada,3082.62,1233.05,1849.57,1849.57,Depreciação do exercício alterada por fator 0.4
+E0333,DEPRECIACAO INCORRETA,PPI-0454513,depreciacao_exercicio_2025 e acumulada,835.3,417.65,417.65,417.65,Depreciação do exercício alterada por fator 0.5
+E0334,DEPRECIACAO INCORRETA,PPI-0279945,depreciacao_exercicio_2025 e acumulada,1748.25,874.12,874.12,874.12,Depreciação do exercício alterada por fator 0.5
+E0335,DEPRECIACAO INCORRETA,PPI-0297397,depreciacao_exercicio_2025 e acumulada,208.11,374.6,-166.49,166.49,Depreciação do exercício alterada por fator 1.8
+E0336,DEPRECIACAO INCORRETA,PPI-0139385,depreciacao_exercicio_2025 e acumulada,110.55,44.22,66.33,66.33,Depreciação do exercício alterada por fator 0.4
+E0337,DEPRECIACAO INCORRETA,PPI-0202456,depreciacao_exercicio_2025 e acumulada,181.01,325.82,-144.81,144.81,Depreciação do exercício alterada por fator 1.8
+E0338,DEPRECIACAO INCORRETA,PPI-0082607,depreciacao_exercicio_2025 e acumulada,146.74,234.78,-88.04,88.04,Depreciação do exercício alterada por fator 1.6
+E0339,DEPRECIACAO INCORRETA,PPI-0115523,depreciacao_exercicio_2025 e acumulada,299.77,479.63,-179.86,179.86,Depreciação do exercício alterada por fator 1.6
+E0340,DEPRECIACAO INCORRETA,PPI-0003200,depreciacao_exercicio_2025 e acumulada,947.15,473.58,473.57,473.57,Depreciação do exercício alterada por fator 0.5
+E0341,DEPRECIACAO INCORRETA,PPI-0326649,depreciacao_exercicio_2025 e acumulada,794.11,317.64,476.47,476.47,Depreciação do exercício alterada por fator 0.4
+E0342,DEPRECIACAO INCORRETA,PPI-0252434,depreciacao_exercicio_2025 e acumulada,434.55,217.28,217.28,217.28,Depreciação do exercício alterada por fator 0.5
+E0343,DEPRECIACAO INCORRETA,PPI-0450926,depreciacao_exercicio_2025 e acumulada,1280.8,2305.44,-1024.64,1024.64,Depreciação do exercício alterada por fator 1.8
+E0344,DEPRECIACAO INCORRETA,PPI-0225500,depreciacao_exercicio_2025 e acumulada,1957.83,783.13,1174.7,1174.7,Depreciação do exercício alterada por fator 0.4
+E0345,DEPRECIACAO INCORRETA,PPI-0254304,depreciacao_exercicio_2025 e acumulada,1038.04,415.22,622.82,622.82,Depreciação do exercício alterada por fator 0.4
+E0346,DEPRECIACAO INCORRETA,PPI-0453683,depreciacao_exercicio_2025 e acumulada,1179.46,1887.14,-707.68,707.68,Depreciação do exercício alterada por fator 1.6
+E0347,DEPRECIACAO INCORRETA,PPI-0158771,depreciacao_exercicio_2025 e acumulada,899.24,1438.78,-539.54,539.54,Depreciação do exercício alterada por fator 1.6
+E0348,DEPRECIACAO INCORRETA,PPI-0350442,depreciacao_exercicio_2025 e acumulada,129.15,51.66,77.49,77.49,Depreciação do exercício alterada por fator 0.4
+E0349,DEPRECIACAO INCORRETA,PPI-0134464,depreciacao_exercicio_2025 e acumulada,176.21,281.94,-105.73,105.73,Depreciação do exercício alterada por fator 1.6
+E0350,DEPRECIACAO INCORRETA,PPI-0353970,depreciacao_exercicio_2025 e acumulada,437.19,786.94,-349.75,349.75,Depreciação do exercício alterada por fator 1.8
+E0351,DEPRECIACAO INCORRETA,PPI-0481300,depreciacao_exercicio_2025 e acumulada,368.1,588.96,-220.86,220.86,Depreciação do exercício alterada por fator 1.6
+E0352,DEPRECIACAO INCORRETA,PPI-0347684,depreciacao_exercicio_2025 e acumulada,2688.89,4840.0,-2151.11,2151.11,Depreciação do exercício alterada por fator 1.8
+E0353,DEPRECIACAO INCORRETA,PPI-0288950,depreciacao_exercicio_2025 e acumulada,567.95,227.18,340.77,340.77,Depreciação do exercício alterada por fator 0.4
+E0354,DEPRECIACAO INCORRETA,PPI-0512665,depreciacao_exercicio_2025 e acumulada,752.62,1204.19,-451.57,451.57,Depreciação do exercício alterada por fator 1.6
+E0355,DEPRECIACAO INCORRETA,PPI-0275685,depreciacao_exercicio_2025 e acumulada,1144.2,1830.72,-686.52,686.52,Depreciação do exercício alterada por fator 1.6
+E0356,DEPRECIACAO INCORRETA,PPI-0457484,depreciacao_exercicio_2025 e acumulada,131.19,65.6,65.59,65.59,Depreciação do exercício alterada por fator 0.5
+E0357,DEPRECIACAO INCORRETA,PPI-0105377,depreciacao_exercicio_2025 e acumulada,2778.22,1111.29,1666.93,1666.93,Depreciação do exercício alterada por fator 0.4
+E0358,DEPRECIACAO INCORRETA,PPI-0339144,depreciacao_exercicio_2025 e acumulada,331.38,132.55,198.83,198.83,Depreciação do exercício alterada por fator 0.4
+E0359,DEPRECIACAO INCORRETA,PPI-0246593,depreciacao_exercicio_2025 e acumulada,398.16,159.26,238.9,238.9,Depreciação do exercício alterada por fator 0.4
+E0360,DEPRECIACAO INCORRETA,PPI-0010590,depreciacao_exercicio_2025 e acumulada,100.91,40.36,60.55,60.55,Depreciação do exercício alterada por fator 0.4
+E0361,DEPRECIACAO INCORRETA,PPI-0166281,depreciacao_exercicio_2025 e acumulada,995.71,1792.28,-796.57,796.57,Depreciação do exercício alterada por fator 1.8
+E0362,DEPRECIACAO INCORRETA,PPI-0295676,depreciacao_exercicio_2025 e acumulada,2575.41,1287.7,1287.7,1287.7,Depreciação do exercício alterada por fator 0.5
+E0363,DEPRECIACAO INCORRETA,PPI-0288657,depreciacao_exercicio_2025 e acumulada,151.77,273.19,-121.42,121.42,Depreciação do exercício alterada por fator 1.8
+E0364,DEPRECIACAO INCORRETA,PPI-0377715,depreciacao_exercicio_2025 e acumulada,946.74,473.37,473.37,473.37,Depreciação do exercício alterada por fator 0.5
+E0365,DEPRECIACAO INCORRETA,PPI-0074286,depreciacao_exercicio_2025 e acumulada,5724.53,2289.81,3434.72,3434.72,Depreciação do exercício alterada por fator 0.4
+E0366,DEPRECIACAO INCORRETA,PPI-0052595,depreciacao_exercicio_2025 e acumulada,960.73,480.36,480.37,480.37,Depreciação do exercício alterada por fator 0.5
+E0367,DEPRECIACAO INCORRETA,PPI-0247489,depreciacao_exercicio_2025 e acumulada,908.39,1635.1,-726.71,726.71,Depreciação do exercício alterada por fator 1.8
+E0368,DEPRECIACAO INCORRETA,PPI-0297217,depreciacao_exercicio_2025 e acumulada,781.09,1249.74,-468.65,468.65,Depreciação do exercício alterada por fator 1.6
+E0369,DEPRECIACAO INCORRETA,PPI-0143907,depreciacao_exercicio_2025 e acumulada,122.08,219.74,-97.66,97.66,Depreciação do exercício alterada por fator 1.8
+E0370,DEPRECIACAO INCORRETA,PPI-0442740,depreciacao_exercicio_2025 e acumulada,179.8,89.9,89.9,89.9,Depreciação do exercício alterada por fator 0.5
+E0371,DEPRECIACAO INCORRETA,PPI-0200842,depreciacao_exercicio_2025 e acumulada,147.66,59.06,88.6,88.6,Depreciação do exercício alterada por fator 0.4
+E0372,DEPRECIACAO INCORRETA,PPI-0352846,depreciacao_exercicio_2025 e acumulada,791.04,1423.87,-632.83,632.83,Depreciação do exercício alterada por fator 1.8
+E0373,DEPRECIACAO INCORRETA,PPI-0518861,depreciacao_exercicio_2025 e acumulada,497.48,795.97,-298.49,298.49,Depreciação do exercício alterada por fator 1.6
+E0374,DEPRECIACAO INCORRETA,PPI-0497212,depreciacao_exercicio_2025 e acumulada,273.48,109.39,164.09,164.09,Depreciação do exercício alterada por fator 0.4
+E0375,DEPRECIACAO INCORRETA,PPI-0256822,depreciacao_exercicio_2025 e acumulada,3948.6,6317.76,-2369.16,2369.16,Depreciação do exercício alterada por fator 1.6
+E0376,DEPRECIACAO INCORRETA,PPI-0073394,depreciacao_exercicio_2025 e acumulada,2041.92,1020.96,1020.96,1020.96,Depreciação do exercício alterada por fator 0.5
+E0377,DEPRECIACAO INCORRETA,PPI-0148824,depreciacao_exercicio_2025 e acumulada,1151.78,2073.2,-921.42,921.42,Depreciação do exercício alterada por fator 1.8
+E0378,DEPRECIACAO INCORRETA,PPI-0221603,depreciacao_exercicio_2025 e acumulada,1626.8,650.72,976.08,976.08,Depreciação do exercício alterada por fator 0.4
+E0379,DEPRECIACAO INCORRETA,PPI-0066898,depreciacao_exercicio_2025 e acumulada,225.14,360.22,-135.08,135.08,Depreciação do exercício alterada por fator 1.6
+E0380,DEPRECIACAO INCORRETA,PPI-0281658,depreciacao_exercicio_2025 e acumulada,101.32,182.38,-81.06,81.06,Depreciação do exercício alterada por fator 1.8
+E0381,DEPRECIACAO INCORRETA,PPI-0334769,depreciacao_exercicio_2025 e acumulada,7962.16,12739.46,-4777.3,4777.3,Depreciação do exercício alterada por fator 1.6
+E0382,DEPRECIACAO INCORRETA,PPI-0513340,depreciacao_exercicio_2025 e acumulada,225.99,90.4,135.59,135.59,Depreciação do exercício alterada por fator 0.4
+E0383,DEPRECIACAO INCORRETA,PPI-0431534,depreciacao_exercicio_2025 e acumulada,116.7,58.35,58.35,58.35,Depreciação do exercício alterada por fator 0.5
+E0384,DEPRECIACAO INCORRETA,PPI-0473135,depreciacao_exercicio_2025 e acumulada,1015.71,1828.28,-812.57,812.57,Depreciação do exercício alterada por fator 1.8
+E0385,DEPRECIACAO INCORRETA,PPI-0470441,depreciacao_exercicio_2025 e acumulada,1417.54,2268.06,-850.52,850.52,Depreciação do exercício alterada por fator 1.6
+E0386,DEPRECIACAO INCORRETA,PPI-0407101,depreciacao_exercicio_2025 e acumulada,16455.39,6582.16,9873.23,9873.23,Depreciação do exercício alterada por fator 0.4
+E0387,DEPRECIACAO INCORRETA,PPI-0257206,depreciacao_exercicio_2025 e acumulada,723.04,1301.47,-578.43,578.43,Depreciação do exercício alterada por fator 1.8
+E0388,DEPRECIACAO INCORRETA,PPI-0410752,depreciacao_exercicio_2025 e acumulada,449.96,719.94,-269.98,269.98,Depreciação do exercício alterada por fator 1.6
+E0389,DEPRECIACAO INCORRETA,PPI-0202071,depreciacao_exercicio_2025 e acumulada,303.58,546.44,-242.86,242.86,Depreciação do exercício alterada por fator 1.8
+E0390,DEPRECIACAO INCORRETA,PPI-0143302,depreciacao_exercicio_2025 e acumulada,149.87,59.95,89.92,89.92,Depreciação do exercício alterada por fator 0.4
+E0391,DEPRECIACAO INCORRETA,PPI-0205031,depreciacao_exercicio_2025 e acumulada,238.69,429.64,-190.95,190.95,Depreciação do exercício alterada por fator 1.8
+E0392,DEPRECIACAO INCORRETA,PPI-0094460,depreciacao_exercicio_2025 e acumulada,1338.23,535.29,802.94,802.94,Depreciação do exercício alterada por fator 0.4
+E0393,DEPRECIACAO INCORRETA,PPI-0254430,depreciacao_exercicio_2025 e acumulada,3107.77,1243.11,1864.66,1864.66,Depreciação do exercício alterada por fator 0.4
+E0394,DEPRECIACAO INCORRETA,PPI-0307926,depreciacao_exercicio_2025 e acumulada,127.9,51.16,76.74,76.74,Depreciação do exercício alterada por fator 0.4
+E0395,DEPRECIACAO INCORRETA,PPI-0005278,depreciacao_exercicio_2025 e acumulada,1929.65,771.86,1157.79,1157.79,Depreciação do exercício alterada por fator 0.4
+E0396,DEPRECIACAO INCORRETA,PPI-0408395,depreciacao_exercicio_2025 e acumulada,202.37,323.79,-121.42,121.42,Depreciação do exercício alterada por fator 1.6
+E0397,DEPRECIACAO INCORRETA,PPI-0078454,depreciacao_exercicio_2025 e acumulada,489.51,783.22,-293.71,293.71,Depreciação do exercício alterada por fator 1.6
+E0398,DEPRECIACAO INCORRETA,PPI-0431200,depreciacao_exercicio_2025 e acumulada,687.11,1236.8,-549.69,549.69,Depreciação do exercício alterada por fator 1.8
+E0399,DEPRECIACAO INCORRETA,PPI-0190773,depreciacao_exercicio_2025 e acumulada,517.91,207.16,310.75,310.75,Depreciação do exercício alterada por fator 0.4
+E0400,DEPRECIACAO INCORRETA,PPI-0439456,depreciacao_exercicio_2025 e acumulada,324.5,129.8,194.7,194.7,Depreciação do exercício alterada por fator 0.4
+E0401,DEPRECIACAO INCORRETA,PPI-0058322,depreciacao_exercicio_2025 e acumulada,1360.3,544.12,816.18,816.18,Depreciação do exercício alterada por fator 0.4
+E0402,DEPRECIACAO INCORRETA,PPI-0477159,depreciacao_exercicio_2025 e acumulada,171.66,308.99,-137.33,137.33,Depreciação do exercício alterada por fator 1.8
+E0403,DEPRECIACAO INCORRETA,PPI-0237031,depreciacao_exercicio_2025 e acumulada,396.03,633.65,-237.62,237.62,Depreciação do exercício alterada por fator 1.6
+E0404,DEPRECIACAO INCORRETA,PPI-0237688,depreciacao_exercicio_2025 e acumulada,616.38,308.19,308.19,308.19,Depreciação do exercício alterada por fator 0.5
+E0405,DEPRECIACAO INCORRETA,PPI-0443114,depreciacao_exercicio_2025 e acumulada,134.57,67.28,67.28,67.28,Depreciação do exercício alterada por fator 0.5
+E0406,DEPRECIACAO INCORRETA,PPI-0184856,depreciacao_exercicio_2025 e acumulada,381.34,152.54,228.8,228.8,Depreciação do exercício alterada por fator 0.4
+E0407,DEPRECIACAO INCORRETA,PPI-0107797,depreciacao_exercicio_2025 e acumulada,1211.25,484.5,726.75,726.75,Depreciação do exercício alterada por fator 0.4
+E0408,DEPRECIACAO INCORRETA,PPI-0459212,depreciacao_exercicio_2025 e acumulada,483.25,869.85,-386.6,386.6,Depreciação do exercício alterada por fator 1.8
+E0409,DEPRECIACAO INCORRETA,PPI-0350304,depreciacao_exercicio_2025 e acumulada,127.58,229.64,-102.06,102.06,Depreciação do exercício alterada por fator 1.8
+E0410,DEPRECIACAO INCORRETA,PPI-0036145,depreciacao_exercicio_2025 e acumulada,612.52,1102.54,-490.02,490.02,Depreciação do exercício alterada por fator 1.8
+E0411,DEPRECIACAO INCORRETA,PPI-0177428,depreciacao_exercicio_2025 e acumulada,132.87,212.59,-79.72,79.72,Depreciação do exercício alterada por fator 1.6
+E0412,DEPRECIACAO INCORRETA,PPI-0374747,depreciacao_exercicio_2025 e acumulada,2587.64,1293.82,1293.82,1293.82,Depreciação do exercício alterada por fator 0.5
+E0413,DEPRECIACAO INCORRETA,PPI-0300224,depreciacao_exercicio_2025 e acumulada,107.53,43.01,64.52,64.52,Depreciação do exercício alterada por fator 0.4
+E0414,DEPRECIACAO INCORRETA,PPI-0410260,depreciacao_exercicio_2025 e acumulada,637.57,1020.11,-382.54,382.54,Depreciação do exercício alterada por fator 1.6
+E0415,DEPRECIACAO INCORRETA,PPI-0004555,depreciacao_exercicio_2025 e acumulada,1407.34,2533.21,-1125.87,1125.87,Depreciação do exercício alterada por fator 1.8
+E0416,DEPRECIACAO INCORRETA,PPI-0378413,depreciacao_exercicio_2025 e acumulada,888.32,1598.98,-710.66,710.66,Depreciação do exercício alterada por fator 1.8
+E0417,DEPRECIACAO INCORRETA,PPI-0481191,depreciacao_exercicio_2025 e acumulada,149.4,74.7,74.7,74.7,Depreciação do exercício alterada por fator 0.5
+E0418,DEPRECIACAO INCORRETA,PPI-0165390,depreciacao_exercicio_2025 e acumulada,1125.74,562.87,562.87,562.87,Depreciação do exercício alterada por fator 0.5
+E0419,DEPRECIACAO INCORRETA,PPI-0435455,depreciacao_exercicio_2025 e acumulada,922.89,1476.62,-553.73,553.73,Depreciação do exercício alterada por fator 1.6
+E0420,DEPRECIACAO INCORRETA,PPI-0103843,depreciacao_exercicio_2025 e acumulada,1340.35,670.18,670.17,670.17,Depreciação do exercício alterada por fator 0.5
+E0421,DEPRECIACAO INCORRETA,PPI-0369715,depreciacao_exercicio_2025 e acumulada,314.65,157.32,157.32,157.32,Depreciação do exercício alterada por fator 0.5
+E0422,DEPRECIACAO INCORRETA,PPI-0239357,depreciacao_exercicio_2025 e acumulada,137.52,68.76,68.76,68.76,Depreciação do exercício alterada por fator 0.5
+E0423,DEPRECIACAO INCORRETA,PPI-0213234,depreciacao_exercicio_2025 e acumulada,1402.86,2244.58,-841.72,841.72,Depreciação do exercício alterada por fator 1.6
+E0424,DEPRECIACAO INCORRETA,PPI-0097071,depreciacao_exercicio_2025 e acumulada,259.94,467.89,-207.95,207.95,Depreciação do exercício alterada por fator 1.8
+E0425,DEPRECIACAO INCORRETA,PPI-0000057,depreciacao_exercicio_2025 e acumulada,252.7,454.86,-202.16,202.16,Depreciação do exercício alterada por fator 1.8
+E0426,DEPRECIACAO INCORRETA,PPI-0306016,depreciacao_exercicio_2025 e acumulada,228.65,114.32,114.33,114.33,Depreciação do exercício alterada por fator 0.5
+E0427,DEPRECIACAO INCORRETA,PPI-0346696,depreciacao_exercicio_2025 e acumulada,191.95,307.12,-115.17,115.17,Depreciação do exercício alterada por fator 1.6
+E0428,DEPRECIACAO INCORRETA,PPI-0371870,depreciacao_exercicio_2025 e acumulada,4176.17,6681.87,-2505.7,2505.7,Depreciação do exercício alterada por fator 1.6
+E0429,DEPRECIACAO INCORRETA,PPI-0492736,depreciacao_exercicio_2025 e acumulada,2605.72,1042.29,1563.43,1563.43,Depreciação do exercício alterada por fator 0.4
+E0430,DEPRECIACAO INCORRETA,PPI-0454591,depreciacao_exercicio_2025 e acumulada,355.09,142.04,213.05,213.05,Depreciação do exercício alterada por fator 0.4
+E0431,DEPRECIACAO INCORRETA,PPI-0108663,depreciacao_exercicio_2025 e acumulada,111.26,178.02,-66.76,66.76,Depreciação do exercício alterada por fator 1.6
+E0432,DEPRECIACAO INCORRETA,PPI-0102076,depreciacao_exercicio_2025 e acumulada,2255.12,902.05,1353.07,1353.07,Depreciação do exercício alterada por fator 0.4
+E0433,DEPRECIACAO INCORRETA,PPI-0373945,depreciacao_exercicio_2025 e acumulada,514.56,926.21,-411.65,411.65,Depreciação do exercício alterada por fator 1.8
+E0434,DEPRECIACAO INCORRETA,PPI-0035681,depreciacao_exercicio_2025 e acumulada,410.86,205.43,205.43,205.43,Depreciação do exercício alterada por fator 0.5
+E0435,DEPRECIACAO INCORRETA,PPI-0156542,depreciacao_exercicio_2025 e acumulada,9395.64,16912.15,-7516.51,7516.51,Depreciação do exercício alterada por fator 1.8
+E0436,DEPRECIACAO INCORRETA,PPI-0492904,depreciacao_exercicio_2025 e acumulada,2367.22,946.89,1420.33,1420.33,Depreciação do exercício alterada por fator 0.4
+E0437,DEPRECIACAO INCORRETA,PPI-0310170,depreciacao_exercicio_2025 e acumulada,1277.59,511.04,766.55,766.55,Depreciação do exercício alterada por fator 0.4
+E0438,DEPRECIACAO INCORRETA,PPI-0086211,depreciacao_exercicio_2025 e acumulada,174.44,87.22,87.22,87.22,Depreciação do exercício alterada por fator 0.5
+E0439,DEPRECIACAO INCORRETA,PPI-0334125,depreciacao_exercicio_2025 e acumulada,103.71,41.48,62.23,62.23,Depreciação do exercício alterada por fator 0.4
+E0440,DEPRECIACAO INCORRETA,PPI-0377283,depreciacao_exercicio_2025 e acumulada,1110.71,444.28,666.43,666.43,Depreciação do exercício alterada por fator 0.4
+E0441,DEPRECIACAO INCORRETA,PPI-0026784,depreciacao_exercicio_2025 e acumulada,710.94,1279.69,-568.75,568.75,Depreciação do exercício alterada por fator 1.8
+E0442,DEPRECIACAO INCORRETA,PPI-0454007,depreciacao_exercicio_2025 e acumulada,7314.8,2925.92,4388.88,4388.88,Depreciação do exercício alterada por fator 0.4
+E0443,DEPRECIACAO INCORRETA,PPI-0015456,depreciacao_exercicio_2025 e acumulada,2230.21,1115.1,1115.11,1115.11,Depreciação do exercício alterada por fator 0.5
+E0444,DEPRECIACAO INCORRETA,PPI-0304465,depreciacao_exercicio_2025 e acumulada,4003.36,1601.34,2402.02,2402.02,Depreciação do exercício alterada por fator 0.4
+E0445,DEPRECIACAO INCORRETA,PPI-0489042,depreciacao_exercicio_2025 e acumulada,583.2,1049.76,-466.56,466.56,Depreciação do exercício alterada por fator 1.8
+E0446,DEPRECIACAO INCORRETA,PPI-0385129,depreciacao_exercicio_2025 e acumulada,140.61,224.98,-84.37,84.37,Depreciação do exercício alterada por fator 1.6
+E0447,DEPRECIACAO INCORRETA,PPI-0224867,depreciacao_exercicio_2025 e acumulada,110.36,198.65,-88.29,88.29,Depreciação do exercício alterada por fator 1.8
+E0448,DEPRECIACAO INCORRETA,PPI-0286607,depreciacao_exercicio_2025 e acumulada,115.47,46.19,69.28,69.28,Depreciação do exercício alterada por fator 0.4
+E0449,DEPRECIACAO INCORRETA,PPI-0411877,depreciacao_exercicio_2025 e acumulada,358.15,644.67,-286.52,286.52,Depreciação do exercício alterada por fator 1.8
+E0450,DEPRECIACAO INCORRETA,PPI-0381532,depreciacao_exercicio_2025 e acumulada,198.92,318.27,-119.35,119.35,Depreciação do exercício alterada por fator 1.6
+E0451,DEPRECIACAO INCORRETA,PPI-0283190,depreciacao_exercicio_2025 e acumulada,587.17,1056.91,-469.74,469.74,Depreciação do exercício alterada por fator 1.8
+E0452,DEPRECIACAO INCORRETA,PPI-0468232,depreciacao_exercicio_2025 e acumulada,4757.06,7611.3,-2854.24,2854.24,Depreciação do exercício alterada por fator 1.6
+E0453,DEPRECIACAO INCORRETA,PPI-0391898,depreciacao_exercicio_2025 e acumulada,630.81,315.4,315.4,315.4,Depreciação do exercício alterada por fator 0.5
+E0454,DEPRECIACAO INCORRETA,PPI-0372345,depreciacao_exercicio_2025 e acumulada,160.34,256.54,-96.2,96.2,Depreciação do exercício alterada por fator 1.6
+E0455,DEPRECIACAO INCORRETA,PPI-0482376,depreciacao_exercicio_2025 e acumulada,116.59,186.54,-69.95,69.95,Depreciação do exercício alterada por fator 1.6
+E0456,DEPRECIACAO INCORRETA,PPI-0142932,depreciacao_exercicio_2025 e acumulada,223.19,89.28,133.91,133.91,Depreciação do exercício alterada por fator 0.4
+E0457,DEPRECIACAO INCORRETA,PPI-0197248,depreciacao_exercicio_2025 e acumulada,176.35,70.54,105.81,105.81,Depreciação do exercício alterada por fator 0.4
+E0458,DEPRECIACAO INCORRETA,PPI-0206731,depreciacao_exercicio_2025 e acumulada,1698.34,3057.01,-1358.67,1358.67,Depreciação do exercício alterada por fator 1.8
+E0459,DEPRECIACAO INCORRETA,PPI-0397496,depreciacao_exercicio_2025 e acumulada,563.11,1013.6,-450.49,450.49,Depreciação do exercício alterada por fator 1.8
+E0460,DEPRECIACAO INCORRETA,PPI-0050252,depreciacao_exercicio_2025 e acumulada,585.19,234.08,351.11,351.11,Depreciação do exercício alterada por fator 0.4
+E0461,DEPRECIACAO INCORRETA,PPI-0210812,depreciacao_exercicio_2025 e acumulada,702.72,1124.35,-421.63,421.63,Depreciação do exercício alterada por fator 1.6
+E0462,DEPRECIACAO INCORRETA,PPI-0463224,depreciacao_exercicio_2025 e acumulada,1169.15,2104.47,-935.32,935.32,Depreciação do exercício alterada por fator 1.8
+E0463,DEPRECIACAO INCORRETA,PPI-0284704,depreciacao_exercicio_2025 e acumulada,294.87,530.77,-235.9,235.9,Depreciação do exercício alterada por fator 1.8
+E0464,DEPRECIACAO INCORRETA,PPI-0336337,depreciacao_exercicio_2025 e acumulada,3162.9,1581.45,1581.45,1581.45,Depreciação do exercício alterada por fator 0.5
+E0465,DEPRECIACAO INCORRETA,PPI-0133695,depreciacao_exercicio_2025 e acumulada,990.9,495.45,495.45,495.45,Depreciação do exercício alterada por fator 0.5
+E0466,DEPRECIACAO INCORRETA,PPI-0316880,depreciacao_exercicio_2025 e acumulada,119.28,190.85,-71.57,71.57,Depreciação do exercício alterada por fator 1.6
+E0467,DEPRECIACAO INCORRETA,PPI-0371779,depreciacao_exercicio_2025 e acumulada,187.76,300.42,-112.66,112.66,Depreciação do exercício alterada por fator 1.6
+E0468,DEPRECIACAO INCORRETA,PPI-0374703,depreciacao_exercicio_2025 e acumulada,1699.57,3059.23,-1359.66,1359.66,Depreciação do exercício alterada por fator 1.8
+E0469,DEPRECIACAO INCORRETA,PPI-0292346,depreciacao_exercicio_2025 e acumulada,2935.7,1467.85,1467.85,1467.85,Depreciação do exercício alterada por fator 0.5
+E0470,DEPRECIACAO INCORRETA,PPI-0031943,depreciacao_exercicio_2025 e acumulada,206.91,372.44,-165.53,165.53,Depreciação do exercício alterada por fator 1.8
+E0471,BAIXADO COM SALDO,PPI-0039312,status,Em operação,Baixado,0.0,38600.54,Ativo marcado como baixado mantido com valor contábil positivo
+E0472,BAIXADO COM SALDO,PPI-0232605,status,Em operação,Baixado,0.0,37361.09,Ativo marcado como baixado mantido com valor contábil positivo
+E0473,BAIXADO COM SALDO,PPI-0212876,status,Em operação,Baixado,0.0,1192154.26,Ativo marcado como baixado mantido com valor contábil positivo
+E0474,BAIXADO COM SALDO,PPI-0458300,status,Em operação,Baixado,0.0,551589.44,Ativo marcado como baixado mantido com valor contábil positivo
+E0475,BAIXADO COM SALDO,PPI-0262943,status,Em operação,Baixado,0.0,32882.32,Ativo marcado como baixado mantido com valor contábil positivo
+E0476,BAIXADO COM SALDO,PPI-0311266,status,Em operação,Baixado,0.0,41479.71,Ativo marcado como baixado mantido com valor contábil positivo
+E0477,BAIXADO COM SALDO,PPI-0016912,status,Em operação,Baixado,0.0,34442.2,Ativo marcado como baixado mantido com valor contábil positivo
+E0478,BAIXADO COM SALDO,PPI-0149662,status,Em operação,Baixado,0.0,307833.55,Ativo marcado como baixado mantido com valor contábil positivo
+E0479,BAIXADO COM SALDO,PPI-0205939,status,Em operação,Baixado,0.0,37150.7,Ativo marcado como baixado mantido com valor contábil positivo
+E0480,BAIXADO COM SALDO,PPI-0390796,status,Em operação,Baixado,0.0,100335.87,Ativo marcado como baixado mantido com valor contábil positivo
+E0481,BAIXADO COM SALDO,PPI-0309621,status,Em operação,Baixado,0.0,34213.85,Ativo marcado como baixado mantido com valor contábil positivo
+E0482,BAIXADO COM SALDO,PPI-0079011,status,Em operação,Baixado,0.0,158877.5,Ativo marcado como baixado mantido com valor contábil positivo
+E0483,BAIXADO COM SALDO,PPI-0089781,status,Em operação,Baixado,0.0,47063.42,Ativo marcado como baixado mantido com valor contábil positivo
+E0484,BAIXADO COM SALDO,PPI-0225224,status,Em operação,Baixado,0.0,94228.11,Ativo marcado como baixado mantido com valor contábil positivo
+E0485,BAIXADO COM SALDO,PPI-0335979,status,Em operação,Baixado,0.0,22810.68,Ativo marcado como baixado mantido com valor contábil positivo
+E0486,BAIXADO COM SALDO,PPI-0029426,status,Em operação,Baixado,0.0,128826.82,Ativo marcado como baixado mantido com valor contábil positivo
+E0487,BAIXADO COM SALDO,PPI-0361980,status,Em operação,Baixado,0.0,99942.25,Ativo marcado como baixado mantido com valor contábil positivo
+E0488,BAIXADO COM SALDO,PPI-0197999,status,Em operação,Baixado,0.0,55190.2,Ativo marcado como baixado mantido com valor contábil positivo
+E0489,BAIXADO COM SALDO,PPI-0347186,status,Em operação,Baixado,0.0,55992.35,Ativo marcado como baixado mantido com valor contábil positivo
+E0490,BAIXADO COM SALDO,PPI-0137204,status,Em operação,Baixado,0.0,73698.91,Ativo marcado como baixado mantido com valor contábil positivo
+E0491,BAIXADO COM SALDO,PPI-0383082,status,Em operação,Baixado,0.0,317592.07,Ativo marcado como baixado mantido com valor contábil positivo
+E0492,BAIXADO COM SALDO,PPI-0462577,status,Em operação,Baixado,0.0,46106.96,Ativo marcado como baixado mantido com valor contábil positivo
+E0493,BAIXADO COM SALDO,PPI-0330988,status,Em operação,Baixado,0.0,70297.1,Ativo marcado como baixado mantido com valor contábil positivo
+E0494,BAIXADO COM SALDO,PPI-0429408,status,Em operação,Baixado,0.0,22167.43,Ativo marcado como baixado mantido com valor contábil positivo
+E0495,BAIXADO COM SALDO,PPI-0177052,status,Em operação,Baixado,0.0,20271.64,Ativo marcado como baixado mantido com valor contábil positivo
+E0496,BAIXADO COM SALDO,PPI-0429563,status,Em operação,Baixado,0.0,1017351.15,Ativo marcado como baixado mantido com valor contábil positivo
+E0497,BAIXADO COM SALDO,PPI-0116659,status,Em operação,Baixado,0.0,24855.22,Ativo marcado como baixado mantido com valor contábil positivo
+E0498,BAIXADO COM SALDO,PPI-0462444,status,Em operação,Baixado,0.0,31556.11,Ativo marcado como baixado mantido com valor contábil positivo
+E0499,BAIXADO COM SALDO,PPI-0329057,status,Em operação,Baixado,0.0,63898.28,Ativo marcado como baixado mantido com valor contábil positivo
+E0500,BAIXADO COM SALDO,PPI-0073684,status,Em operação,Baixado,0.0,170684.2,Ativo marcado como baixado mantido com valor contábil positivo
+E0501,BAIXADO COM SALDO,PPI-0072422,status,Em operação,Baixado,0.0,334052.81,Ativo marcado como baixado mantido com valor contábil positivo
+E0502,BAIXADO COM SALDO,PPI-0267444,status,Em operação,Baixado,0.0,35561.44,Ativo marcado como baixado mantido com valor contábil positivo
+E0503,BAIXADO COM SALDO,PPI-0448620,status,Em operação,Baixado,0.0,35131.67,Ativo marcado como baixado mantido com valor contábil positivo
+E0504,BAIXADO COM SALDO,PPI-0090701,status,Em operação,Baixado,0.0,40524.06,Ativo marcado como baixado mantido com valor contábil positivo
+E0505,BAIXADO COM SALDO,PPI-0066712,status,Em operação,Baixado,0.0,59333.79,Ativo marcado como baixado mantido com valor contábil positivo
+E0506,BAIXADO COM SALDO,PPI-0364248,status,Em operação,Baixado,0.0,92715.16,Ativo marcado como baixado mantido com valor contábil positivo
+E0507,BAIXADO COM SALDO,PPI-0233462,status,Em operação,Baixado,0.0,80487.59,Ativo marcado como baixado mantido com valor contábil positivo
+E0508,BAIXADO COM SALDO,PPI-0297485,status,Em operação,Baixado,0.0,1041089.84,Ativo marcado como baixado mantido com valor contábil positivo
+E0509,BAIXADO COM SALDO,PPI-0075506,status,Em operação,Baixado,0.0,20555.15,Ativo marcado como baixado mantido com valor contábil positivo
+E0510,BAIXADO COM SALDO,PPI-0083979,status,Em operação,Baixado,0.0,103726.4,Ativo marcado como baixado mantido com valor contábil positivo
+E0511,BAIXADO COM SALDO,PPI-0207167,status,Em operação,Baixado,0.0,2819615.33,Ativo marcado como baixado mantido com valor contábil positivo
+E0512,BAIXADO COM SALDO,PPI-0303067,status,Em operação,Baixado,0.0,39950.5,Ativo marcado como baixado mantido com valor contábil positivo
+E0513,BAIXADO COM SALDO,PPI-0226203,status,Em operação,Baixado,0.0,67714.12,Ativo marcado como baixado mantido com valor contábil positivo
+E0514,BAIXADO COM SALDO,PPI-0055821,status,Em operação,Baixado,0.0,20545.75,Ativo marcado como baixado mantido com valor contábil positivo
+E0515,BAIXADO COM SALDO,PPI-0378614,status,Em operação,Baixado,0.0,45752.46,Ativo marcado como baixado mantido com valor contábil positivo
+E0516,BAIXADO COM SALDO,PPI-0197581,status,Em operação,Baixado,0.0,182055.94,Ativo marcado como baixado mantido com valor contábil positivo
+E0517,BAIXADO COM SALDO,PPI-0115100,status,Em operação,Baixado,0.0,57473.43,Ativo marcado como baixado mantido com valor contábil positivo
+E0518,BAIXADO COM SALDO,PPI-0025157,status,Em operação,Baixado,0.0,356763.62,Ativo marcado como baixado mantido com valor contábil positivo
+E0519,BAIXADO COM SALDO,PPI-0368862,status,Em operação,Baixado,0.0,261703.2,Ativo marcado como baixado mantido com valor contábil positivo
+E0520,BAIXADO COM SALDO,PPI-0328724,status,Em operação,Baixado,0.0,20031.79,Ativo marcado como baixado mantido com valor contábil positivo
+E0521,BAIXADO COM SALDO,PPI-0167746,status,Em operação,Baixado,0.0,24775.66,Ativo marcado como baixado mantido com valor contábil positivo
+E0522,BAIXADO COM SALDO,PPI-0401080,status,Em operação,Baixado,0.0,114980.73,Ativo marcado como baixado mantido com valor contábil positivo
+E0523,BAIXADO COM SALDO,PPI-0085005,status,Em operação,Baixado,0.0,46683.6,Ativo marcado como baixado mantido com valor contábil positivo
+E0524,BAIXADO COM SALDO,PPI-0056466,status,Em operação,Baixado,0.0,206775.41,Ativo marcado como baixado mantido com valor contábil positivo
+E0525,BAIXADO COM SALDO,PPI-0188670,status,Em operação,Baixado,0.0,63628.18,Ativo marcado como baixado mantido com valor contábil positivo
+E0526,BAIXADO COM SALDO,PPI-0254171,status,Em operação,Baixado,0.0,44649.98,Ativo marcado como baixado mantido com valor contábil positivo
+E0527,BAIXADO COM SALDO,PPI-0149271,status,Em operação,Baixado,0.0,29329.73,Ativo marcado como baixado mantido com valor contábil positivo
+E0528,BAIXADO COM SALDO,PPI-0430593,status,Em operação,Baixado,0.0,51857.68,Ativo marcado como baixado mantido com valor contábil positivo
+E0529,BAIXADO COM SALDO,PPI-0047205,status,Em operação,Baixado,0.0,526887.66,Ativo marcado como baixado mantido com valor contábil positivo
+E0530,BAIXADO COM SALDO,PPI-0045272,status,Em operação,Baixado,0.0,40291.11,Ativo marcado como baixado mantido com valor contábil positivo
+E0531,BAIXADO COM SALDO,PPI-0296569,status,Em operação,Baixado,0.0,250510.67,Ativo marcado como baixado mantido com valor contábil positivo
+E0532,BAIXADO COM SALDO,PPI-0202041,status,Em operação,Baixado,0.0,636898.22,Ativo marcado como baixado mantido com valor contábil positivo
+E0533,BAIXADO COM SALDO,PPI-0484235,status,Em operação,Baixado,0.0,52994.26,Ativo marcado como baixado mantido com valor contábil positivo
+E0534,BAIXADO COM SALDO,PPI-0104149,status,Em operação,Baixado,0.0,104252.04,Ativo marcado como baixado mantido com valor contábil positivo
+E0535,BAIXADO COM SALDO,PPI-0057325,status,Em operação,Baixado,0.0,73397.84,Ativo marcado como baixado mantido com valor contábil positivo
+E0536,BAIXADO COM SALDO,PPI-0355501,status,Em operação,Baixado,0.0,109838.41,Ativo marcado como baixado mantido com valor contábil positivo
+E0537,BAIXADO COM SALDO,PPI-0352051,status,Em operação,Baixado,0.0,103522.04,Ativo marcado como baixado mantido com valor contábil positivo
+E0538,BAIXADO COM SALDO,PPI-0465810,status,Em operação,Baixado,0.0,62525.12,Ativo marcado como baixado mantido com valor contábil positivo
+E0539,BAIXADO COM SALDO,PPI-0324381,status,Em operação,Baixado,0.0,22047.22,Ativo marcado como baixado mantido com valor contábil positivo
+E0540,BAIXADO COM SALDO,PPI-0229951,status,Em operação,Baixado,0.0,21322.31,Ativo marcado como baixado mantido com valor contábil positivo
+E0541,BAIXADO COM SALDO,PPI-0283566,status,Em operação,Baixado,0.0,125136.14,Ativo marcado como baixado mantido com valor contábil positivo
+E0542,BAIXADO COM SALDO,PPI-0223329,status,Em operação,Baixado,0.0,22312.0,Ativo marcado como baixado mantido com valor contábil positivo
+E0543,BAIXADO COM SALDO,PPI-0355914,status,Em operação,Baixado,0.0,66376.41,Ativo marcado como baixado mantido com valor contábil positivo
+E0544,BAIXADO COM SALDO,PPI-0096289,status,Em operação,Baixado,0.0,223514.26,Ativo marcado como baixado mantido com valor contábil positivo
+E0545,BAIXADO COM SALDO,PPI-0197008,status,Em operação,Baixado,0.0,55408.82,Ativo marcado como baixado mantido com valor contábil positivo
+E0546,BAIXADO COM SALDO,PPI-0130235,status,Em operação,Baixado,0.0,62411.59,Ativo marcado como baixado mantido com valor contábil positivo
+E0547,BAIXADO COM SALDO,PPI-0325983,status,Em operação,Baixado,0.0,24424.91,Ativo marcado como baixado mantido com valor contábil positivo
+E0548,BAIXADO COM SALDO,PPI-0466506,status,Em operação,Baixado,0.0,43105.75,Ativo marcado como baixado mantido com valor contábil positivo
+E0549,BAIXADO COM SALDO,PPI-0290956,status,Em operação,Baixado,0.0,173056.42,Ativo marcado como baixado mantido com valor contábil positivo
+E0550,BAIXADO COM SALDO,PPI-0365691,status,Em operação,Baixado,0.0,57458.12,Ativo marcado como baixado mantido com valor contábil positivo
+E0551,VCL NEGATIVO,PPI-0463392,depreciacao_acumulada,6599.82,328635.5,-322035.68,322035.68,Depreciação acumulada excede custo + mais-valia
+E0552,VCL NEGATIVO,PPI-0139688,depreciacao_acumulada,17766.4,83453.93,-65687.53,65687.53,Depreciação acumulada excede custo + mais-valia
+E0553,VCL NEGATIVO,PPI-0208266,depreciacao_acumulada,20633.06,72957.28,-52324.22,52324.22,Depreciação acumulada excede custo + mais-valia
+E0554,VCL NEGATIVO,PPI-0016479,depreciacao_acumulada,34538.53,121413.07,-86874.54,86874.54,Depreciação acumulada excede custo + mais-valia
+E0555,VCL NEGATIVO,PPI-0351950,depreciacao_acumulada,78040.52,733817.38,-655776.86,655776.86,Depreciação acumulada excede custo + mais-valia
+E0556,VCL NEGATIVO,PPI-0391530,depreciacao_acumulada,40406.61,607504.78,-567098.17,567098.17,Depreciação acumulada excede custo + mais-valia
+E0557,VCL NEGATIVO,PPI-0192813,depreciacao_acumulada,17428.11,173503.09,-156074.98,156074.98,Depreciação acumulada excede custo + mais-valia
+E0558,VCL NEGATIVO,PPI-0048376,depreciacao_acumulada,4245.1,247126.37,-242881.27,242881.27,Depreciação acumulada excede custo + mais-valia
+E0559,VCL NEGATIVO,PPI-0387953,depreciacao_acumulada,30231.27,134008.73,-103777.46,103777.46,Depreciação acumulada excede custo + mais-valia
+E0560,VCL NEGATIVO,PPI-0341314,depreciacao_acumulada,15927.74,250878.54,-234950.8,234950.8,Depreciação acumulada excede custo + mais-valia
+E0561,VCL NEGATIVO,PPI-0024512,depreciacao_acumulada,72218.0,1379504.37,-1307286.37,1307286.37,Depreciação acumulada excede custo + mais-valia
+E0562,VCL NEGATIVO,PPI-0109953,depreciacao_acumulada,6509.0,234835.77,-228326.77,228326.77,Depreciação acumulada excede custo + mais-valia
+E0563,VCL NEGATIVO,PPI-0465319,depreciacao_acumulada,3404.64,99790.6,-96385.96,96385.96,Depreciação acumulada excede custo + mais-valia
+E0564,VCL NEGATIVO,PPI-0360231,depreciacao_acumulada,9533.74,161524.79,-151991.05,151991.05,Depreciação acumulada excede custo + mais-valia
+E0565,VCL NEGATIVO,PPI-0499574,depreciacao_acumulada,0.0,207933.42,-207933.42,207933.42,Depreciação acumulada excede custo + mais-valia
+E0566,VCL NEGATIVO,PPI-0455974,depreciacao_acumulada,18560.33,596395.95,-577835.62,577835.62,Depreciação acumulada excede custo + mais-valia
+E0567,VCL NEGATIVO,PPI-0055400,depreciacao_acumulada,22326.09,58380.93,-36054.84,36054.84,Depreciação acumulada excede custo + mais-valia
+E0568,VCL NEGATIVO,PPI-0397714,depreciacao_acumulada,11411.68,277485.52,-266073.84,266073.84,Depreciação acumulada excede custo + mais-valia
+E0569,VCL NEGATIVO,PPI-0361875,depreciacao_acumulada,27023.82,313659.18,-286635.36,286635.36,Depreciação acumulada excede custo + mais-valia
+E0570,VCL NEGATIVO,PPI-0351246,depreciacao_acumulada,29751.21,281999.33,-252248.12,252248.12,Depreciação acumulada excede custo + mais-valia
+E0571,VCL NEGATIVO,PPI-0034981,depreciacao_acumulada,15326.14,86677.62,-71351.48,71351.48,Depreciação acumulada excede custo + mais-valia
+E0572,VCL NEGATIVO,PPI-0397921,depreciacao_acumulada,45009.21,442013.21,-397004.0,397004.0,Depreciação acumulada excede custo + mais-valia
+E0573,VCL NEGATIVO,PPI-0060833,depreciacao_acumulada,44826.54,174454.27,-129627.73,129627.73,Depreciação acumulada excede custo + mais-valia
+E0574,VCL NEGATIVO,PPI-0255130,depreciacao_acumulada,128339.21,1646464.45,-1518125.24,1518125.24,Depreciação acumulada excede custo + mais-valia
+E0575,VCL NEGATIVO,PPI-0190383,depreciacao_acumulada,31975.38,77613.07,-45637.69,45637.69,Depreciação acumulada excede custo + mais-valia
+E0576,VCL NEGATIVO,PPI-0179372,depreciacao_acumulada,62616.26,143616.32,-81000.06,81000.06,Depreciação acumulada excede custo + mais-valia
+E0577,VCL NEGATIVO,PPI-0168737,depreciacao_acumulada,12926.88,476984.42,-464057.54,464057.54,Depreciação acumulada excede custo + mais-valia
+E0578,VCL NEGATIVO,PPI-0495992,depreciacao_acumulada,4125.34,82810.83,-78685.49,78685.49,Depreciação acumulada excede custo + mais-valia
+E0579,VCL NEGATIVO,PPI-0516708,depreciacao_acumulada,9795.53,58916.28,-49120.75,49120.75,Depreciação acumulada excede custo + mais-valia
+E0580,VCL NEGATIVO,PPI-0471441,depreciacao_acumulada,0.0,450493.58,-450493.58,450493.58,Depreciação acumulada excede custo + mais-valia
+E0581,VCL NEGATIVO,PPI-0419131,depreciacao_acumulada,26142.12,550841.29,-524699.17,524699.17,Depreciação acumulada excede custo + mais-valia
+E0582,VCL NEGATIVO,PPI-0247056,depreciacao_acumulada,61838.47,134044.2,-72205.73,72205.73,Depreciação acumulada excede custo + mais-valia
+E0583,VCL NEGATIVO,PPI-0246143,depreciacao_acumulada,26255.88,421283.65,-395027.77,395027.77,Depreciação acumulada excede custo + mais-valia
+E0584,VCL NEGATIVO,PPI-0510429,depreciacao_acumulada,40563.94,258861.42,-218297.48,218297.48,Depreciação acumulada excede custo + mais-valia
+E0585,VCL NEGATIVO,PPI-0048505,depreciacao_acumulada,21791.11,84163.6,-62372.49,62372.49,Depreciação acumulada excede custo + mais-valia
+E0586,VCL NEGATIVO,PPI-0204286,depreciacao_acumulada,51160.35,202765.23,-151604.88,151604.88,Depreciação acumulada excede custo + mais-valia
+E0587,VCL NEGATIVO,PPI-0168139,depreciacao_acumulada,14997.53,64009.94,-49012.41,49012.41,Depreciação acumulada excede custo + mais-valia
+E0588,VCL NEGATIVO,PPI-0281870,depreciacao_acumulada,17921.39,325570.36,-307648.97,307648.97,Depreciação acumulada excede custo + mais-valia
+E0589,VCL NEGATIVO,PPI-0389439,depreciacao_acumulada,12363.5,521898.08,-509534.58,509534.58,Depreciação acumulada excede custo + mais-valia
+E0590,VCL NEGATIVO,PPI-0068324,depreciacao_acumulada,99458.34,714760.24,-615301.9,615301.9,Depreciação acumulada excede custo + mais-valia
+E0591,VCL NEGATIVO,PPI-0285060,depreciacao_acumulada,22831.39,79542.74,-56711.35,56711.35,Depreciação acumulada excede custo + mais-valia
+E0592,VCL NEGATIVO,PPI-0430397,depreciacao_acumulada,261697.84,1064966.91,-803269.07,803269.07,Depreciação acumulada excede custo + mais-valia
+E0593,VCL NEGATIVO,PPI-0478581,depreciacao_acumulada,49.15,66014.98,-65965.83,65965.83,Depreciação acumulada excede custo + mais-valia
+E0594,VCL NEGATIVO,PPI-0094118,depreciacao_acumulada,29556.7,1323402.48,-1293845.78,1293845.78,Depreciação acumulada excede custo + mais-valia
+E0595,VCL NEGATIVO,PPI-0417403,depreciacao_acumulada,28639.49,202232.29,-173592.8,173592.8,Depreciação acumulada excede custo + mais-valia
+E0596,VCL NEGATIVO,PPI-0181670,depreciacao_acumulada,25347.12,409084.14,-383737.02,383737.02,Depreciação acumulada excede custo + mais-valia
+E0597,VCL NEGATIVO,PPI-0346307,depreciacao_acumulada,43933.34,196506.45,-152573.11,152573.11,Depreciação acumulada excede custo + mais-valia
+E0598,VCL NEGATIVO,PPI-0101991,depreciacao_acumulada,14366.83,124074.59,-109707.76,109707.76,Depreciação acumulada excede custo + mais-valia
+E0599,VCL NEGATIVO,PPI-0060774,depreciacao_acumulada,206157.61,502623.55,-296465.94,296465.94,Depreciação acumulada excede custo + mais-valia
+E0600,VCL NEGATIVO,PPI-0296717,depreciacao_acumulada,6323.01,62709.93,-56386.92,56386.92,Depreciação acumulada excede custo + mais-valia
+E0601,VCL NEGATIVO,PPI-0218967,depreciacao_acumulada,27938.53,151967.93,-124029.4,124029.4,Depreciação acumulada excede custo + mais-valia
+E0602,VCL NEGATIVO,PPI-0048663,depreciacao_acumulada,21951.12,807050.22,-785099.1,785099.1,Depreciação acumulada excede custo + mais-valia
+E0603,VCL NEGATIVO,PPI-0043183,depreciacao_acumulada,152826.98,947673.69,-794846.71,794846.71,Depreciação acumulada excede custo + mais-valia
+E0604,VCL NEGATIVO,PPI-0037381,depreciacao_acumulada,22316.11,98249.48,-75933.37,75933.37,Depreciação acumulada excede custo + mais-valia
+E0605,VCL NEGATIVO,PPI-0172522,depreciacao_acumulada,48688.53,353522.18,-304833.65,304833.65,Depreciação acumulada excede custo + mais-valia
+E0606,VCL NEGATIVO,PPI-0141214,depreciacao_acumulada,102393.81,246516.01,-144122.2,144122.2,Depreciação acumulada excede custo + mais-valia
+E0607,VCL NEGATIVO,PPI-0151034,depreciacao_acumulada,19699.57,162509.47,-142809.9,142809.9,Depreciação acumulada excede custo + mais-valia
+E0608,VCL NEGATIVO,PPI-0328621,depreciacao_acumulada,30608.78,178430.16,-147821.38,147821.38,Depreciação acumulada excede custo + mais-valia
+E0609,VCL NEGATIVO,PPI-0119509,depreciacao_acumulada,3852.16,342185.47,-338333.31,338333.31,Depreciação acumulada excede custo + mais-valia
+E0610,VCL NEGATIVO,PPI-0470172,depreciacao_acumulada,25853.45,179634.11,-153780.66,153780.66,Depreciação acumulada excede custo + mais-valia
+E0611,TERRENO DEPRECIADO,PPI-0502644,depreciacao_acumulada,0.0,77.96,-77.96,77.96,Terreno não depreciável com depreciação acumulada
+E0612,TERRENO DEPRECIADO,PPI-0052344,depreciacao_acumulada,0.0,1406.67,-1406.67,1406.67,Terreno não depreciável com depreciação acumulada
+E0613,TERRENO DEPRECIADO,PPI-0179541,depreciacao_acumulada,0.0,144.96,-144.96,144.96,Terreno não depreciável com depreciação acumulada
+E0614,TERRENO DEPRECIADO,PPI-0429086,depreciacao_acumulada,0.0,157.46,-157.46,157.46,Terreno não depreciável com depreciação acumulada
+E0615,TERRENO DEPRECIADO,PPI-0347196,depreciacao_acumulada,0.0,187.07,-187.07,187.07,Terreno não depreciável com depreciação acumulada
+E0616,TERRENO DEPRECIADO,PPI-0110691,depreciacao_acumulada,0.0,38.53,-38.53,38.53,Terreno não depreciável com depreciação acumulada
+E0617,TERRENO DEPRECIADO,PPI-0337518,depreciacao_acumulada,0.0,202.73,-202.73,202.73,Terreno não depreciável com depreciação acumulada
+E0618,TERRENO DEPRECIADO,PPI-0417074,depreciacao_acumulada,0.0,111.67,-111.67,111.67,Terreno não depreciável com depreciação acumulada
+E0619,TERRENO DEPRECIADO,PPI-0495738,depreciacao_acumulada,0.0,122.6,-122.6,122.6,Terreno não depreciável com depreciação acumulada
+E0620,TERRENO DEPRECIADO,PPI-0082090,depreciacao_acumulada,0.0,388.72,-388.72,388.72,Terreno não depreciável com depreciação acumulada
+E0621,TERRENO DEPRECIADO,PPI-0082750,depreciacao_acumulada,0.0,324.1,-324.1,324.1,Terreno não depreciável com depreciação acumulada
+E0622,TERRENO DEPRECIADO,PPI-0188580,depreciacao_acumulada,0.0,2811.61,-2811.61,2811.61,Terreno não depreciável com depreciação acumulada
+E0623,TERRENO DEPRECIADO,PPI-0168909,depreciacao_acumulada,0.0,282.55,-282.55,282.55,Terreno não depreciável com depreciação acumulada
+E0624,TERRENO DEPRECIADO,PPI-0294720,depreciacao_acumulada,0.0,1185.66,-1185.66,1185.66,Terreno não depreciável com depreciação acumulada
+E0625,TERRENO DEPRECIADO,PPI-0006198,depreciacao_acumulada,0.0,191.41,-191.41,191.41,Terreno não depreciável com depreciação acumulada
+E0626,TERRENO DEPRECIADO,PPI-0042561,depreciacao_acumulada,0.0,3326.17,-3326.17,3326.17,Terreno não depreciável com depreciação acumulada
+E0627,TERRENO DEPRECIADO,PPI-0223459,depreciacao_acumulada,0.0,12.35,-12.35,12.35,Terreno não depreciável com depreciação acumulada
+E0628,TERRENO DEPRECIADO,PPI-0423714,depreciacao_acumulada,0.0,22.53,-22.53,22.53,Terreno não depreciável com depreciação acumulada
+E0629,TERRENO DEPRECIADO,PPI-0328191,depreciacao_acumulada,0.0,1781.98,-1781.98,1781.98,Terreno não depreciável com depreciação acumulada
+E0630,TERRENO DEPRECIADO,PPI-0213104,depreciacao_acumulada,0.0,63.5,-63.5,63.5,Terreno não depreciável com depreciação acumulada
+E0631,TERRENO DEPRECIADO,PPI-0347716,depreciacao_acumulada,0.0,30.18,-30.18,30.18,Terreno não depreciável com depreciação acumulada
+E0632,TERRENO DEPRECIADO,PPI-0272380,depreciacao_acumulada,0.0,160.75,-160.75,160.75,Terreno não depreciável com depreciação acumulada
+E0633,TERRENO DEPRECIADO,PPI-0407630,depreciacao_acumulada,0.0,1379.14,-1379.14,1379.14,Terreno não depreciável com depreciação acumulada
+E0634,TERRENO DEPRECIADO,PPI-0450744,depreciacao_acumulada,0.0,46.88,-46.88,46.88,Terreno não depreciável com depreciação acumulada
+E0635,TERRENO DEPRECIADO,PPI-0449017,depreciacao_acumulada,0.0,21.66,-21.66,21.66,Terreno não depreciável com depreciação acumulada
+E0636,TERRENO DEPRECIADO,PPI-0005308,depreciacao_acumulada,0.0,1704.29,-1704.29,1704.29,Terreno não depreciável com depreciação acumulada
+E0637,TERRENO DEPRECIADO,PPI-0387437,depreciacao_acumulada,0.0,342.46,-342.46,342.46,Terreno não depreciável com depreciação acumulada
+E0638,TERRENO DEPRECIADO,PPI-0016213,depreciacao_acumulada,0.0,429.21,-429.21,429.21,Terreno não depreciável com depreciação acumulada
+E0639,TERRENO DEPRECIADO,PPI-0228140,depreciacao_acumulada,0.0,90.35,-90.35,90.35,Terreno não depreciável com depreciação acumulada
+E0640,TERRENO DEPRECIADO,PPI-0161198,depreciacao_acumulada,0.0,2716.41,-2716.41,2716.41,Terreno não depreciável com depreciação acumulada
+E0641,TERRENO DEPRECIADO,PPI-0198359,depreciacao_acumulada,0.0,3.87,-3.87,3.87,Terreno não depreciável com depreciação acumulada
+E0642,TERRENO DEPRECIADO,PPI-0409788,depreciacao_acumulada,0.0,18.54,-18.54,18.54,Terreno não depreciável com depreciação acumulada
+E0643,TERRENO DEPRECIADO,PPI-0492325,depreciacao_acumulada,0.0,33.01,-33.01,33.01,Terreno não depreciável com depreciação acumulada
+E0644,TERRENO DEPRECIADO,PPI-0370319,depreciacao_acumulada,0.0,46.41,-46.41,46.41,Terreno não depreciável com depreciação acumulada
+E0645,TERRENO DEPRECIADO,PPI-0244719,depreciacao_acumulada,0.0,1628.9,-1628.9,1628.9,Terreno não depreciável com depreciação acumulada
+E0646,TERRENO DEPRECIADO,PPI-0481904,depreciacao_acumulada,0.0,51.07,-51.07,51.07,Terreno não depreciável com depreciação acumulada
+E0647,TERRENO DEPRECIADO,PPI-0297508,depreciacao_acumulada,0.0,120.25,-120.25,120.25,Terreno não depreciável com depreciação acumulada
+E0648,TERRENO DEPRECIADO,PPI-0328857,depreciacao_acumulada,0.0,71.71,-71.71,71.71,Terreno não depreciável com depreciação acumulada
+E0649,TERRENO DEPRECIADO,PPI-0192352,depreciacao_acumulada,0.0,53.85,-53.85,53.85,Terreno não depreciável com depreciação acumulada
+E0650,TERRENO DEPRECIADO,PPI-0476688,depreciacao_acumulada,0.0,1282.12,-1282.12,1282.12,Terreno não depreciável com depreciação acumulada
+E0651,SEM DOCUMENTO SUPORTE,PPI-0328048,documento_suporte,LAUDO-6492903,,0.0,64928.92,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0652,SEM DOCUMENTO SUPORTE,PPI-0283890,documento_suporte,LAUDO-0434199,,0.0,97440.07,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0653,SEM DOCUMENTO SUPORTE,PPI-0259751,documento_suporte,LAUDO-7351599,,0.0,60500.94,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0654,SEM DOCUMENTO SUPORTE,PPI-0197819,documento_suporte,NF-9380429,,0.0,51850.87,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0655,SEM DOCUMENTO SUPORTE,PPI-0436337,documento_suporte,LAUDO-5400686,,0.0,22742.89,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0656,SEM DOCUMENTO SUPORTE,PPI-0177973,documento_suporte,LAUDO-8888414,,0.0,62666.81,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0657,SEM DOCUMENTO SUPORTE,PPI-0357353,documento_suporte,LAUDO-9759259,,0.0,24296.4,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0658,SEM DOCUMENTO SUPORTE,PPI-0405222,documento_suporte,LAUDO-0484199,,0.0,28048.14,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0659,SEM DOCUMENTO SUPORTE,PPI-0138117,documento_suporte,LAUDO-5185107,,0.0,29183.14,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0660,SEM DOCUMENTO SUPORTE,PPI-0220354,documento_suporte,NF-4159865,,0.0,57898.18,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0661,SEM DOCUMENTO SUPORTE,PPI-0404738,documento_suporte,NF-4253024,,0.0,39217.05,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0662,SEM DOCUMENTO SUPORTE,PPI-0316546,documento_suporte,LAUDO-3392807,,0.0,36057.45,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0663,SEM DOCUMENTO SUPORTE,PPI-0206586,documento_suporte,LAUDO-1019699,,0.0,73336.85,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0664,SEM DOCUMENTO SUPORTE,PPI-0294469,documento_suporte,LAUDO-7163677,,0.0,31225.45,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0665,SEM DOCUMENTO SUPORTE,PPI-0235178,documento_suporte,LAUDO-1732057,,0.0,33454.43,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0666,SEM DOCUMENTO SUPORTE,PPI-0232946,documento_suporte,NF-2998290,,0.0,58101.37,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0667,SEM DOCUMENTO SUPORTE,PPI-0474868,documento_suporte,LAUDO-8368539,,0.0,35970.32,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0668,SEM DOCUMENTO SUPORTE,PPI-0419561,documento_suporte,LAUDO-0840764,,0.0,21746.39,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0669,SEM DOCUMENTO SUPORTE,PPI-0081372,documento_suporte,NF-8136786,,0.0,55996.13,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0670,SEM DOCUMENTO SUPORTE,PPI-0028401,documento_suporte,LAUDO-3035279,,0.0,274894.12,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0671,SEM DOCUMENTO SUPORTE,PPI-0425344,documento_suporte,LAUDO-8389222,,0.0,303108.91,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0672,SEM DOCUMENTO SUPORTE,PPI-0360115,documento_suporte,LAUDO-6601395,,0.0,83465.48,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0673,SEM DOCUMENTO SUPORTE,PPI-0065513,documento_suporte,NF-8057672,,0.0,156802.9,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0674,SEM DOCUMENTO SUPORTE,PPI-0270670,documento_suporte,LAUDO-2094817,,0.0,33124.08,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0675,SEM DOCUMENTO SUPORTE,PPI-0256071,documento_suporte,NF-7885364,,0.0,52430.63,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0676,SEM DOCUMENTO SUPORTE,PPI-0198686,documento_suporte,NF-9167006,,0.0,34859.9,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0677,SEM DOCUMENTO SUPORTE,PPI-0447870,documento_suporte,LAUDO-1325968,,0.0,20548.51,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0678,SEM DOCUMENTO SUPORTE,PPI-0196719,documento_suporte,LAUDO-7113562,,0.0,22348.3,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0679,SEM DOCUMENTO SUPORTE,PPI-0149280,documento_suporte,LAUDO-8722152,,0.0,510559.13,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0680,SEM DOCUMENTO SUPORTE,PPI-0241187,documento_suporte,NF-0421394,,0.0,27925.93,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0681,SEM DOCUMENTO SUPORTE,PPI-0071613,documento_suporte,NF-2757772,,0.0,98007.99,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0682,SEM DOCUMENTO SUPORTE,PPI-0378023,documento_suporte,NF-1770489,,0.0,99785.35,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0683,SEM DOCUMENTO SUPORTE,PPI-0101936,documento_suporte,NF-9867548,,0.0,110036.45,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0684,SEM DOCUMENTO SUPORTE,PPI-0011780,documento_suporte,NF-2487640,,0.0,26396.83,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0685,SEM DOCUMENTO SUPORTE,PPI-0137644,documento_suporte,LAUDO-9882123,,0.0,21690.31,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0686,SEM DOCUMENTO SUPORTE,PPI-0004854,documento_suporte,LAUDO-5507709,,0.0,73072.84,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0687,SEM DOCUMENTO SUPORTE,PPI-0060437,documento_suporte,NF-4793179,,0.0,25535.27,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0688,SEM DOCUMENTO SUPORTE,PPI-0343135,documento_suporte,LAUDO-8208898,,0.0,135775.36,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0689,SEM DOCUMENTO SUPORTE,PPI-0247957,documento_suporte,LAUDO-0265064,,0.0,34937.75,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0690,SEM DOCUMENTO SUPORTE,PPI-0173693,documento_suporte,LAUDO-3308363,,0.0,168200.06,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0691,SEM DOCUMENTO SUPORTE,PPI-0107694,documento_suporte,ESC-1125247,,0.0,38281.51,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0692,SEM DOCUMENTO SUPORTE,PPI-0196974,documento_suporte,LAUDO-3526854,,0.0,31084.86,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0693,SEM DOCUMENTO SUPORTE,PPI-0385290,documento_suporte,NF-2183377,,0.0,43608.73,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0694,SEM DOCUMENTO SUPORTE,PPI-0247180,documento_suporte,NF-1407979,,0.0,76151.21,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0695,SEM DOCUMENTO SUPORTE,PPI-0251354,documento_suporte,LAUDO-6940538,,0.0,160174.94,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0696,SEM DOCUMENTO SUPORTE,PPI-0136488,documento_suporte,LAUDO-0516562,,0.0,32064.77,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0697,SEM DOCUMENTO SUPORTE,PPI-0233864,documento_suporte,LAUDO-6875560,,0.0,31248.26,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0698,SEM DOCUMENTO SUPORTE,PPI-0200520,documento_suporte,LAUDO-5834577,,0.0,212663.88,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0699,SEM DOCUMENTO SUPORTE,PPI-0484637,documento_suporte,LAUDO-5573959,,0.0,56582.36,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0700,SEM DOCUMENTO SUPORTE,PPI-0420860,documento_suporte,LAUDO-5467724,,0.0,31946.89,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0701,SEM DOCUMENTO SUPORTE,PPI-0470784,documento_suporte,LAUDO-4004156,,0.0,113357.08,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0702,SEM DOCUMENTO SUPORTE,PPI-0243036,documento_suporte,LAUDO-3266584,,0.0,78373.49,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0703,SEM DOCUMENTO SUPORTE,PPI-0291519,documento_suporte,LAUDO-3367309,,0.0,36189.13,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0704,SEM DOCUMENTO SUPORTE,PPI-0140444,documento_suporte,NF-7760536,,0.0,24179.08,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0705,SEM DOCUMENTO SUPORTE,PPI-0169821,documento_suporte,LAUDO-3819198,,0.0,234440.44,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0706,SEM DOCUMENTO SUPORTE,PPI-0032930,documento_suporte,LAUDO-0853073,,0.0,54249.86,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0707,SEM DOCUMENTO SUPORTE,PPI-0162815,documento_suporte,NF-4193079,,0.0,20826.77,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0708,SEM DOCUMENTO SUPORTE,PPI-0076541,documento_suporte,LAUDO-7141999,,0.0,359962.91,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0709,SEM DOCUMENTO SUPORTE,PPI-0222226,documento_suporte,LAUDO-5251012,,0.0,25674.91,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0710,SEM DOCUMENTO SUPORTE,PPI-0360351,documento_suporte,LAUDO-5427991,,0.0,38234.07,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0711,SEM DOCUMENTO SUPORTE,PPI-0350922,documento_suporte,LAUDO-2029682,,0.0,89157.7,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0712,SEM DOCUMENTO SUPORTE,PPI-0509525,documento_suporte,LAUDO-1755945,,0.0,143778.88,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0713,SEM DOCUMENTO SUPORTE,PPI-0084547,documento_suporte,NF-4514389,,0.0,30940.55,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0714,SEM DOCUMENTO SUPORTE,PPI-0385809,documento_suporte,NF-2492705,,0.0,34556.98,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0715,SEM DOCUMENTO SUPORTE,PPI-0390285,documento_suporte,LAUDO-8273724,,0.0,92345.14,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0716,SEM DOCUMENTO SUPORTE,PPI-0273055,documento_suporte,LAUDO-5462277,,0.0,212789.99,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0717,SEM DOCUMENTO SUPORTE,PPI-0126631,documento_suporte,LAUDO-3003884,,0.0,59476.64,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0718,SEM DOCUMENTO SUPORTE,PPI-0059697,documento_suporte,LAUDO-8569953,,0.0,27855.66,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0719,SEM DOCUMENTO SUPORTE,PPI-0123346,documento_suporte,LAUDO-3872043,,0.0,68335.4,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0720,SEM DOCUMENTO SUPORTE,PPI-0231950,documento_suporte,LAUDO-6891899,,0.0,56119.2,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0721,SEM DOCUMENTO SUPORTE,PPI-0442006,documento_suporte,LAUDO-7860279,,0.0,30061.6,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0722,SEM DOCUMENTO SUPORTE,PPI-0239319,documento_suporte,LAUDO-1178387,,0.0,32439.3,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0723,SEM DOCUMENTO SUPORTE,PPI-0092316,documento_suporte,LAUDO-4150239,,0.0,32948.16,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0724,SEM DOCUMENTO SUPORTE,PPI-0343971,documento_suporte,NF-2394121,,0.0,21543.67,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0725,SEM DOCUMENTO SUPORTE,PPI-0517524,documento_suporte,LAUDO-7303456,,0.0,103168.27,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0726,SEM DOCUMENTO SUPORTE,PPI-0504902,documento_suporte,LAUDO-0093092,,0.0,33814.68,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0727,SEM DOCUMENTO SUPORTE,PPI-0513731,documento_suporte,LAUDO-8959477,,0.0,62566.93,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0728,SEM DOCUMENTO SUPORTE,PPI-0334984,documento_suporte,LAUDO-1139541,,0.0,28651.77,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0729,SEM DOCUMENTO SUPORTE,PPI-0188138,documento_suporte,LAUDO-4700270,,0.0,20949.55,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0730,SEM DOCUMENTO SUPORTE,PPI-0371296,documento_suporte,LAUDO-2718226,,0.0,24103.37,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0731,SEM DOCUMENTO SUPORTE,PPI-0366627,documento_suporte,NF-0178579,,0.0,47925.83,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0732,SEM DOCUMENTO SUPORTE,PPI-0104252,documento_suporte,NF-7674238,,0.0,68611.56,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0733,SEM DOCUMENTO SUPORTE,PPI-0000544,documento_suporte,LAUDO-3893511,,0.0,524546.3,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0734,SEM DOCUMENTO SUPORTE,PPI-0519000,documento_suporte,LAUDO-9752000,,0.0,25315.1,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0735,SEM DOCUMENTO SUPORTE,PPI-0384088,documento_suporte,LAUDO-3991315,,0.0,26156.19,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0736,SEM DOCUMENTO SUPORTE,PPI-0177240,documento_suporte,LAUDO-6535930,,0.0,59886.38,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0737,SEM DOCUMENTO SUPORTE,PPI-0262487,documento_suporte,LAUDO-8699351,,0.0,50960.54,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0738,SEM DOCUMENTO SUPORTE,PPI-0008664,documento_suporte,LAUDO-0286801,,0.0,45884.16,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0739,SEM DOCUMENTO SUPORTE,PPI-0445346,documento_suporte,LAUDO-8148892,,0.0,111783.92,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0740,SEM DOCUMENTO SUPORTE,PPI-0350854,documento_suporte,LAUDO-7540021,,0.0,44499.8,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0741,SEM DOCUMENTO SUPORTE,PPI-0288339,documento_suporte,LAUDO-2817520,,0.0,356822.73,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0742,SEM DOCUMENTO SUPORTE,PPI-0230503,documento_suporte,LAUDO-9308979,,0.0,30424.05,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0743,SEM DOCUMENTO SUPORTE,PPI-0479440,documento_suporte,LAUDO-3903634,,0.0,49850.65,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0744,SEM DOCUMENTO SUPORTE,PPI-0183386,documento_suporte,LAUDO-2203363,,0.0,85559.61,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0745,SEM DOCUMENTO SUPORTE,PPI-0228559,documento_suporte,LAUDO-3150980,,0.0,22707.95,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0746,SEM DOCUMENTO SUPORTE,PPI-0384444,documento_suporte,LAUDO-2170450,,0.0,37185.36,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0747,SEM DOCUMENTO SUPORTE,PPI-0412100,documento_suporte,LAUDO-9567152,,0.0,20850.31,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0748,SEM DOCUMENTO SUPORTE,PPI-0513945,documento_suporte,LAUDO-5821317,,0.0,20064.59,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0749,SEM DOCUMENTO SUPORTE,PPI-0127165,documento_suporte,LAUDO-7892874,,0.0,50861.64,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0750,SEM DOCUMENTO SUPORTE,PPI-0089898,documento_suporte,LAUDO-2934424,,0.0,26200.56,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0751,SEM DOCUMENTO SUPORTE,PPI-0370802,documento_suporte,NF-0436586,,0.0,24211.16,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0752,SEM DOCUMENTO SUPORTE,PPI-0195305,documento_suporte,LAUDO-0385230,,0.0,709891.58,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0753,SEM DOCUMENTO SUPORTE,PPI-0457323,documento_suporte,LAUDO-0724451,,0.0,47214.35,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0754,SEM DOCUMENTO SUPORTE,PPI-0145065,documento_suporte,LAUDO-4268243,,0.0,24297.7,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0755,SEM DOCUMENTO SUPORTE,PPI-0291071,documento_suporte,LAUDO-4980476,,0.0,497021.45,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0756,SEM DOCUMENTO SUPORTE,PPI-0329127,documento_suporte,LAUDO-1137382,,0.0,52140.64,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0757,SEM DOCUMENTO SUPORTE,PPI-0031972,documento_suporte,NF-3396636,,0.0,41506.88,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0758,SEM DOCUMENTO SUPORTE,PPI-0379347,documento_suporte,LAUDO-4442341,,0.0,54396.22,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0759,SEM DOCUMENTO SUPORTE,PPI-0007504,documento_suporte,LAUDO-4528714,,0.0,39744.97,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0760,SEM DOCUMENTO SUPORTE,PPI-0092777,documento_suporte,LAUDO-2578074,,0.0,51303.05,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0761,SEM DOCUMENTO SUPORTE,PPI-0427370,documento_suporte,LAUDO-6332947,,0.0,244643.08,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0762,SEM DOCUMENTO SUPORTE,PPI-0065510,documento_suporte,LAUDO-6254772,,0.0,69887.09,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0763,SEM DOCUMENTO SUPORTE,PPI-0428873,documento_suporte,LAUDO-9480521,,0.0,78368.39,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0764,SEM DOCUMENTO SUPORTE,PPI-0502771,documento_suporte,LAUDO-9542442,,0.0,30457.71,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0765,SEM DOCUMENTO SUPORTE,PPI-0401147,documento_suporte,NF-3276162,,0.0,23125.14,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0766,SEM DOCUMENTO SUPORTE,PPI-0463596,documento_suporte,LAUDO-3869867,,0.0,1251991.25,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0767,SEM DOCUMENTO SUPORTE,PPI-0220118,documento_suporte,LAUDO-5136677,,0.0,2085683.84,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0768,SEM DOCUMENTO SUPORTE,PPI-0042214,documento_suporte,LAUDO-5362988,,0.0,24645.29,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0769,SEM DOCUMENTO SUPORTE,PPI-0075489,documento_suporte,LAUDO-1210744,,0.0,113008.03,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0770,SEM DOCUMENTO SUPORTE,PPI-0074616,documento_suporte,LAUDO-5572432,,0.0,289716.22,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0771,SEM DOCUMENTO SUPORTE,PPI-0243799,documento_suporte,LAUDO-4951566,,0.0,1562774.63,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0772,SEM DOCUMENTO SUPORTE,PPI-0001991,documento_suporte,LAUDO-9351514,,0.0,20841.84,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0773,SEM DOCUMENTO SUPORTE,PPI-0511686,documento_suporte,NF-8630391,,0.0,119181.23,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0774,SEM DOCUMENTO SUPORTE,PPI-0174753,documento_suporte,LAUDO-7523944,,0.0,225878.46,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0775,SEM DOCUMENTO SUPORTE,PPI-0387329,documento_suporte,NF-0903759,,0.0,20164.35,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0776,SEM DOCUMENTO SUPORTE,PPI-0184979,documento_suporte,LAUDO-3627668,,0.0,61642.82,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0777,SEM DOCUMENTO SUPORTE,PPI-0331538,documento_suporte,LAUDO-0980547,,0.0,40954.41,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0778,SEM DOCUMENTO SUPORTE,PPI-0176610,documento_suporte,LAUDO-3909541,,0.0,142504.51,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0779,SEM DOCUMENTO SUPORTE,PPI-0422803,documento_suporte,LAUDO-6328634,,0.0,42034.82,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0780,SEM DOCUMENTO SUPORTE,PPI-0410222,documento_suporte,LAUDO-5628497,,0.0,74455.2,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0781,SEM DOCUMENTO SUPORTE,PPI-0213121,documento_suporte,NF-4048578,,0.0,23550.69,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0782,SEM DOCUMENTO SUPORTE,PPI-0066342,documento_suporte,NF-3114579,,0.0,41603.15,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0783,SEM DOCUMENTO SUPORTE,PPI-0117719,documento_suporte,NF-5298059,,0.0,98781.86,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0784,SEM DOCUMENTO SUPORTE,PPI-0377758,documento_suporte,LAUDO-4655044,,0.0,33052.28,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0785,SEM DOCUMENTO SUPORTE,PPI-0447860,documento_suporte,NF-8588076,,0.0,25906.1,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0786,SEM DOCUMENTO SUPORTE,PPI-0515003,documento_suporte,LAUDO-5846105,,0.0,102662.33,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0787,SEM DOCUMENTO SUPORTE,PPI-0285283,documento_suporte,LAUDO-8213662,,0.0,34158.42,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0788,SEM DOCUMENTO SUPORTE,PPI-0321459,documento_suporte,LAUDO-5657568,,0.0,52466.99,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0789,SEM DOCUMENTO SUPORTE,PPI-0299871,documento_suporte,NF-5271814,,0.0,66719.6,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0790,SEM DOCUMENTO SUPORTE,PPI-0409715,documento_suporte,LAUDO-4087567,,0.0,39441.9,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0791,SEM DOCUMENTO SUPORTE,PPI-0099183,documento_suporte,LAUDO-7087421,,0.0,39986.27,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0792,SEM DOCUMENTO SUPORTE,PPI-0301458,documento_suporte,NF-7853632,,0.0,23072.96,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0793,SEM DOCUMENTO SUPORTE,PPI-0468081,documento_suporte,LAUDO-8053168,,0.0,93460.2,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0794,SEM DOCUMENTO SUPORTE,PPI-0139521,documento_suporte,LAUDO-9986314,,0.0,34212.68,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0795,SEM DOCUMENTO SUPORTE,PPI-0517103,documento_suporte,LAUDO-9102811,,0.0,81553.67,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0796,SEM DOCUMENTO SUPORTE,PPI-0019712,documento_suporte,LAUDO-2148218,,0.0,29412.02,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0797,SEM DOCUMENTO SUPORTE,PPI-0343296,documento_suporte,LAUDO-6675238,,0.0,22448.25,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0798,SEM DOCUMENTO SUPORTE,PPI-0464637,documento_suporte,LAUDO-6556843,,0.0,65226.35,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0799,SEM DOCUMENTO SUPORTE,PPI-0150623,documento_suporte,NF-6976177,,0.0,53184.8,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0800,SEM DOCUMENTO SUPORTE,PPI-0442484,documento_suporte,NF-5912936,,0.0,198127.94,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0801,SEM DOCUMENTO SUPORTE,PPI-0254277,documento_suporte,NF-4245089,,0.0,49547.5,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0802,SEM DOCUMENTO SUPORTE,PPI-0388749,documento_suporte,NF-3927205,,0.0,50632.29,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0803,SEM DOCUMENTO SUPORTE,PPI-0486775,documento_suporte,LAUDO-3568774,,0.0,22842.99,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0804,SEM DOCUMENTO SUPORTE,PPI-0048295,documento_suporte,LAUDO-4326402,,0.0,27172.65,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0805,SEM DOCUMENTO SUPORTE,PPI-0009893,documento_suporte,LAUDO-4953090,,0.0,443613.62,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0806,SEM DOCUMENTO SUPORTE,PPI-0030597,documento_suporte,LAUDO-4770132,,0.0,506681.75,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0807,SEM DOCUMENTO SUPORTE,PPI-0311958,documento_suporte,LAUDO-6989094,,0.0,58301.76,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0808,SEM DOCUMENTO SUPORTE,PPI-0130014,documento_suporte,LAUDO-8861200,,0.0,73723.67,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0809,SEM DOCUMENTO SUPORTE,PPI-0159567,documento_suporte,LAUDO-1143030,,0.0,36687.47,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0810,SEM DOCUMENTO SUPORTE,PPI-0039590,documento_suporte,LAUDO-8601503,,0.0,33120.67,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0811,SEM DOCUMENTO SUPORTE,PPI-0354174,documento_suporte,NF-5342030,,0.0,146140.18,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0812,SEM DOCUMENTO SUPORTE,PPI-0107680,documento_suporte,LAUDO-5185074,,0.0,511499.42,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0813,SEM DOCUMENTO SUPORTE,PPI-0082238,documento_suporte,LAUDO-8763290,,0.0,109643.0,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0814,SEM DOCUMENTO SUPORTE,PPI-0072768,documento_suporte,LAUDO-6330817,,0.0,65353.15,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0815,SEM DOCUMENTO SUPORTE,PPI-0505045,documento_suporte,NF-0275264,,0.0,27167.24,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0816,SEM DOCUMENTO SUPORTE,PPI-0033334,documento_suporte,NF-0556698,,0.0,192668.89,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0817,SEM DOCUMENTO SUPORTE,PPI-0467638,documento_suporte,LAUDO-1176128,,0.0,83981.64,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0818,SEM DOCUMENTO SUPORTE,PPI-0160997,documento_suporte,LAUDO-6008839,,0.0,57069.89,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0819,SEM DOCUMENTO SUPORTE,PPI-0062535,documento_suporte,NF-5280033,,0.0,40100.56,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0820,SEM DOCUMENTO SUPORTE,PPI-0390159,documento_suporte,LAUDO-1889428,,0.0,199868.4,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0821,SEM DOCUMENTO SUPORTE,PPI-0353108,documento_suporte,LAUDO-5565044,,0.0,20358.4,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0822,SEM DOCUMENTO SUPORTE,PPI-0184128,documento_suporte,LAUDO-3427362,,0.0,281094.77,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0823,SEM DOCUMENTO SUPORTE,PPI-0469676,documento_suporte,LAUDO-7346542,,0.0,41481.86,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0824,SEM DOCUMENTO SUPORTE,PPI-0281961,documento_suporte,LAUDO-8380189,,0.0,177046.88,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0825,SEM DOCUMENTO SUPORTE,PPI-0202455,documento_suporte,LAUDO-0950898,,0.0,99019.41,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0826,SEM DOCUMENTO SUPORTE,PPI-0202257,documento_suporte,LAUDO-5617451,,0.0,61769.13,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0827,SEM DOCUMENTO SUPORTE,PPI-0451803,documento_suporte,LAUDO-7139376,,0.0,44692.75,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0828,SEM DOCUMENTO SUPORTE,PPI-0466899,documento_suporte,LAUDO-4411337,,0.0,46978.59,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0829,SEM DOCUMENTO SUPORTE,PPI-0427906,documento_suporte,NF-2462358,,0.0,623331.14,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0830,SEM DOCUMENTO SUPORTE,PPI-0029030,documento_suporte,LAUDO-6298992,,0.0,202674.63,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0831,SEM DOCUMENTO SUPORTE,PPI-0423006,documento_suporte,NF-7853447,,0.0,47118.03,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0832,SEM DOCUMENTO SUPORTE,PPI-0168932,documento_suporte,LAUDO-1966689,,0.0,1226801.8,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0833,SEM DOCUMENTO SUPORTE,PPI-0264145,documento_suporte,LAUDO-2119221,,0.0,21080.47,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0834,SEM DOCUMENTO SUPORTE,PPI-0206687,documento_suporte,NF-8856049,,0.0,27263.58,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0835,SEM DOCUMENTO SUPORTE,PPI-0435733,documento_suporte,NF-7749544,,0.0,1105765.75,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0836,SEM DOCUMENTO SUPORTE,PPI-0207533,documento_suporte,LAUDO-2125252,,0.0,22828.75,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0837,SEM DOCUMENTO SUPORTE,PPI-0059442,documento_suporte,NF-4689340,,0.0,26808.41,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0838,SEM DOCUMENTO SUPORTE,PPI-0061059,documento_suporte,LAUDO-1829483,,0.0,1112518.14,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0839,SEM DOCUMENTO SUPORTE,PPI-0086151,documento_suporte,LAUDO-5776647,,0.0,219522.22,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0840,SEM DOCUMENTO SUPORTE,PPI-0387530,documento_suporte,LAUDO-4451368,,0.0,64157.97,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0841,SEM DOCUMENTO SUPORTE,PPI-0099676,documento_suporte,LAUDO-9430363,,0.0,25011.67,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0842,SEM DOCUMENTO SUPORTE,PPI-0502790,documento_suporte,LAUDO-8766433,,0.0,29730.54,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0843,SEM DOCUMENTO SUPORTE,PPI-0080589,documento_suporte,LAUDO-5765328,,0.0,1004208.91,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0844,SEM DOCUMENTO SUPORTE,PPI-0265370,documento_suporte,NF-7982888,,0.0,20113.83,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0845,SEM DOCUMENTO SUPORTE,PPI-0288016,documento_suporte,NF-2308531,,0.0,26202.17,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0846,SEM DOCUMENTO SUPORTE,PPI-0207513,documento_suporte,NF-6648875,,0.0,20659.76,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0847,SEM DOCUMENTO SUPORTE,PPI-0474667,documento_suporte,NF-9466574,,0.0,62309.89,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0848,SEM DOCUMENTO SUPORTE,PPI-0174116,documento_suporte,LAUDO-9786555,,0.0,219544.45,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0849,SEM DOCUMENTO SUPORTE,PPI-0393181,documento_suporte,LAUDO-8595041,,0.0,55813.04,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0850,SEM DOCUMENTO SUPORTE,PPI-0271991,documento_suporte,LAUDO-6822219,,0.0,62806.26,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0851,SEM DOCUMENTO SUPORTE,PPI-0349221,documento_suporte,NF-3160086,,0.0,22938.74,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0852,SEM DOCUMENTO SUPORTE,PPI-0102678,documento_suporte,NF-4122523,,0.0,64302.05,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0853,SEM DOCUMENTO SUPORTE,PPI-0385057,documento_suporte,LAUDO-2087647,,0.0,205783.08,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0854,SEM DOCUMENTO SUPORTE,PPI-0312723,documento_suporte,LAUDO-8444785,,0.0,57951.42,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0855,SEM DOCUMENTO SUPORTE,PPI-0385510,documento_suporte,LAUDO-8461293,,0.0,38512.5,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0856,SEM DOCUMENTO SUPORTE,PPI-0357482,documento_suporte,LAUDO-9079032,,0.0,56726.97,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0857,SEM DOCUMENTO SUPORTE,PPI-0490454,documento_suporte,NF-3947236,,0.0,33765.36,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0858,SEM DOCUMENTO SUPORTE,PPI-0427938,documento_suporte,LAUDO-1431265,,0.0,108729.57,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0859,SEM DOCUMENTO SUPORTE,PPI-0384950,documento_suporte,LAUDO-8176233,,0.0,21761.21,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0860,SEM DOCUMENTO SUPORTE,PPI-0348843,documento_suporte,LAUDO-6308944,,0.0,23832.95,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0861,SEM DOCUMENTO SUPORTE,PPI-0403972,documento_suporte,LAUDO-3549143,,0.0,42355.3,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0862,SEM DOCUMENTO SUPORTE,PPI-0353613,documento_suporte,LAUDO-2930624,,0.0,33163.69,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0863,SEM DOCUMENTO SUPORTE,PPI-0119943,documento_suporte,NF-5747122,,0.0,79258.14,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0864,SEM DOCUMENTO SUPORTE,PPI-0494035,documento_suporte,LAUDO-5236262,,0.0,28963.14,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0865,SEM DOCUMENTO SUPORTE,PPI-0098218,documento_suporte,LAUDO-9058900,,0.0,890532.36,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0866,SEM DOCUMENTO SUPORTE,PPI-0102145,documento_suporte,NF-9317462,,0.0,39847.93,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0867,SEM DOCUMENTO SUPORTE,PPI-0367797,documento_suporte,LAUDO-5145079,,0.0,64481.55,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0868,SEM DOCUMENTO SUPORTE,PPI-0317609,documento_suporte,LAUDO-6673312,,0.0,272270.31,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0869,SEM DOCUMENTO SUPORTE,PPI-0100329,documento_suporte,NF-1507379,,0.0,71606.15,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0870,SEM DOCUMENTO SUPORTE,PPI-0261382,documento_suporte,LAUDO-3418622,,0.0,59523.67,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0871,SEM DOCUMENTO SUPORTE,PPI-0453907,documento_suporte,NF-7121639,,0.0,36633.74,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0872,SEM DOCUMENTO SUPORTE,PPI-0171238,documento_suporte,LAUDO-1073912,,0.0,22910.5,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0873,SEM DOCUMENTO SUPORTE,PPI-0312777,documento_suporte,LAUDO-1839807,,0.0,124878.19,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0874,SEM DOCUMENTO SUPORTE,PPI-0155504,documento_suporte,LAUDO-4198991,,0.0,32177.67,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0875,SEM DOCUMENTO SUPORTE,PPI-0335528,documento_suporte,LAUDO-2317416,,0.0,46968.84,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0876,SEM DOCUMENTO SUPORTE,PPI-0081668,documento_suporte,LAUDO-3502844,,0.0,20683.42,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0877,SEM DOCUMENTO SUPORTE,PPI-0452488,documento_suporte,LAUDO-2687619,,0.0,21501.0,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0878,SEM DOCUMENTO SUPORTE,PPI-0489442,documento_suporte,LAUDO-3161331,,0.0,40735.74,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0879,SEM DOCUMENTO SUPORTE,PPI-0284397,documento_suporte,LAUDO-4364136,,0.0,75120.34,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0880,SEM DOCUMENTO SUPORTE,PPI-0167491,documento_suporte,LAUDO-8366911,,0.0,34267.32,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0881,SEM DOCUMENTO SUPORTE,PPI-0095199,documento_suporte,NF-5830040,,0.0,39835.18,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0882,SEM DOCUMENTO SUPORTE,PPI-0254978,documento_suporte,LAUDO-5955639,,0.0,611368.86,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0883,SEM DOCUMENTO SUPORTE,PPI-0200211,documento_suporte,LAUDO-9348008,,0.0,24709.81,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0884,SEM DOCUMENTO SUPORTE,PPI-0100985,documento_suporte,LAUDO-3483360,,0.0,22693.13,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0885,SEM DOCUMENTO SUPORTE,PPI-0170958,documento_suporte,LAUDO-1463273,,0.0,103689.28,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0886,SEM DOCUMENTO SUPORTE,PPI-0062055,documento_suporte,NF-6720820,,0.0,55276.77,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0887,SEM DOCUMENTO SUPORTE,PPI-0097219,documento_suporte,NF-8553113,,0.0,21013.38,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0888,SEM DOCUMENTO SUPORTE,PPI-0185690,documento_suporte,NF-4277113,,0.0,59097.12,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0889,SEM DOCUMENTO SUPORTE,PPI-0473021,documento_suporte,LAUDO-2570743,,0.0,60819.7,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0890,SEM DOCUMENTO SUPORTE,PPI-0044276,documento_suporte,LAUDO-6246268,,0.0,55008.47,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0891,SEM DOCUMENTO SUPORTE,PPI-0123619,documento_suporte,LAUDO-9003155,,0.0,21490.2,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0892,SEM DOCUMENTO SUPORTE,PPI-0294679,documento_suporte,LAUDO-8179692,,0.0,20019.04,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0893,SEM DOCUMENTO SUPORTE,PPI-0516548,documento_suporte,LAUDO-1654154,,0.0,551008.66,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0894,SEM DOCUMENTO SUPORTE,PPI-0491748,documento_suporte,LAUDO-2311919,,0.0,1244740.96,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0895,SEM DOCUMENTO SUPORTE,PPI-0314629,documento_suporte,LAUDO-8930862,,0.0,46799.81,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0896,SEM DOCUMENTO SUPORTE,PPI-0147604,documento_suporte,NF-3216802,,0.0,27228.29,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0897,SEM DOCUMENTO SUPORTE,PPI-0038733,documento_suporte,LAUDO-2509279,,0.0,24798.71,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0898,SEM DOCUMENTO SUPORTE,PPI-0395315,documento_suporte,LAUDO-0982196,,0.0,23891.42,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0899,SEM DOCUMENTO SUPORTE,PPI-0103751,documento_suporte,ESC-8904356,,0.0,21724.91,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0900,SEM DOCUMENTO SUPORTE,PPI-0255321,documento_suporte,LAUDO-8734897,,0.0,46000.46,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0901,SEM DOCUMENTO SUPORTE,PPI-0285677,documento_suporte,NF-7057930,,0.0,207457.69,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0902,SEM DOCUMENTO SUPORTE,PPI-0256682,documento_suporte,LAUDO-2670243,,0.0,99647.2,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0903,SEM DOCUMENTO SUPORTE,PPI-0308996,documento_suporte,LAUDO-5698978,,0.0,1979367.6,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0904,SEM DOCUMENTO SUPORTE,PPI-0488413,documento_suporte,LAUDO-2121693,,0.0,39258.49,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0905,SEM DOCUMENTO SUPORTE,PPI-0077537,documento_suporte,LAUDO-9719819,,0.0,32548.23,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0906,SEM DOCUMENTO SUPORTE,PPI-0337215,documento_suporte,LAUDO-5275466,,0.0,22358.51,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0907,SEM DOCUMENTO SUPORTE,PPI-0127938,documento_suporte,LAUDO-9719963,,0.0,79573.58,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0908,SEM DOCUMENTO SUPORTE,PPI-0210922,documento_suporte,LAUDO-8526085,,0.0,26771.86,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0909,SEM DOCUMENTO SUPORTE,PPI-0471221,documento_suporte,LAUDO-7473499,,0.0,42421.7,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0910,SEM DOCUMENTO SUPORTE,PPI-0171250,documento_suporte,LAUDO-8510769,,0.0,311885.57,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0911,SEM DOCUMENTO SUPORTE,PPI-0079778,documento_suporte,LAUDO-3163173,,0.0,506072.83,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0912,SEM DOCUMENTO SUPORTE,PPI-0231391,documento_suporte,LAUDO-3863778,,0.0,1913238.86,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0913,SEM DOCUMENTO SUPORTE,PPI-0494612,documento_suporte,LAUDO-1872020,,0.0,88465.38,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0914,SEM DOCUMENTO SUPORTE,PPI-0459583,documento_suporte,LAUDO-7233159,,0.0,53967.42,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0915,SEM DOCUMENTO SUPORTE,PPI-0356115,documento_suporte,LAUDO-4285450,,0.0,50939.56,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0916,SEM DOCUMENTO SUPORTE,PPI-0242280,documento_suporte,LAUDO-2394270,,0.0,60599.78,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0917,SEM DOCUMENTO SUPORTE,PPI-0480410,documento_suporte,LAUDO-2854501,,0.0,39724.7,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0918,SEM DOCUMENTO SUPORTE,PPI-0122687,documento_suporte,LAUDO-4038282,,0.0,154000.15,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0919,SEM DOCUMENTO SUPORTE,PPI-0190024,documento_suporte,LAUDO-6313342,,0.0,37305.1,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0920,SEM DOCUMENTO SUPORTE,PPI-0321697,documento_suporte,LAUDO-5095764,,0.0,40379.63,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0921,SEM DOCUMENTO SUPORTE,PPI-0206552,documento_suporte,NF-2241266,,0.0,325595.77,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0922,SEM DOCUMENTO SUPORTE,PPI-0161355,documento_suporte,LAUDO-5717169,,0.0,33134.17,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0923,SEM DOCUMENTO SUPORTE,PPI-0027429,documento_suporte,NF-0487335,,0.0,46215.28,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0924,SEM DOCUMENTO SUPORTE,PPI-0270809,documento_suporte,CTR-7895771,,0.0,21700.11,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0925,SEM DOCUMENTO SUPORTE,PPI-0177218,documento_suporte,LAUDO-9356565,,0.0,110828.86,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0926,SEM DOCUMENTO SUPORTE,PPI-0313611,documento_suporte,LAUDO-1701272,,0.0,444214.75,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0927,SEM DOCUMENTO SUPORTE,PPI-0137349,documento_suporte,LAUDO-7948050,,0.0,71128.66,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0928,SEM DOCUMENTO SUPORTE,PPI-0310442,documento_suporte,LAUDO-7970740,,0.0,1160173.44,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0929,SEM DOCUMENTO SUPORTE,PPI-0043836,documento_suporte,LAUDO-8185607,,0.0,25499.39,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0930,SEM DOCUMENTO SUPORTE,PPI-0285138,documento_suporte,LAUDO-0755019,,0.0,33774.77,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0931,SEM DOCUMENTO SUPORTE,PPI-0100599,documento_suporte,LAUDO-7488116,,0.0,130189.22,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0932,SEM DOCUMENTO SUPORTE,PPI-0045617,documento_suporte,NF-4634844,,0.0,22120.48,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0933,SEM DOCUMENTO SUPORTE,PPI-0358465,documento_suporte,LAUDO-1200736,,0.0,75847.37,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0934,SEM DOCUMENTO SUPORTE,PPI-0107250,documento_suporte,LAUDO-6640072,,0.0,653515.93,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0935,SEM DOCUMENTO SUPORTE,PPI-0444750,documento_suporte,NF-9508787,,0.0,117457.35,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0936,SEM DOCUMENTO SUPORTE,PPI-0085854,documento_suporte,LAUDO-2078398,,0.0,28841.5,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0937,SEM DOCUMENTO SUPORTE,PPI-0213841,documento_suporte,LAUDO-4349299,,0.0,738386.07,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0938,SEM DOCUMENTO SUPORTE,PPI-0048970,documento_suporte,LAUDO-5255438,,0.0,60919.16,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0939,SEM DOCUMENTO SUPORTE,PPI-0121532,documento_suporte,NF-1067400,,0.0,234822.58,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0940,SEM DOCUMENTO SUPORTE,PPI-0122416,documento_suporte,LAUDO-5723179,,0.0,133198.7,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0941,SEM DOCUMENTO SUPORTE,PPI-0473374,documento_suporte,NF-3628229,,0.0,81709.87,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0942,SEM DOCUMENTO SUPORTE,PPI-0448343,documento_suporte,LAUDO-6937238,,0.0,32429.92,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0943,SEM DOCUMENTO SUPORTE,PPI-0514730,documento_suporte,LAUDO-4927718,,0.0,67506.22,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0944,SEM DOCUMENTO SUPORTE,PPI-0162008,documento_suporte,LAUDO-5140819,,0.0,143089.48,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0945,SEM DOCUMENTO SUPORTE,PPI-0282738,documento_suporte,LAUDO-0484377,,0.0,42577.78,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0946,SEM DOCUMENTO SUPORTE,PPI-0263237,documento_suporte,LAUDO-2156801,,0.0,20804.35,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0947,SEM DOCUMENTO SUPORTE,PPI-0357827,documento_suporte,LAUDO-6240529,,0.0,23526.62,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0948,SEM DOCUMENTO SUPORTE,PPI-0253594,documento_suporte,LAUDO-6134808,,0.0,46493.82,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0949,SEM DOCUMENTO SUPORTE,PPI-0343937,documento_suporte,LAUDO-7808003,,0.0,478066.86,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0950,SEM DOCUMENTO SUPORTE,PPI-0038355,documento_suporte,LAUDO-3387423,,0.0,24105.59,Registro sem referência de documento (deficiência de controle; distorção apenas potencial)
+E0951,LANCAMENTO MANUAL ATIPICO,PPI-0451919,valor_custo/tipo/usuário/data,1219753.41,1000000.0,-219753.41,219753.41,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0952,LANCAMENTO MANUAL ATIPICO,PPI-0013530,valor_custo/tipo/usuário/data,182309.61,1000000.0,817690.39,817690.39,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0953,LANCAMENTO MANUAL ATIPICO,PPI-0016553,valor_custo/tipo/usuário/data,107990.97,1000000.0,892009.03,892009.03,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0954,LANCAMENTO MANUAL ATIPICO,PPI-0323498,valor_custo/tipo/usuário/data,136188.47,1000000.0,863811.53,863811.53,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0955,LANCAMENTO MANUAL ATIPICO,PPI-0369862,valor_custo/tipo/usuário/data,200758.91,1000000.0,799241.09,799241.09,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0956,LANCAMENTO MANUAL ATIPICO,PPI-0501061,valor_custo/tipo/usuário/data,131211.15,1000000.0,868788.85,868788.85,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0957,LANCAMENTO MANUAL ATIPICO,PPI-0324654,valor_custo/tipo/usuário/data,267628.11,1000000.0,732371.89,732371.89,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0958,LANCAMENTO MANUAL ATIPICO,PPI-0048617,valor_custo/tipo/usuário/data,184606.39,1000000.0,815393.61,815393.61,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0959,LANCAMENTO MANUAL ATIPICO,PPI-0153070,valor_custo/tipo/usuário/data,101256.76,1000000.0,898743.24,898743.24,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0960,LANCAMENTO MANUAL ATIPICO,PPI-0080356,valor_custo/tipo/usuário/data,545955.43,1000000.0,454044.57,454044.57,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0961,LANCAMENTO MANUAL ATIPICO,PPI-0325397,valor_custo/tipo/usuário/data,156710.21,1000000.0,843289.79,843289.79,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0962,LANCAMENTO MANUAL ATIPICO,PPI-0381626,valor_custo/tipo/usuário/data,144329.49,1000000.0,855670.51,855670.51,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0963,LANCAMENTO MANUAL ATIPICO,PPI-0030716,valor_custo/tipo/usuário/data,531070.32,1000000.0,468929.68,468929.68,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0964,LANCAMENTO MANUAL ATIPICO,PPI-0186167,valor_custo/tipo/usuário/data,1686496.1,2000000.0,313503.9,313503.9,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0965,LANCAMENTO MANUAL ATIPICO,PPI-0491468,valor_custo/tipo/usuário/data,213396.05,1000000.0,786603.95,786603.95,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0966,LANCAMENTO MANUAL ATIPICO,PPI-0407343,valor_custo/tipo/usuário/data,187746.18,1000000.0,812253.82,812253.82,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0967,LANCAMENTO MANUAL ATIPICO,PPI-0371726,valor_custo/tipo/usuário/data,305079.07,1000000.0,694920.93,694920.93,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0968,LANCAMENTO MANUAL ATIPICO,PPI-0354394,valor_custo/tipo/usuário/data,135135.16,1000000.0,864864.84,864864.84,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0969,LANCAMENTO MANUAL ATIPICO,PPI-0337849,valor_custo/tipo/usuário/data,1061688.27,1000000.0,-61688.27,61688.27,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0970,LANCAMENTO MANUAL ATIPICO,PPI-0386218,valor_custo/tipo/usuário/data,1047023.92,1000000.0,-47023.92,47023.92,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0971,LANCAMENTO MANUAL ATIPICO,PPI-0118134,valor_custo/tipo/usuário/data,132428.84,1000000.0,867571.16,867571.16,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0972,LANCAMENTO MANUAL ATIPICO,PPI-0014447,valor_custo/tipo/usuário/data,152665.35,1000000.0,847334.65,847334.65,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0973,LANCAMENTO MANUAL ATIPICO,PPI-0060826,valor_custo/tipo/usuário/data,237477.71,1000000.0,762522.29,762522.29,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0974,LANCAMENTO MANUAL ATIPICO,PPI-0122536,valor_custo/tipo/usuário/data,109098.82,1000000.0,890901.18,890901.18,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0975,LANCAMENTO MANUAL ATIPICO,PPI-0508226,valor_custo/tipo/usuário/data,148551.54,1000000.0,851448.46,851448.46,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0976,LANCAMENTO MANUAL ATIPICO,PPI-0299122,valor_custo/tipo/usuário/data,140355.25,1000000.0,859644.75,859644.75,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0977,LANCAMENTO MANUAL ATIPICO,PPI-0379085,valor_custo/tipo/usuário/data,215998.01,1000000.0,784001.99,784001.99,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0978,LANCAMENTO MANUAL ATIPICO,PPI-0474777,valor_custo/tipo/usuário/data,247372.69,1000000.0,752627.31,752627.31,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0979,LANCAMENTO MANUAL ATIPICO,PPI-0344898,valor_custo/tipo/usuário/data,138410.48,1000000.0,861589.52,861589.52,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0980,LANCAMENTO MANUAL ATIPICO,PPI-0493711,valor_custo/tipo/usuário/data,892836.46,1000000.0,107163.54,107163.54,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0981,LANCAMENTO MANUAL ATIPICO,PPI-0451024,valor_custo/tipo/usuário/data,126120.54,1000000.0,873879.46,873879.46,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0982,LANCAMENTO MANUAL ATIPICO,PPI-0031665,valor_custo/tipo/usuário/data,116325.95,1000000.0,883674.05,883674.05,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0983,LANCAMENTO MANUAL ATIPICO,PPI-0486283,valor_custo/tipo/usuário/data,540707.41,1000000.0,459292.59,459292.59,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0984,LANCAMENTO MANUAL ATIPICO,PPI-0241709,valor_custo/tipo/usuário/data,195821.03,1000000.0,804178.97,804178.97,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0985,LANCAMENTO MANUAL ATIPICO,PPI-0164422,valor_custo/tipo/usuário/data,159676.07,1000000.0,840323.93,840323.93,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0986,LANCAMENTO MANUAL ATIPICO,PPI-0228685,valor_custo/tipo/usuário/data,105674.17,1000000.0,894325.83,894325.83,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0987,LANCAMENTO MANUAL ATIPICO,PPI-0448413,valor_custo/tipo/usuário/data,194647.52,1000000.0,805352.48,805352.48,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0988,LANCAMENTO MANUAL ATIPICO,PPI-0333082,valor_custo/tipo/usuário/data,986114.71,1000000.0,13885.29,13885.29,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0989,LANCAMENTO MANUAL ATIPICO,PPI-0506627,valor_custo/tipo/usuário/data,118268.01,1000000.0,881731.99,881731.99,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0990,LANCAMENTO MANUAL ATIPICO,PPI-0308821,valor_custo/tipo/usuário/data,179602.25,1000000.0,820397.75,820397.75,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0991,LANCAMENTO MANUAL ATIPICO,PPI-0046175,valor_custo/tipo/usuário/data,351746.62,1000000.0,648253.38,648253.38,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0992,LANCAMENTO MANUAL ATIPICO,PPI-0417693,valor_custo/tipo/usuário/data,516158.86,1000000.0,483841.14,483841.14,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0993,LANCAMENTO MANUAL ATIPICO,PPI-0040404,valor_custo/tipo/usuário/data,143153.2,1000000.0,856846.8,856846.8,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0994,LANCAMENTO MANUAL ATIPICO,PPI-0145954,valor_custo/tipo/usuário/data,296304.4,1000000.0,703695.6,703695.6,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0995,LANCAMENTO MANUAL ATIPICO,PPI-0113837,valor_custo/tipo/usuário/data,127570.35,1000000.0,872429.65,872429.65,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0996,LANCAMENTO MANUAL ATIPICO,PPI-0347456,valor_custo/tipo/usuário/data,121120.9,1000000.0,878879.1,878879.1,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0997,LANCAMENTO MANUAL ATIPICO,PPI-0038581,valor_custo/tipo/usuário/data,1213906.64,1000000.0,-213906.64,213906.64,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0998,LANCAMENTO MANUAL ATIPICO,PPI-0304461,valor_custo/tipo/usuário/data,121245.37,1000000.0,878754.63,878754.63,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E0999,LANCAMENTO MANUAL ATIPICO,PPI-0101291,valor_custo/tipo/usuário/data,501373.53,1000000.0,498626.47,498626.47,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1000,LANCAMENTO MANUAL ATIPICO,PPI-0080744,valor_custo/tipo/usuário/data,169830.23,1000000.0,830169.77,830169.77,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1001,LANCAMENTO MANUAL ATIPICO,PPI-0094367,valor_custo/tipo/usuário/data,310051.56,1000000.0,689948.44,689948.44,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1002,LANCAMENTO MANUAL ATIPICO,PPI-0267478,valor_custo/tipo/usuário/data,133408.55,1000000.0,866591.45,866591.45,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1003,LANCAMENTO MANUAL ATIPICO,PPI-0086974,valor_custo/tipo/usuário/data,140393.39,1000000.0,859606.61,859606.61,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1004,LANCAMENTO MANUAL ATIPICO,PPI-0476534,valor_custo/tipo/usuário/data,133565.61,1000000.0,866434.39,866434.39,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1005,LANCAMENTO MANUAL ATIPICO,PPI-0498423,valor_custo/tipo/usuário/data,169971.4,1000000.0,830028.6,830028.6,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1006,LANCAMENTO MANUAL ATIPICO,PPI-0478668,valor_custo/tipo/usuário/data,108231.5,1000000.0,891768.5,891768.5,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1007,LANCAMENTO MANUAL ATIPICO,PPI-0201577,valor_custo/tipo/usuário/data,103010.25,1000000.0,896989.75,896989.75,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1008,LANCAMENTO MANUAL ATIPICO,PPI-0449010,valor_custo/tipo/usuário/data,331227.48,1000000.0,668772.52,668772.52,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1009,LANCAMENTO MANUAL ATIPICO,PPI-0396518,valor_custo/tipo/usuário/data,1321225.16,1000000.0,-321225.16,321225.16,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1010,LANCAMENTO MANUAL ATIPICO,PPI-0073239,valor_custo/tipo/usuário/data,177583.93,1000000.0,822416.07,822416.07,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1011,LANCAMENTO MANUAL ATIPICO,PPI-0362997,valor_custo/tipo/usuário/data,181030.19,1000000.0,818969.81,818969.81,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1012,LANCAMENTO MANUAL ATIPICO,PPI-0422049,valor_custo/tipo/usuário/data,1901461.78,2000000.0,98538.22,98538.22,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1013,LANCAMENTO MANUAL ATIPICO,PPI-0325589,valor_custo/tipo/usuário/data,690635.22,1000000.0,309364.78,309364.78,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1014,LANCAMENTO MANUAL ATIPICO,PPI-0475825,valor_custo/tipo/usuário/data,242116.79,1000000.0,757883.21,757883.21,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1015,LANCAMENTO MANUAL ATIPICO,PPI-0487782,valor_custo/tipo/usuário/data,341957.62,1000000.0,658042.38,658042.38,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1016,LANCAMENTO MANUAL ATIPICO,PPI-0183559,valor_custo/tipo/usuário/data,112841.03,1000000.0,887158.97,887158.97,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1017,LANCAMENTO MANUAL ATIPICO,PPI-0260746,valor_custo/tipo/usuário/data,151127.63,1000000.0,848872.37,848872.37,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1018,LANCAMENTO MANUAL ATIPICO,PPI-0433837,valor_custo/tipo/usuário/data,119672.89,1000000.0,880327.11,880327.11,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1019,LANCAMENTO MANUAL ATIPICO,PPI-0036539,valor_custo/tipo/usuário/data,225377.82,1000000.0,774622.18,774622.18,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1020,LANCAMENTO MANUAL ATIPICO,PPI-0202145,valor_custo/tipo/usuário/data,377887.21,1000000.0,622112.79,622112.79,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1021,LANCAMENTO MANUAL ATIPICO,PPI-0016717,valor_custo/tipo/usuário/data,112723.97,1000000.0,887276.03,887276.03,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1022,LANCAMENTO MANUAL ATIPICO,PPI-0000822,valor_custo/tipo/usuário/data,120441.57,1000000.0,879558.43,879558.43,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1023,LANCAMENTO MANUAL ATIPICO,PPI-0446769,valor_custo/tipo/usuário/data,154476.1,1000000.0,845523.9,845523.9,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1024,LANCAMENTO MANUAL ATIPICO,PPI-0045051,valor_custo/tipo/usuário/data,104381.2,1000000.0,895618.8,895618.8,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1025,LANCAMENTO MANUAL ATIPICO,PPI-0461041,valor_custo/tipo/usuário/data,135874.17,1000000.0,864125.83,864125.83,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1026,LANCAMENTO MANUAL ATIPICO,PPI-0519787,valor_custo/tipo/usuário/data,123970.32,1000000.0,876029.68,876029.68,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1027,LANCAMENTO MANUAL ATIPICO,PPI-0411328,valor_custo/tipo/usuário/data,180857.17,1000000.0,819142.83,819142.83,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1028,LANCAMENTO MANUAL ATIPICO,PPI-0074106,valor_custo/tipo/usuário/data,216307.07,1000000.0,783692.93,783692.93,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1029,LANCAMENTO MANUAL ATIPICO,PPI-0065535,valor_custo/tipo/usuário/data,144086.19,1000000.0,855913.81,855913.81,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1030,LANCAMENTO MANUAL ATIPICO,PPI-0418521,valor_custo/tipo/usuário/data,107743.01,1000000.0,892256.99,892256.99,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1031,LANCAMENTO MANUAL ATIPICO,PPI-0294229,valor_custo/tipo/usuário/data,1258015.22,1000000.0,-258015.22,258015.22,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1032,LANCAMENTO MANUAL ATIPICO,PPI-0181745,valor_custo/tipo/usuário/data,197856.65,1000000.0,802143.35,802143.35,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1033,LANCAMENTO MANUAL ATIPICO,PPI-0271836,valor_custo/tipo/usuário/data,698869.13,1000000.0,301130.87,301130.87,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1034,LANCAMENTO MANUAL ATIPICO,PPI-0205204,valor_custo/tipo/usuário/data,372664.69,1000000.0,627335.31,627335.31,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1035,LANCAMENTO MANUAL ATIPICO,PPI-0282603,valor_custo/tipo/usuário/data,166237.29,1000000.0,833762.71,833762.71,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1036,LANCAMENTO MANUAL ATIPICO,PPI-0054004,valor_custo/tipo/usuário/data,296987.8,1000000.0,703012.2,703012.2,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1037,LANCAMENTO MANUAL ATIPICO,PPI-0332686,valor_custo/tipo/usuário/data,146122.29,1000000.0,853877.71,853877.71,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1038,LANCAMENTO MANUAL ATIPICO,PPI-0511834,valor_custo/tipo/usuário/data,151109.91,1000000.0,848890.09,848890.09,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1039,LANCAMENTO MANUAL ATIPICO,PPI-0052663,valor_custo/tipo/usuário/data,3567074.11,4000000.0,432925.89,432925.89,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
+E1040,LANCAMENTO MANUAL ATIPICO,PPI-0443214,valor_custo/tipo/usuário/data,142135.8,1000000.0,857864.2,857864.2,"Manual, usuário fora do cadastro (U099), domingo/31-12, valor redondo"
