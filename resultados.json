@@ -1,0 +1,254 @@
+{
+  "materialidade": {
+    "global_": 50880050.0,
+    "execucao": 38160037.5,
+    "trivial": 2544002.5
+  },
+  "conciliacao": {
+    "linhas": 520150,
+    "vcl_base": 20448164979.64,
+    "saldo_dfp": 20381666000.0,
+    "diferenca": 66498979.64,
+    "efeito_erros_inseridos": 66498979.59,
+    "residuo": 0.05
+  },
+  "identidade_vcl_violacoes": 0,
+  "testes_populacao": [
+    {
+      "tipo_erro": "DUPLICIDADE",
+      "inseridos": 150,
+      "sinalizados_pelo_teste": 150,
+      "verdadeiros_positivos": 150,
+      "falsos_positivos": 0,
+      "nao_detectados": 0,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "CORTE (ATIVACAO EM 2026)",
+      "inseridos": 120,
+      "sinalizados_pelo_teste": 120,
+      "verdadeiros_positivos": 120,
+      "falsos_positivos": 0,
+      "nao_detectados": 0,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "BAIXADO COM SALDO",
+      "inseridos": 80,
+      "sinalizados_pelo_teste": 80,
+      "verdadeiros_positivos": 80,
+      "falsos_positivos": 0,
+      "nao_detectados": 0,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "VCL NEGATIVO",
+      "inseridos": 60,
+      "sinalizados_pelo_teste": 60,
+      "verdadeiros_positivos": 60,
+      "falsos_positivos": 0,
+      "nao_detectados": 0,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "TERRENO DEPRECIADO",
+      "inseridos": 40,
+      "sinalizados_pelo_teste": 40,
+      "verdadeiros_positivos": 40,
+      "falsos_positivos": 0,
+      "nao_detectados": 0,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "SEM DOCUMENTO SUPORTE",
+      "inseridos": 300,
+      "sinalizados_pelo_teste": 300,
+      "verdadeiros_positivos": 300,
+      "falsos_positivos": 0,
+      "nao_detectados": 0,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "DEPRECIACAO INCORRETA",
+      "inseridos": 200,
+      "sinalizados_pelo_teste": 383,
+      "verdadeiros_positivos": 200,
+      "falsos_positivos": 183,
+      "nao_detectados": 0,
+      "taxa_deteccao": 1.0
+    },
+    {
+      "tipo_erro": "LANCAMENTO MANUAL ATIPICO",
+      "inseridos": 90,
+      "sinalizados_pelo_teste": 90,
+      "verdadeiros_positivos": 90,
+      "falsos_positivos": 0,
+      "nao_detectados": 0,
+      "taxa_deteccao": 1.0
+    }
+  ],
+  "amostragem": {
+    "metodo": "MUS (unidade monetária), seleção sistemática com início aleatório",
+    "RF": 3.0,
+    "confianca": 0.95,
+    "erro_tolerável": 38160037.5,
+    "populacao_testada_mus": 20161940003.18,
+    "intervalo_amostral": 12720012.5,
+    "tamanho_calculado": 1586,
+    "itens_selecionados_mus": 1570,
+    "itens_chave_100pct": 4,
+    "itens_negativos_100pct": 60,
+    "semente": 231004987,
+    "inicio_aleatorio": 1588883.6
+  },
+  "resultado_amostra": {
+    "itens_com_excecao": 18,
+    "itens_com_distorcao_quantificada": 10,
+    "distorcao_na_amostra": 3040314.01,
+    "distorcao_projetada": 39488929.2,
+    "precisao_basica": 38160037.5,
+    "limite_superior_stringer": 100530747.24,
+    "erro_tolerável": 38160037.5,
+    "conclusao_estatistica": "LIMITE SUPERIOR > ERRO TOLERÁVEL: população NÃO aceita sem ajuste/ampliação"
+  },
+  "itens_chave": {
+    "qtd": 4,
+    "vcl": 288114244.4,
+    "excecoes": 0,
+    "distorcao": 0.0
+  },
+  "itens_negativos": {
+    "qtd": 60,
+    "vcl": -1889267.94
+  },
+  "amostra_x_erros": [
+    {
+      "tipo_erro": "DUPLICIDADE",
+      "inseridos": 150,
+      "selecionados_na_amostra_mus": 1,
+      "itens_chave_100pct": 0
+    },
+    {
+      "tipo_erro": "CORTE (ATIVACAO EM 2026)",
+      "inseridos": 120,
+      "selecionados_na_amostra_mus": 0,
+      "itens_chave_100pct": 0
+    },
+    {
+      "tipo_erro": "DEPRECIACAO INCORRETA",
+      "inseridos": 200,
+      "selecionados_na_amostra_mus": 0,
+      "itens_chave_100pct": 0
+    },
+    {
+      "tipo_erro": "BAIXADO COM SALDO",
+      "inseridos": 80,
+      "selecionados_na_amostra_mus": 2,
+      "itens_chave_100pct": 0
+    },
+    {
+      "tipo_erro": "VCL NEGATIVO",
+      "inseridos": 60,
+      "selecionados_na_amostra_mus": 0,
+      "itens_chave_100pct": 0
+    },
+    {
+      "tipo_erro": "TERRENO DEPRECIADO",
+      "inseridos": 40,
+      "selecionados_na_amostra_mus": 0,
+      "itens_chave_100pct": 0
+    },
+    {
+      "tipo_erro": "SEM DOCUMENTO SUPORTE",
+      "inseridos": 300,
+      "selecionados_na_amostra_mus": 6,
+      "itens_chave_100pct": 0
+    },
+    {
+      "tipo_erro": "LANCAMENTO MANUAL ATIPICO",
+      "inseridos": 90,
+      "selecionados_na_amostra_mus": 9,
+      "itens_chave_100pct": 0
+    }
+  ],
+  "mapa_distorcoes": [
+    {
+      "tipo_erro": "DUPLICIDADE",
+      "qtd": 150,
+      "distorcao_potencial_total": 22927174.92,
+      "efeito_sobre_saldo_da_base": 22927174.92
+    },
+    {
+      "tipo_erro": "CORTE (ATIVACAO EM 2026)",
+      "qtd": 120,
+      "distorcao_potencial_total": 10090343.27,
+      "efeito_sobre_saldo_da_base": 0.0
+    },
+    {
+      "tipo_erro": "DEPRECIACAO INCORRETA",
+      "qtd": 200,
+      "distorcao_potencial_total": 134594.16,
+      "efeito_sobre_saldo_da_base": 5410.58
+    },
+    {
+      "tipo_erro": "BAIXADO COM SALDO",
+      "qtd": 80,
+      "distorcao_potencial_total": 14084610.27,
+      "efeito_sobre_saldo_da_base": 0.0
+    },
+    {
+      "tipo_erro": "VCL NEGATIVO",
+      "qtd": 60,
+      "distorcao_potencial_total": 18492927.06,
+      "efeito_sobre_saldo_da_base": -18492927.06
+    },
+    {
+      "tipo_erro": "TERRENO DEPRECIADO",
+      "qtd": 40,
+      "distorcao_potencial_total": 23071.29,
+      "efeito_sobre_saldo_da_base": -23071.29
+    },
+    {
+      "tipo_erro": "SEM DOCUMENTO SUPORTE",
+      "qtd": 300,
+      "distorcao_potencial_total": 43733663.35,
+      "efeito_sobre_saldo_da_base": 0.0
+    },
+    {
+      "tipo_erro": "LANCAMENTO MANUAL ATIPICO",
+      "qtd": 90,
+      "distorcao_potencial_total": 64325617.68,
+      "efeito_sobre_saldo_da_base": 62082392.44
+    }
+  ],
+  "distorcao_potencial_total": 173812002.0,
+  "distorcao_quantificada_monetaria": 65752720.97,
+  "benford_mad": 0.00037,
+  "analiticos": {
+    "dep_exercicio_base": 247566771.1,
+    "dep_esperada_recalculada": 249091161.25,
+    "dep_dfp_propriedades": 459233000.0,
+    "razao_base_dfp": 0.5391,
+    "var_ppi_2025_2024": -0.01539,
+    "roll_forward": {
+      "saldo_ini": 20700140,
+      "adicoes_liquidas": 83861,
+      "baixas": -402335,
+      "saldo_fim": 20381666
+    }
+  },
+  "perfil": {
+    "vcl_por_classe": {
+      "Benfeitorias e acabamentos": 1726044872.93,
+      "Direito de uso": 38039581.29,
+      "Edificações": 14468536297.4,
+      "Equipamentos e sistemas": 469650289.38,
+      "Instalações": 3067528167.99,
+      "Obras em andamento": 607209801.7,
+      "Terreno": 71155968.95
+    },
+    "n_shoppings": 45,
+    "vcl_max": 149694528.35,
+    "mediana": 3789.41
+  }
+}
