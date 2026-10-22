@@ -31,7 +31,7 @@ ALLOS S.A. (ALOS3). Antes: Aliansce Sonae Shopping Centers S.A. (ALSO3, nome de 
 
 A base sintética (520.150 linhas) é grande para o limite de upload do GitHub (25 MB pelo navegador). Por isso, conforme o enunciado, ela está disponível por link de download:
 
-**[COLE AQUI O SEU LINK]**
+**(https://docs.google.com/spreadsheets/d/12iMWTPEbafmdAmDSBqA2m5j6MGhMTB54SD_PMXB4CcA/edit?usp=sharing)**
 
 - Conferência: a soma da coluna `valor_contabil_liquido` é **R$ 20.448.164.979,64**.
 - Os dados são **sintéticos**. Não são registros reais da Allos.
