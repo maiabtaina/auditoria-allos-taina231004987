@@ -16,7 +16,7 @@ ALLOS S.A. (ALOS3). Antes: Aliansce Sonae Shopping Centers S.A. (ALSO3, nome de 
 | Pasta/arquivo | Conteúdo |
 |---|---|
 | `dossie/Dossie_Auditoria_ALLOS_2025_matricula_231004987.pdf` | Dossiê com os 27 papéis de trabalho (PT EC e NBC TA 200 a 600), programas de auditoria por ciclo (Anexo A), erros inseridos x exceções (Anexo B), base simulada e dicionário (Anexo C) e conclusão integrada |
-| **Base simulada [(link de download)](https://docs.google.com/spreadsheets/d/12iMWTPEbafmdAmDSBqA2m5j6MGhMTB54SD_PMXB4CcA/edit?usp=sharing)** | **520.150 linhas, 17 colunas: [[COLE AQUI O SEU LINK]](https://docs.google.com/spreadsheets/d/12iMWTPEbafmdAmDSBqA2m5j6MGhMTB54SD_PMXB4CcA/edit?usp=sharing)** (fora do repositório por causa do limite de tamanho do GitHub) |
+| **Base simulada [(link de download)](https://docs.google.com/spreadsheets/d/12iMWTPEbafmdAmDSBqA2m5j6MGhMTB54SD_PMXB4CcA/edit?usp=sharing)** | **520.150 linhas, 17 colunas: [(https://docs.google.com/spreadsheets/d/12iMWTPEbafmdAmDSBqA2m5j6MGhMTB54SD_PMXB4CcA/edit?usp=sharing)]]** (fora do repositório por causa do limite de tamanho do GitHub) |
 | `dados/dicionario_de_variaveis.md` | Dicionário das 17 variáveis da base |
 | `dados/registro_erros_inseridos.csv` | Registro dos 1.040 erros inseridos de propósito |
 | `dados/amostra_primeiras_1000_linhas.csv` | Prévia das 1.000 primeiras linhas da base |
